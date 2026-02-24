@@ -1,0 +1,441 @@
+[
+  {
+    "id": "2026111579704766823",
+    "text": "Did @FilmThePoliceLA see this?",
+    "createdAt": "Tue Feb 24 01:46:58 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "2026111579704766823",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "quotedTweet": {
+      "id": "2026065265201475765",
+      "text": "NYPD officers getting hit with snowballs in Washington Square Park this afternoon https://t.co/uUekDVmIGT",
+      "createdAt": "Mon Feb 23 22:42:56 +0000 2026",
+      "replyCount": 539,
+      "retweetCount": 655,
+      "likeCount": 4930,
+      "conversationId": "2026065265201475765",
+      "author": {
+        "username": "BGOnTheScene",
+        "name": "Brendan Gutenschwager"
+      },
+      "authorId": "23951440",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2026065195496361984/img/Z_N6rxCk0l1Ibjog.jpg",
+          "width": 1920,
+          "height": 1080,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2026065195496361984/img/Z_N6rxCk0l1Ibjog.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2026065195496361984/vid/avc1/1920x1080/ecAnu1A4K7RXIzqr.mp4?tag=21",
+          "durationMs": 73951
+        }
+      ]
+    }
+  },
+  {
+    "id": "2026084400115679314",
+    "text": "This looks like Highway 88.",
+    "createdAt": "Mon Feb 23 23:58:58 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "2026084400115679314",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "quotedTweet": {
+      "id": "2025978972673384552",
+      "text": "Loader-mounted snow blowers. https://t.co/poVIpIWKQv",
+      "createdAt": "Mon Feb 23 17:00:02 +0000 2026",
+      "replyCount": 5,
+      "retweetCount": 13,
+      "likeCount": 195,
+      "conversationId": "2025978972673384552",
+      "author": {
+        "username": "MachinePix",
+        "name": "MachinePix"
+      },
+      "authorId": "2444425802",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2024853715375562753/img/IBI-OIUhXDmkqF0M.jpg",
+          "width": 720,
+          "height": 1280,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024853715375562753/img/IBI-OIUhXDmkqF0M.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2024853715375562753/vid/avc1/720x1280/AlBNKNE4Mk0BoJlQ.mp4?tag=21",
+          "durationMs": 74122
+        }
+      ]
+    }
+  },
+  {
+    "id": "2026082915571167242",
+    "text": "RT @dahvnyc: Parks finally pays a price for its practice of driving on sidewalks",
+    "createdAt": "Mon Feb 23 23:53:04 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 4,
+    "likeCount": 0,
+    "conversationId": "2026082915571167242",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2026022408696844620",
+    "text": "RT @wherobots: Geospatial data is shedding the \"opaque blob\" status. 🌍 Native support in Apache Parquet means geometry is now a first-class…",
+    "createdAt": "Mon Feb 23 19:52:38 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 2,
+    "likeCount": 0,
+    "conversationId": "2026022408696844620",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2026008971136676247",
+    "text": "RT @sahrasulaiman: Last July, @LAPDHQ descended on a peaceful vigil in a historically Black community, assaulted mourners, and  arrested Sh…",
+    "createdAt": "Mon Feb 23 18:59:14 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 10,
+    "likeCount": 0,
+    "conversationId": "2026008971136676247",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2026007998305579400",
+    "text": "RT @MWRTA_Admn: Great hat!",
+    "createdAt": "Mon Feb 23 18:55:22 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 2,
+    "likeCount": 0,
+    "conversationId": "2026007998305579400",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025714672968802787",
+    "text": "RT @klara_sjo: The Big Apple is drowning in shit. \n\nWhat a time to be alive. https://t.co/zj7SiWLcZF",
+    "createdAt": "Sun Feb 22 23:29:48 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 16,
+    "likeCount": 0,
+    "conversationId": "2025714672968802787",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2025054885385822208/img/Dde-_VuR7wDEdR6C.jpg",
+        "width": 720,
+        "height": 1280,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2025054885385822208/img/Dde-_VuR7wDEdR6C.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2025054885385822208/vid/avc1/720x1280/dAMg1-SNF0xfyi92.mp4?tag=21",
+        "durationMs": 68405
+      }
+    ]
+  },
+  {
+    "id": "2025698343675216348",
+    "text": "RT @dinosven: I’ve begun a project to create web pages with basic information on most plesiosaur taxa. This is part of a  broader effort to…",
+    "createdAt": "Sun Feb 22 22:24:55 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 11,
+    "likeCount": 0,
+    "conversationId": "2025698343675216348",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025693013570425080",
+    "text": "RI hasn’t been great about snow storms by any means this year but this definitely is good policy — especially in a major storm.",
+    "createdAt": "Sun Feb 22 22:03:44 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "2025693013570425080",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "quotedTweet": {
+      "id": "2025648772936568839",
+      "text": "Tonight, I’m also issuing a commercial travel ban starting at 5 p.m. and a motor vehicle ban starting at 7:00 p.m. on all roads until further notice. Travel conditions will be dangerous to impossible, with little to no visibility. Stay safe.",
+      "createdAt": "Sun Feb 22 19:07:56 +0000 2026",
+      "replyCount": 7,
+      "retweetCount": 27,
+      "likeCount": 64,
+      "conversationId": "2025648769530802243",
+      "inReplyToStatusId": "2025648769530802243",
+      "author": {
+        "username": "GovDanMcKee",
+        "name": "Governor Dan McKee"
+      },
+      "authorId": "158238919"
+    }
+  },
+  {
+    "id": "2025692685148000489",
+    "text": "RT @hecubian_devil: Imagine if we put $650bn into this instead of LLMs",
+    "createdAt": "Sun Feb 22 22:02:26 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 563,
+    "likeCount": 0,
+    "conversationId": "2025692685148000489",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025692139028660657",
+    "text": "I went looking for this tweet and I found it!",
+    "createdAt": "Sun Feb 22 22:00:16 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "2025692139028660657",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "quotedTweet": {
+      "id": "2025635271224533002",
+      "text": "@Cj01J @forallcurious That's not how science works. Read a book",
+      "createdAt": "Sun Feb 22 18:14:17 +0000 2026",
+      "replyCount": 2,
+      "retweetCount": 0,
+      "likeCount": 9,
+      "conversationId": "2025550985561887155",
+      "inReplyToStatusId": "2025634514303684941",
+      "author": {
+        "username": "Robinhoodett",
+        "name": "jen"
+      },
+      "authorId": "1670525494129721345"
+    }
+  },
+  {
+    "id": "2025618457497325687",
+    "text": "RT @volvoshine: Who do we to cyberbully to get the Riverwalk Connected from Latuide on the River to Flow Brickell 👀🙄\n#Miami\n@Damianpardo8 @…",
+    "createdAt": "Sun Feb 22 17:07:29 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 18,
+    "likeCount": 0,
+    "conversationId": "2025618457497325687",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025616354309816612",
+    "text": "RT @berkie1: \"40% of the cost of a new home is gov't regulations. If you require min lot sizes &amp; large setbacks, you have to put big houses…",
+    "createdAt": "Sun Feb 22 16:59:07 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 59,
+    "likeCount": 0,
+    "conversationId": "2025616354309816612",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025610778267816026",
+    "text": "RT @BeSaintly: _ https://t.co/VmjrToFGXM",
+    "createdAt": "Sun Feb 22 16:36:58 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 705,
+    "likeCount": 0,
+    "conversationId": "2025610778267816026",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsuO8_XQAA8lmJ.jpg",
+        "width": 1206,
+        "height": 1477,
+        "previewUrl": "https://pbs.twimg.com/media/HBsuO8_XQAA8lmJ.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2025602351030276361",
+    "text": "https://t.co/80t51IWr2C",
+    "createdAt": "Sun Feb 22 16:03:29 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "2025602351030276361",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "quotedTweet": {
+      "id": "2025073908559331561",
+      "text": "does anyone else have that one internet friend that disappeared off the face of the earth and you never heard from them again",
+      "createdAt": "Sat Feb 21 05:03:38 +0000 2026",
+      "replyCount": 1213,
+      "retweetCount": 5854,
+      "likeCount": 47063,
+      "conversationId": "2025073908559331561",
+      "author": {
+        "username": "Penguxn",
+        "name": "Pengu"
+      },
+      "authorId": "1624155670739136516"
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBximlpbgAAFvsk.jpg",
+        "width": 400,
+        "height": 400,
+        "previewUrl": "https://pbs.twimg.com/media/HBximlpbgAAFvsk.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2025602038412071154",
+    "text": "RT @mcmansionhell: literally the central tragedy of my adolescence",
+    "createdAt": "Sun Feb 22 16:02:14 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 7,
+    "likeCount": 0,
+    "conversationId": "2025602038412071154",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025350099355009302",
+    "text": "RT @Shenanigans_ATL: Why is this allowed? There a 1000s of people using this sidewalk @sfmta_muni @sf311 1860 Jefferson St https://t.co/GsB…",
+    "createdAt": "Sat Feb 21 23:21:07 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 0,
+    "conversationId": "2025350099355009302",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025266764318474691",
+    "text": "RT @Shenanigans_ATL: 2 weeks ago they were using drones because of the super bowl. Now we're back to playing frogger with innocent people.",
+    "createdAt": "Sat Feb 21 17:49:58 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 0,
+    "conversationId": "2025266764318474691",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006"
+  },
+  {
+    "id": "2025036439948575220",
+    "text": "Did @FilmThePoliceLA see this?",
+    "createdAt": "Sat Feb 21 02:34:45 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "2025036439948575220",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "quotedTweet": {
+      "id": "2012670678609145903",
+      "text": "On Thursday evening, January 15, 2026, a food delivery robot was completely destroyed after getting stuck on railroad tracks in Miami and being struck by a Brightline passenger train. Fortunately, no one was injured in the incident.\n\n#Miami #Brightline #RobotFail #TechNews https://t.co/tnuHTyXLXK",
+      "createdAt": "Sat Jan 17 23:37:38 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 39,
+      "likeCount": 53,
+      "conversationId": "2012670678609145903",
+      "author": {
+        "username": "SANewsUSA",
+        "name": "SA News USA"
+      },
+      "authorId": "1957523117280251904",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2012670624422846465/img/mpP3G_7GyHuxULB4.jpg",
+          "width": 720,
+          "height": 1280,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2012670624422846465/img/mpP3G_7GyHuxULB4.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2012670624422846465/vid/avc1/720x1280/GM2gkxjc-vzlgZSC.mp4?tag=21",
+          "durationMs": 13533
+        }
+      ]
+    }
+  },
+  {
+    "id": "2025034660670284274",
+    "text": "RT @meth_slonker: @SeanMcCarthyCom https://t.co/rCkr0MT6ln",
+    "createdAt": "Sat Feb 21 02:27:41 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 0,
+    "conversationId": "2025034660670284274",
+    "author": {
+      "username": "KNF100",
+      "name": "𝕂ℕ𝔽 𝕀𝕆𝕆 ☎️ ☎️ ☎️ ☎️"
+    },
+    "authorId": "90561006",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024964836564893697/img/MuFYlqMME-kBA0f_.jpg",
+        "width": 640,
+        "height": 360,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024964836564893697/img/MuFYlqMME-kBA0f_.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024964836564893697/vid/avc1/640x360/pVTPjN9cnsrDS2dI.mp4?tag=21",
+        "durationMs": 42900
+      }
+    ]
+  }
+]

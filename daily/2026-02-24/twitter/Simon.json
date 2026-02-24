@@ -1,0 +1,505 @@
+[
+  {
+    "id": "2024479205849715014",
+    "text": "The next overnight $100B company  is a videogame company that mixes Factorio with Gas Town. We will do things by playing a videogame. It will be called \"Ready Agent One\".",
+    "createdAt": "Thu Feb 19 13:40:30 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "2024479205849715014",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269"
+  },
+  {
+    "id": "2020857597255880824",
+    "text": "Brilliant! We will need some form of this for communications - WhatsApp, Email, etc - soon.",
+    "createdAt": "Mon Feb 09 13:49:31 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "2020857597255880824",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "2020252149117313349",
+      "text": "AI eliminated the natural barrier to entry that let OSS projects trust by default. People told me to do something rather than just complain. So I did. Introducing Vouch: explicit trust management for open source. Trusted people vouch for others. https://t.co/6mY8yIcvGx\n\nThe idea is simple: Unvouched users can't contribute to your projects. Very bad users can be explicitly \"denounced\", effectively blocked. Users are vouched or denounced by contributors via GitHub issue or discussion comments or via the CLI.\n\nIntegration into GitHub is as simple as adopting the published GitHub actions. Done. Additionally, the system itself is generic to forges and not tied to GitHub in any way.\n\nWho and how someone is vouched or denounced is up to the project. I'm not the value police for the world. Decide for yourself what works for your project and your community.\n\nAll of the data is stored in a single flat text file in your own repository that can be easily parsed by standard POSIX tools or mainstream languages with zero dependencies.\n\nMy hope is that eventually projects can form a web of trust so that projects with shared values can share their vouch lists with each other (automatically) so vouching or denouncing a person in one project has ripple effects through to other projects.\n\nThe idea is based on the already successful system used by @badlogicgames in Pi. Thank you Mario.\n\nGhostty will be integrating this imminently.",
+      "createdAt": "Sat Feb 07 21:43:41 +0000 2026",
+      "replyCount": 222,
+      "retweetCount": 364,
+      "likeCount": 3963,
+      "conversationId": "2020252149117313349",
+      "author": {
+        "username": "mitchellh",
+        "name": "Mitchell Hashimoto"
+      },
+      "authorId": "12819682"
+    }
+  },
+  {
+    "id": "2010474282565214551",
+    "text": "RIP",
+    "createdAt": "Sun Jan 11 22:09:56 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 2,
+    "conversationId": "2010474282565214551",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "2010231427246469546",
+      "text": "13 years. RIP my darling boy. https://t.co/BV0IcZzP7T",
+      "createdAt": "Sun Jan 11 06:04:55 +0000 2026",
+      "replyCount": 525,
+      "retweetCount": 2034,
+      "likeCount": 20787,
+      "conversationId": "2010231427246469546",
+      "author": {
+        "username": "beadmomsw",
+        "name": "Susan Swartz"
+      },
+      "authorId": "19580770",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G-XG1GXWYAAGkNO.jpg",
+          "width": 683,
+          "height": 1024,
+          "previewUrl": "https://pbs.twimg.com/media/G-XG1GXWYAAGkNO.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2009994918094328179",
+    "text": "Few realize that Google (Alphabet) is the undisputed railway baron of the 21st century. Optic cables instead of steel rails.",
+    "createdAt": "Sat Jan 10 14:25:07 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "2009994918094328179",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269"
+  },
+  {
+    "id": "1983628606795608507",
+    "text": "You're smart, Robert, but here it seems that you've got a Tesla fever. 12,000 workers, multiplied by a few times, is something that the Chinese don't have? Really? What about 12M workers instead, or 120M? The main argument for being bullish about Tesla is not a good one, IMNSHO.",
+    "createdAt": "Wed Oct 29 20:14:48 +0000 2025",
+    "replyCount": 1,
+    "retweetCount": 1,
+    "likeCount": 3,
+    "conversationId": "1983628606795608507",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1983568621684310269",
+      "text": "I've been visiting as many robotics companies as I can in San Francisco.  And elsewhere (next week I'm heading to Abu Dhabi to meet technologists who are doing the same there).\n\nUnderstanding how robots are trained is leading me to a new thesis: \n\nTesla will be able to do everything that @1x_tech showed, and much much more, but completely autonomously, by the end of next year. \n\nWhy? \n\nThe 12,000 workers at Tesla's Fremont Factory (it's first factory, and where Optimus is being designed). \n\nRemember the workers who used to drive cars from the end of the factory line to where they get loaded on carriers to be delivered to customers around the United States? \n\nWhy haven't we seen any of them say \"I got laid off today?\"\n\nOr try to organize us to be anti robots or anti AI? \n\nBecause they are doing what @1x_tech's first customers are doing: cleaning dishes, watering plants, doing laundry, but more importantly, helping teams working with others on the factory floor capture the data from workers on the factory floor, among other tasks. \n\nEvery robot company tells me they don't have enough data to \"go generalized.\" \n\nAnd this data collection doesn't need a highly skilled AI genius with a PhD from Carnegie Mellon. It just needs an organization of people who are doing the same kinds of tasks over and over, while being watched by a camera, or teleoperating a robot, or wearing sensors on their fingers as they do something more advanced than picking up a trash can. \n\nAnd then that data must be tagged properly. This is a skill that requires a little bit of human intelligence, but not much. At @1x_tech's launch party the other night I met a guy who runs a company that does that kind of tagging. \n\nIt's not work that requires a whole lot of human intelligence. You need to bring a video, captured on the factory floor, into a computer screen, and then you need to manually tag everything that's happening in the video. A multi-modal AI does most of that work, so you just need to check what it perceived carefully and maybe add some more details. Like if it says a trash can was full, but it perceived that a little wrong, you fix it to say, \"actually that's 7/8ths full.\" Accuracy matters, not smartness on the behalf of the human doing that work. \n\nRemember the guy I shared with you last week who is building a blackberry-picking robot at @fdotinc in San Francisco? That's exactly what he is doing. A lot of what he is doing to build the computer vision system that sees blackberries, and understands them, is just mind-numbing repetition. He's picking up blackberries with his robot over and over and over and over. And then tagging anything his AI systems get wrong.\n\nThat's to build a robot that does ONE THING. Pick blackberries off of a bush and put them into a box. \n\nThe thing is Elon has 12,000 people who are doing the same in the factory. One guy is connecting wires under the dash in a new Tesla. He does that every 45 seconds. All day long. I watched him work at Tesla's factory. And most workers building a car are doing something similar. \n\nSomeone has to work with that guy to put a camera on his face, or sensors on his hands, to understand that task. But it is the worker who has value here in training the robot. \n\nTesla has the worker. Figure does too, but in a far less efficient way (it had to partner with other companies to do the same) and 1x doesn't have either, so has to get people to buy the robot, to complete the data collection. \n\nNow 1x's approach might lead to understanding of homes that Tesla can't get. My dishwasher is slightly different than yours is. How I put plates into my cabinets is slightly different than yours is. So getting even 1,000 robots into homes will let 1x's NEO do the data collection on many homes, which will lead them to have a totally autonomous robot within three years too. \n\nBut it comes down to \"can you collect the data from many different humans and their lives?\" \n\nNow, yes, we can simulate a whole lot of that. Last night I met a guy at @jowyang's AI startup launch event who can scan a factory floor, or my kitchen, bring it into a system, and do a lot of that training in a simulator with virtual beings. I'll have that video up in a bit. \n\nBut Tesla has the best advantage here, with the best AI workflows and systems, which is why Tesla's cars are self driving in my neighborhood and no others are. \n\nI see it as the only company that has a credible shot at competing with the Chinese head on. Oh, and Tesla has another factory in China with another 12,000 workers. And another factory in Europe with another 12,000 workers. And another factory in Austin with another 12,000 workers. And another few factories in Nevada and New York and elsewhere. The Chinese don't. And neither does anyone else in San Francisco building robots. \n\nSo, by 2030, who do you think has the robot that does the most? \n\nMy thesis is Tesla. \n\nDo you have another thesis? Bring it on. Explain to me how you will collect all the data.\n\nI once interviewed the innovation team at Volkswagen. I asked \"when are you going to put a camera on your workers to train AI's?\" They said \"we can't do that due to labor laws.\" In Detroit I asked the same and heard \"Unions are hard to deal with.\"\n\nThe Fremont Factory has no Union. Why not? Because the traditional automakers laid them off, so they hate the Unions. And are highly innovative, which is why they are compensated far better than any other automaker workers in the world. \n\nThey are training robots. And building robots. \n\nAnd next year you will see their work. By 2030 I don't believe anyone will be able to compete with them. \n\nTell me why I'm wrong.",
+      "createdAt": "Wed Oct 29 16:16:26 +0000 2025",
+      "replyCount": 48,
+      "retweetCount": 69,
+      "likeCount": 567,
+      "conversationId": "1983568621684310269",
+      "author": {
+        "username": "Scobleizer",
+        "name": "Robert Scoble"
+      },
+      "authorId": "13348"
+    }
+  },
+  {
+    "id": "1982925973336273120",
+    "text": "Hey Mitchell! (we met 10 years ago) - glad to read this. I also have a young kid and really appreciate your words. Trying to be more like you, and less like your friend :)",
+    "createdAt": "Mon Oct 27 21:42:47 +0000 2025",
+    "replyCount": 1,
+    "retweetCount": 1,
+    "likeCount": 1,
+    "conversationId": "1982925973336273120",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1982559447638777994",
+      "text": "I have a single friend in his late 30s right now. Mega-millionaire. Doing whatever he wants. He's happy! He always asks me \"where are you going next\" and I always respond \"nowhere, I just want to be home with my kid.\" And he looks at me like I'm CRAZY. He tries to empathize, but can't.\n\nI used to be him. There's nothing wrong with being him. I'm happy for him. But kids rebalance your life to realizing that nothing matters more than them. Like nothing even comes close to mattering. Everything else becomes noise.\n\nAnd I didn't get it either. So I don't expect other people without kids to get it either. And that's fine. I'm not judging you. Even when I decided to have kids, I didn't (couldn't!) know what to expect. I wasn't particularly excited, honestly. \n\nBut holy shit does that change once they come. I look at my life in bewilderment almost every week thinking how my 20s self would've hated this, and yet this is the best my life has ever been. \n\nMy kid is sleeping right now and I'm just counting down the minutes for her to wake up so we can hang out. That's all I want.",
+      "createdAt": "Sun Oct 26 21:26:21 +0000 2025",
+      "replyCount": 108,
+      "retweetCount": 191,
+      "likeCount": 5079,
+      "conversationId": "1982556821861904451",
+      "inReplyToStatusId": "1982556821861904451",
+      "author": {
+        "username": "mitchellh",
+        "name": "Mitchell Hashimoto"
+      },
+      "authorId": "12819682"
+    }
+  },
+  {
+    "id": "1958635602309480583",
+    "text": "why six or eight? boring. what about other means of movement? snake-like? snail-like? triped?",
+    "createdAt": "Thu Aug 21 21:01:31 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "1958635602309480583",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1958391414821470400",
+      "text": "All the interesting progress in robotics seems concentrated on bipedal humanoids and quadrupeds, any good leads on sick six/eight legged robots recently?",
+      "createdAt": "Thu Aug 21 04:51:13 +0000 2025",
+      "replyCount": 415,
+      "retweetCount": 109,
+      "likeCount": 3175,
+      "conversationId": "1958391414821470400",
+      "author": {
+        "username": "PalmerLuckey",
+        "name": "Palmer Luckey"
+      },
+      "authorId": "294306372"
+    }
+  },
+  {
+    "id": "1958150484583154098",
+    "text": "Tell us more!! We're curious!",
+    "createdAt": "Wed Aug 20 12:53:50 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "1958150484583154098",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1957958144132313272",
+      "text": "Little teaser for a new open source project I'm cooking up https://t.co/Pj871frMMj",
+      "createdAt": "Wed Aug 20 00:09:33 +0000 2025",
+      "replyCount": 10,
+      "retweetCount": 4,
+      "likeCount": 80,
+      "conversationId": "1957958144132313272",
+      "author": {
+        "username": "larsiusprime",
+        "name": "Lars Doucet"
+      },
+      "authorId": "336045376",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GywQjWSXsAAjMD8.jpg",
+          "width": 1516,
+          "height": 995,
+          "previewUrl": "https://pbs.twimg.com/media/GywQjWSXsAAjMD8.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1958149648129937413",
+    "text": "Have you considered the high cost of climate change as a potential \"innovation tax\" for India, more than for other countries?",
+    "createdAt": "Wed Aug 20 12:50:31 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 1,
+    "conversationId": "1958149648129937413",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1957523920762122313",
+      "text": "On many graphs of the physical world, China is in first place by a wide margin.\n\nBut if you look more closely, India is a distant but real runner up. https://t.co/0jy25Cvb8R",
+      "createdAt": "Mon Aug 18 19:24:06 +0000 2025",
+      "replyCount": 105,
+      "retweetCount": 538,
+      "likeCount": 4443,
+      "conversationId": "1957523920762122313",
+      "author": {
+        "username": "balajis",
+        "name": "Balaji"
+      },
+      "authorId": "2178012643",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GyqFoOaacAI90pE.jpg",
+          "width": 1170,
+          "height": 1594,
+          "previewUrl": "https://pbs.twimg.com/media/GyqFoOaacAI90pE.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GyqFoOYaQAAegZA.jpg",
+          "width": 1170,
+          "height": 1616,
+          "previewUrl": "https://pbs.twimg.com/media/GyqFoOYaQAAegZA.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1948841876460654762",
+    "text": "What do you think of this? https://t.co/lHzs4lQZz2",
+    "createdAt": "Fri Jul 25 20:24:45 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "1948841876460654762",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1944586856806633792",
+      "text": "TLDR: Windsurf employees may well get their exit, if remaining management just executes the dividend.\n\nAfter looking into this, I think the original intent was for that $100M+ cash balance to indeed be used to give employee distributions via a dividend. It corresponds very closely to the unvested equity number.\n\nBut due to the legal overhead that attends any Big Tech acquisition nowadays, the founder was muzzled and couldn't say this outright. He could only say \"dividending out the balance is an option.\"\n\nSo: the remaining Windsurf shareholders can take that option, dividend out the $100M to employees, and then choose to shut down the company. The outcome is then similar to an acquisition.\n\nIt's just a new, dumb dance that we need to bake into licensing-style deals. Similar to all the other dumb dances regulators make companies do.",
+      "createdAt": "Mon Jul 14 02:36:49 +0000 2025",
+      "replyCount": 70,
+      "retweetCount": 61,
+      "likeCount": 1022,
+      "conversationId": "1944586856806633792",
+      "author": {
+        "username": "balajis",
+        "name": "Balaji"
+      },
+      "authorId": "2178012643"
+    }
+  },
+  {
+    "id": "1947407288496460228",
+    "text": "Super cool. https://t.co/BQQQNxF4cl",
+    "createdAt": "Mon Jul 21 21:24:13 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "1947407288496460228",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269"
+  },
+  {
+    "id": "1945564147963334663",
+    "text": "RT @matteocollina: 🧵 At JSNation, I showed graphs that honestly left me speechless about Node.js upgrade patterns\n\nLet me break down why I'…",
+    "createdAt": "Wed Jul 16 19:20:14 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 6,
+    "likeCount": 0,
+    "conversationId": "1945564147963334663",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269"
+  },
+  {
+    "id": "1942630562927370741",
+    "text": "Ask why it hasn't happened yet. Don't have the answer, but I know it shouldn't be simple for this company to exist.",
+    "createdAt": "Tue Jul 08 17:03:13 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "1942630562927370741",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1942425906657780153",
+      "text": "I would invest in this company.",
+      "createdAt": "Tue Jul 08 03:29:59 +0000 2025",
+      "replyCount": 32,
+      "retweetCount": 7,
+      "likeCount": 200,
+      "conversationId": "1942425906657780153",
+      "author": {
+        "username": "patio11",
+        "name": "Patrick McKenzie"
+      },
+      "authorId": "20844341"
+    }
+  },
+  {
+    "id": "1940894983919489464",
+    "text": "RT @m_franceschetti: International travel deeply impacts your sleep. I travel over 250 days per year so I know this well. That is why I sta…",
+    "createdAt": "Thu Jul 03 22:06:38 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 4,
+    "likeCount": 0,
+    "conversationId": "1940894983919489464",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269"
+  },
+  {
+    "id": "1932397030791667908",
+    "text": "The Bitcoin network consumes ~175 TWh of electricity per year, or $30B/year. Capex is probably another $20B-$25B. Current \"value\" is $2.2T market cap. What happens next?",
+    "createdAt": "Tue Jun 10 11:18:48 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "1932397030791667908",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269"
+  },
+  {
+    "id": "1926315766158111169",
+    "text": "Good, but not impressed - somehow I expected at least 5-6% more per annum. Also, this means nothing if not compared to what S&amp;P, and your industry, did in the same vintage years.",
+    "createdAt": "Sat May 24 16:34:02 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 2,
+    "conversationId": "1926315766158111169",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1925947517939658808",
+      "text": "Here are my cumulative returns (including SPACS!) across all my investing activities since becoming a “professional investor”.\n\nThe first five funds were traditional LP/GP funds where I was the largest LP and the keyman GP.\n\nThe last fund was only my capital. \n\nHere are a few rules I have learned after 14 years of doing this. YMMV. \n\nRules:\n\nRule 1. Don’t lose money. Find every way possible to return the fund as quickly as possible. This can dampen returns but make the returns more predictable. \n\nRule 2. Don’t ever forget Rule No 1.\n\nRule 3. The only thing that matters is DPI. You can’t eat IRR. When you focus on IRR and TVPI you are tricking yourself and your investors. They can choose to believe in the lie but it’s a lie. The only thing that matters is DPI.\n\nRule 4: Teams dampen returns. Generating superior investing returns is a solo game. My best returns were decisions I made by myself. \n\nRule 5: No one ever goes out of business booking a profit. In other words, don’t chase the last dollar if longevity in this game is what you seek. \n\nMy annual letter will come out shortly.\n\nNo crying in the casino!",
+      "createdAt": "Fri May 23 16:10:45 +0000 2025",
+      "replyCount": 314,
+      "retweetCount": 175,
+      "likeCount": 3171,
+      "conversationId": "1925947517939658808",
+      "author": {
+        "username": "chamath",
+        "name": "Chamath Palihapitiya"
+      },
+      "authorId": "3291691",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GrpVUIYXcAAGHUO.jpg",
+          "width": 2048,
+          "height": 791,
+          "previewUrl": "https://pbs.twimg.com/media/GrpVUIYXcAAGHUO.jpg:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1923691462824284341",
+    "text": "is your talk available online ?",
+    "createdAt": "Sat May 17 10:45:59 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 2,
+    "conversationId": "1923691462824284341",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1923669280098222461",
+      "text": "Was the guest of the Norwegia govt sovereign wealth fund, interested in the pricing of climate risk. At dinner I explained the unpriceability of packages that entail absorption:\n \n\"How would you price your willingness to drink from this glass of wine with the assumption that it can contain a lethal dosage of poison with unknown probability, under the constraint that you MUST keep taking such bets.\"\n\nActually, the problem is worse. You and I have a finite shelf life, humanity doesn't.",
+      "createdAt": "Sat May 17 09:17:51 +0000 2025",
+      "replyCount": 2,
+      "retweetCount": 85,
+      "likeCount": 671,
+      "conversationId": "1923669280098222461",
+      "author": {
+        "username": "nntaleb",
+        "name": "Nassim Nicholas Taleb"
+      },
+      "authorId": "381289719"
+    }
+  },
+  {
+    "id": "1922653884251537686",
+    "text": "boom! Amazing. Can't wait to try the new one.",
+    "createdAt": "Wed May 14 14:03:01 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 1,
+    "conversationId": "1922653884251537686",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1922645940910911775",
+      "text": "BREAKING NEWS: We just launched our newest products @eightsleep\n\n✅Pod 5\n✅Hydro-powered Blanket for 2x thermal coverage\n✅Base with zero-gravity elevation &amp; surround-sound w/ @hubermanlab content\n✅AI that monitors your health while you sleep\n\nGet yours👉https://t.co/i6Y8vrAU5H https://t.co/q6IdoCLVJW",
+      "createdAt": "Wed May 14 13:31:28 +0000 2025",
+      "replyCount": 195,
+      "retweetCount": 77,
+      "likeCount": 1071,
+      "conversationId": "1922645940910911775",
+      "author": {
+        "username": "m_franceschetti",
+        "name": "Matteo Franceschetti"
+      },
+      "authorId": "367162886",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/1922645825601089536/img/n2wCJGkbTBotrcsa.jpg",
+          "width": 1920,
+          "height": 1080,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/1922645825601089536/img/n2wCJGkbTBotrcsa.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/1922645825601089536/vid/avc1/1920x1080/AgMhEk4WkJ1nwfl6.mp4?tag=21",
+          "durationMs": 125000
+        }
+      ]
+    }
+  },
+  {
+    "id": "1922312489510813700",
+    "text": "Missing: Oura is not widespread in many countries, including mediterranean ones - some other data points at great benefits, particularly in small towns/villages. Also, wealthy people (who can afford Oura) own cars and drive more, compared to poorer people (less cars, more walk).",
+    "createdAt": "Tue May 13 15:26:26 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "conversationId": "1922312489510813700",
+    "author": {
+      "username": "simon",
+      "name": "Simone Brunozzi"
+    },
+    "authorId": "9269",
+    "quotedTweet": {
+      "id": "1922093665893150827",
+      "text": "Oura ran this analysis: https://t.co/1BCC0XOQ2p.\n\nThanks, @ouraring! (Many of my friends are fans of the product.)",
+      "createdAt": "Tue May 13 00:56:55 +0000 2025",
+      "replyCount": 23,
+      "retweetCount": 17,
+      "likeCount": 525,
+      "conversationId": "1922093665893150827",
+      "author": {
+        "username": "patrickc",
+        "name": "Patrick Collison"
+      },
+      "authorId": "4939401"
+    }
+  }
+]

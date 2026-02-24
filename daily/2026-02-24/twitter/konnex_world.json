@@ -1,0 +1,408 @@
+[
+  {
+    "id": "2025933666203955224",
+    "text": "Agents are leaving the screen.\n\nWe broke down the transition to the Machine Economy with @Acurast and @FolksFinance.\n\nWho should @JOllwerther put in the hot seat next? https://t.co/U9n5iwCiYf",
+    "createdAt": "Mon Feb 23 14:00:00 +0000 2026",
+    "replyCount": 81,
+    "retweetCount": 79,
+    "likeCount": 514,
+    "conversationId": "2025933666203955224",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "quotedTweet": {
+      "id": "2023429308216430979",
+      "text": "https://t.co/zZ2RcRrBx3",
+      "createdAt": "Mon Feb 16 16:08:35 +0000 2026",
+      "replyCount": 58,
+      "retweetCount": 63,
+      "likeCount": 472,
+      "conversationId": "2023429308216430979",
+      "author": {
+        "username": "konnex_world",
+        "name": "Konnex"
+      },
+      "authorId": "1966331086851682304"
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2025803655090417664/img/DcMzLSU_PClM5BWY.jpg",
+        "width": 1600,
+        "height": 900,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2025803655090417664/img/DcMzLSU_PClM5BWY.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2025803655090417664/vid/avc1/1600x900/fp-TEDAbyI1HatmB.mp4?tag=21",
+        "durationMs": 5050
+      }
+    ]
+  },
+  {
+    "id": "2023429308216430979",
+    "text": "https://t.co/zZ2RcRrBx3",
+    "createdAt": "Mon Feb 16 16:08:35 +0000 2026",
+    "replyCount": 58,
+    "retweetCount": 63,
+    "likeCount": 472,
+    "conversationId": "2023429308216430979",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304"
+  },
+  {
+    "id": "2021977601904959608",
+    "text": "Everyone talks about autonomy. Few are actually running the loop.\n\n— 1.5M+ RLHF submissions in testnet.\n— 382k+ unique wallets.\n\nWe are setting the pace for decentralized robotics data collection. https://t.co/9r1UZzYyXj",
+    "createdAt": "Thu Feb 12 16:00:01 +0000 2026",
+    "replyCount": 407,
+    "retweetCount": 458,
+    "likeCount": 2329,
+    "conversationId": "2021977601904959608",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2021809781053566976/img/6Lx6oypP5UEDFyr1.jpg",
+        "width": 1600,
+        "height": 900,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2021809781053566976/img/6Lx6oypP5UEDFyr1.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2021809781053566976/vid/avc1/1600x900/VcP8_sEOvfVRo8kC.mp4?tag=21",
+        "durationMs": 5883
+      }
+    ]
+  },
+  {
+    "id": "2016496843820302336",
+    "text": "Konnex Development Update: Ingest",
+    "createdAt": "Wed Jan 28 13:01:26 +0000 2026",
+    "replyCount": 1234,
+    "retweetCount": 1265,
+    "likeCount": 2738,
+    "conversationId": "2016496843820302336",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "article": {
+      "title": "Konnex Development Update: Ingest",
+      "previewText": "We’ve begun Konnex: Ingest, the first phase of developer and miner onboarding ahead of our on-chain testnet later this year.\nIngest is designed to bring Vision Language Action (VLA) models and"
+    }
+  },
+  {
+    "id": "2016526658329542761",
+    "text": "https://t.co/BfBUS55bAL",
+    "createdAt": "Wed Jan 28 14:59:55 +0000 2026",
+    "replyCount": 1262,
+    "retweetCount": 1205,
+    "likeCount": 2066,
+    "conversationId": "2016496843820302336",
+    "inReplyToStatusId": "2016496843820302336",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304"
+  },
+  {
+    "id": "2016500279282438187",
+    "text": "Konnex: Ingest is live.\n\nThis is the first step in joining the Konnex ecosystem, ahead of on-chain testing later this year.\n\nWe’re onboarding miners to submit Vision-Language-Action models and Language Behavioral Models into our off-chain execution stack. Contributors can assign natural-language tasks, watch robots execute in real time, and evaluate behavior across fixed scenarios.\n\nIngest focuses on model compatibility, telemetry, and execution correctness — no economics, no chain assumptions.\n\nThis feeds into Runtime Zero (R0) and Preflight, where full simulation and coordination come online.\n\nRead more in the article & test now: https://t.co/ijeiJyEKDq",
+    "createdAt": "Wed Jan 28 13:15:06 +0000 2026",
+    "replyCount": 1624,
+    "retweetCount": 1880,
+    "likeCount": 4425,
+    "conversationId": "2016500279282438187",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "quotedTweet": {
+      "id": "2016496843820302336",
+      "text": "Konnex Development Update: Ingest",
+      "createdAt": "Wed Jan 28 13:01:26 +0000 2026",
+      "replyCount": 1234,
+      "retweetCount": 1265,
+      "likeCount": 2738,
+      "conversationId": "2016496843820302336",
+      "author": {
+        "username": "konnex_world",
+        "name": "Konnex"
+      },
+      "authorId": "1966331086851682304",
+      "article": {
+        "title": "Konnex Development Update: Ingest",
+        "previewText": "We’ve begun Konnex: Ingest, the first phase of developer and miner onboarding ahead of our on-chain testnet later this year.\nIngest is designed to bring Vision Language Action (VLA) models and"
+      }
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2016497009050443777/img/Esp-eiMZid6kk4l6.jpg",
+        "width": 1600,
+        "height": 900,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2016497009050443777/img/Esp-eiMZid6kk4l6.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2016497009050443777/vid/avc1/1600x900/UGlMD6ewctxEIauM.mp4?tag=21",
+        "durationMs": 9783
+      }
+    ]
+  },
+  {
+    "id": "2013612963706675370",
+    "text": "Konnex | Turning robot labor into on-chain liquidity.\nPermissionless robotics market where physical work goes on-chain.\n\n⚫️ Robots negotiate tasks\n⚫️ AI + robots execute jobs\n⚫️ Verified work → stablecoin payouts\n\nJoin the hub for the upcoming airdrop 👇\nhttps://t.co/Jkw6ZwsGUZ",
+    "createdAt": "Tue Jan 20 14:01:56 +0000 2026",
+    "replyCount": 37457,
+    "retweetCount": 32233,
+    "likeCount": 37690,
+    "conversationId": "2013612963706675370",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2013610919197093888/img/zLxwEUzcTT77qDZz.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2013610919197093888/img/zLxwEUzcTT77qDZz.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2013610919197093888/vid/avc1/1920x1080/66avCVzs3WZB0cDH.mp4?tag=21",
+        "durationMs": 4000
+      }
+    ]
+  },
+  {
+    "id": "2009612601198846321",
+    "text": "COOKIE X KONNEX\n\nKonnex is live on @cookiedotfun.\n\n$200,000 USD worth of $KNX over 3 months.\n\nEngage with the ecosystem, track your contribution, and unlock exclusive rewards. This window won’t stay open long.\n\nhttps://t.co/YGGZ1Rgeet https://t.co/xqwE2BK9Zj",
+    "createdAt": "Fri Jan 09 13:05:55 +0000 2026",
+    "replyCount": 438,
+    "retweetCount": 393,
+    "likeCount": 1616,
+    "conversationId": "2009612601198846321",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2009610474502172672/img/ksHBWmYJdUbI_TCe.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2009610474502172672/img/ksHBWmYJdUbI_TCe.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2009610474502172672/vid/avc1/1920x1080/UYMNrW1FdQOuxiT4.mp4?tag=21",
+        "durationMs": 4000
+      }
+    ]
+  },
+  {
+    "id": "2009325243870163133",
+    "text": "Autonomy doesn't scale without trust.\n\nWe are proud to announce @BTD75 as Investor & Strategic Advisor with $3.5M invested in pre-seed.\n\n⚫️ 5x CEO with 3 drone-sector exits.\n⚫️ Advisor to the US Govt. at FAA and US DOW\n⚫️ Architect of our \"Regulatory Bridge.\"\n\nHe isn't just backing Konnex; he is ensuring our Proof-of-Physical-Work meets audit-grade standards for the Fortune 500.",
+    "createdAt": "Thu Jan 08 18:04:04 +0000 2026",
+    "replyCount": 146,
+    "retweetCount": 187,
+    "likeCount": 648,
+    "conversationId": "2009325243870163133",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2009317498018254854/img/FnWNLgOJJ0-RqPGE.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2009317498018254854/img/FnWNLgOJJ0-RqPGE.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2009317498018254854/vid/avc1/1920x1080/zmnUXHZ6bmbuRqM4.mp4?tag=21",
+        "durationMs": 4000
+      }
+    ]
+  },
+  {
+    "id": "2009149441916445160",
+    "text": "RT @konnex_world: Modern governments demand both transparency and privacy. \n\nKonnex's @JOllwerther discusses how we provide the new digital…",
+    "createdAt": "Thu Jan 08 06:25:29 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 106,
+    "likeCount": 0,
+    "conversationId": "2009149441916445160",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304"
+  },
+  {
+    "id": "2008969011963572651",
+    "text": "\"The era of isolated machines is over.\"\n\nMeet our CEO, @JOllwerther .\n\nBusiness leader with 15+ years in robotics, drone-tech, and media. Jon led commercial teams at Measure (Drone as a Service) and Aerobo/Vermeer.\n\nNow, he’s creating TCP/IP for Motion. \n\nGet ready to experience Konnex.",
+    "createdAt": "Wed Jan 07 18:28:31 +0000 2026",
+    "replyCount": 87,
+    "retweetCount": 78,
+    "likeCount": 345,
+    "conversationId": "2008969011963572651",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2008967184903479297/img/--wOk3MOdlHGEME7.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2008967184903479297/img/--wOk3MOdlHGEME7.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2008967184903479297/vid/avc1/1920x1080/T8KrKkw4hyY2udRc.mp4?tag=21",
+        "durationMs": 78916
+      }
+    ]
+  },
+  {
+    "id": "2005961802413383796",
+    "text": "🔗 Konnex has been featured in @BinanceResearch’s Crypto Industry Map (Dec 2025) under x402.\n\nWe’re building decentralized infrastructure for autonomous robots and AI agents; enabling machines to coordinate tasks, verify execution, and settle outcomes as on-chain physical systems mature.",
+    "createdAt": "Tue Dec 30 11:18:57 +0000 2025",
+    "replyCount": 218,
+    "retweetCount": 86,
+    "likeCount": 326,
+    "conversationId": "2005961802413383796",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "quotedTweet": {
+      "id": "2005911393015377936",
+      "text": "In our latest report, we provide an overview of the crypto industry by highlighting projects across multiple sectors.\n\nWe spotlight themes such as Privacy, x402, Crypto ETFs and others in this report.\n\nCheck it out 🔽\nhttps://t.co/1ah0szrMWV https://t.co/8He1c8iH5w",
+      "createdAt": "Tue Dec 30 07:58:38 +0000 2025",
+      "replyCount": 80,
+      "retweetCount": 59,
+      "likeCount": 268,
+      "conversationId": "2005911393015377936",
+      "author": {
+        "username": "BinanceResearch",
+        "name": "Binance Research"
+      },
+      "authorId": "985688130509393920",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G9ZttPSbYAAT3dF.jpg",
+          "width": 1600,
+          "height": 900,
+          "previewUrl": "https://pbs.twimg.com/media/G9ZttPSbYAAT3dF.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9abko2aYAIzKPi.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/media/G9abko2aYAIzKPi.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2005641220018917413",
+    "text": "Konnex tests every deployed model in simulation. 🌐\n\nIf it passes, it executes in the real world. If it fails, the stake is slashed. https://t.co/DQ6sKkuw8I",
+    "createdAt": "Mon Dec 29 14:05:04 +0000 2025",
+    "replyCount": 44,
+    "retweetCount": 45,
+    "likeCount": 209,
+    "conversationId": "2005641220018917413",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V2duwWQAA2ghK.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/media/G9V2duwWQAA2ghK.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2004152728965239292",
+    "text": "Merry Christmas! https://t.co/vxyL5X94mT",
+    "createdAt": "Thu Dec 25 11:30:20 +0000 2025",
+    "replyCount": 36,
+    "retweetCount": 30,
+    "likeCount": 138,
+    "conversationId": "2004152728965239292",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AqsAMXgAAa6OT.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/media/G9AqsAMXgAAa6OT.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2003474484423197026",
+    "text": "Konnex is the meeting point — a secure, reliable, and globally connected economic layer for machines. 🌐 https://t.co/O5Qw6GMYZF",
+    "createdAt": "Tue Dec 23 14:35:14 +0000 2025",
+    "replyCount": 48,
+    "retweetCount": 34,
+    "likeCount": 171,
+    "conversationId": "2003474484423197026",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83FSDRXIAA8Jdv.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/media/G83FSDRXIAA8Jdv.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2000611903425425614",
+    "text": "Konnex creates a universal language for machine tasks — a JSON intent format.\n\nIt connects every robot, every vendor, and every AI model.\n\nA single language for a global machine ecosystem. 🌐 https://t.co/gak8ApQMFY",
+    "createdAt": "Mon Dec 15 17:00:22 +0000 2025",
+    "replyCount": 37,
+    "retweetCount": 48,
+    "likeCount": 170,
+    "conversationId": "2000611903425425614",
+    "author": {
+      "username": "konnex_world",
+      "name": "Konnex"
+    },
+    "authorId": "1966331086851682304",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OZKCCXMA0LTfm.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/media/G8OZKCCXMA0LTfm.jpg:small"
+      }
+    ]
+  }
+]
