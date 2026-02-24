@@ -1,0 +1,8 @@
+Title: Lithium-ion battery degradation: how to model it
+
+Authors: Simon E. J. O'Kane, Weilong Ai, Ganesh Madabattula, Diego Alonso Alvarez, Robert Timms, Valentin Sulzer, Jacqueline Sophie Edge, Billy Wu, Gregory J. Offer, Monica Marinescu
+
+DOI: 10.1039/D2CP00417H
+
+Abstract:
+Predicting lithium-ion battery degradation is worth billions to the global automotive, aviation and energy storage industries, to improve performance and safety and reduce warranty liabilities. However, very few published models of battery degradation explicitly consider the interactions between more than two degradation mechanisms, and none do so within a single electrode. In this paper, the first published attempt to directly couple more than two degradation mechanisms in the negative electrod

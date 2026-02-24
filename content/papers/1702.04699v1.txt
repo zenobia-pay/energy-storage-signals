@@ -1,0 +1,8 @@
+Title: Model Predictive Control for Distributed Microgrid Battery Energy Storage Systems
+
+Authors: Thomas Morstyn, Branislav Hredzak, Ricardo P. Aguilera, Vassilios G. Agelidis
+
+DOI: 10.1109/TCST.2017.2699159
+
+Abstract:
+This paper proposes a new convex model predictive control strategy for dynamic optimal power flow between battery energy storage systems distributed in an AC microgrid. The proposed control strategy uses a new problem formulation, based on a linear d-q reference frame voltage-current model and linearised power flow approximations. This allows the optimal power flows to be solved as a convex optimisation problem, for which fast and robust solvers exist. The proposed method does not assume real an

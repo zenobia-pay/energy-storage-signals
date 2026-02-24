@@ -1,0 +1,6 @@
+Title: Extreme compression of sentence-transformer ranker models: faster inference, longer battery life, and less storage on edge devices
+
+Authors: Amit Chaulwar, Lukas Malik, Maciej Krajewski, Felix Reichel, Leif-Nissen Lundbæk, Michael Huth, Bartlomiej Matejczyk
+
+Abstract:
+Modern search systems use several large ranker models with transformer architectures. These models require large computational resources and are not suitable for usage on devices with limited computational resources. Knowledge distillation is a popular compression technique that can reduce the resource needs of such models, where a large teacher model transfers knowledge to a small student model. To drastically reduce memory requirements and energy consumption, we propose two extensions for a po

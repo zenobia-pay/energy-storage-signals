@@ -1,0 +1,68 @@
+# EIA Battery Storage in the United States
+# Source: https://www.eia.gov/electricity/data/eia860m/
+# Data: Monthly Electric Generator Inventory
+# Last Updated: 2026-02
+
+## Overview
+The U.S. Energy Information Administration (EIA) tracks utility-scale battery
+storage capacity through Form EIA-860M (Monthly Electric Generator Inventory).
+
+## Key Data Points (as of January 2026)
+
+### Total Operating Capacity
+- Approximately 25+ GW of utility-scale battery storage operational
+- California leads with ~10 GW
+- Texas second with ~5+ GW
+- Rapid growth continuing
+
+### Historical Growth
+- 2020: ~1.5 GW total
+- 2021: ~4 GW total
+- 2022: ~8 GW total
+- 2023: ~15 GW total
+- 2024: ~20 GW total
+- 2025: ~23 GW total
+- 2026: ~25+ GW (Q1)
+
+### Technology Mix
+- Lithium-ion: ~98% of installed capacity
+- Other: Flow batteries, sodium, advanced lead-acid (~2%)
+
+### Average Duration
+- 2-4 hours typical for utility-scale
+- Trend toward longer duration (4-8 hours)
+
+### Top States by Capacity
+1. California
+2. Texas
+3. Arizona
+4. Nevada
+5. Florida
+
+### Top ISOs/RTOs
+1. CAISO - Largest deployment
+2. ERCOT - Fastest growing
+3. PJM - Eastern interconnection leader
+4. SPP - Emerging market
+
+## Key Reports
+- Electric Power Monthly (Table 6.2.B)
+- Annual Energy Outlook
+- Preliminary Monthly Electric Generator Inventory (Form EIA-860M)
+- Battery Storage in the United States: An Update (periodically published)
+
+## Data Access
+- Interactive data browser: eia.gov
+- Bulk download: API available
+- Monthly updates on capacity additions/retirements
+
+## Interconnection Pipeline
+- Over 100 GW of battery storage in interconnection queues nationwide
+- Many projects paired with solar (hybrid systems)
+- Significant withdrawal rates due to queue delays
+
+## Revenue Streams for Storage
+- Energy arbitrage (buy low, sell high)
+- Ancillary services (frequency regulation, spinning reserves)
+- Capacity payments (resource adequacy)
+- Transmission/distribution deferral

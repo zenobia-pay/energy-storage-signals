@@ -1,0 +1,6 @@
+Title: Cloud Storage for Multi-Service Battery Operation (Extended Version)
+
+Authors: Mohammad Rasouli, Tao Sun, Camille Pache, Patrick Panciatici, Jean Maeght, Ramesh Johari, Ram Rajagopal
+
+Abstract:
+We study a cloud storage operator who provides shared storage service for electricity end-users using the residual part of a multi-service grid-scale battery primarily used for high priority grid services. We design an optimal product offering, pricing and customer portfolio. A framework and solution approach for assessing and operating such multi-service battery operations with stochastic services and different priority levels is an open problem is proposed. The methodology consists in modellin

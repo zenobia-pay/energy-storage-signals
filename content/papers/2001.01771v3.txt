@@ -1,0 +1,6 @@
+Title: Revenue Analysis of Stationary and Transportable Battery Storage for Power Systems with High Penetration of Renewable Sources: A Market Participant Perspective
+
+Authors: Zhongyang Zhao, Caisheng Wang, Masoud H. Nazari
+
+Abstract:
+The power system needs more transmission capacity to deal with the increasing integration of renewable energy resources. The battery energy storage systems (BESSs) are effective to enhance the grid capacity and relieve the transmission congestion. A comprehensive revenue analysis of BESSs is critical for market participants to install such systems in a market-based power system. Taking PJM as an example, this paper carries out a thorough revenue analysis for the entire system. Highly profitable 

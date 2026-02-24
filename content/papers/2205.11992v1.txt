@@ -1,0 +1,6 @@
+Title: Co-optimization of Battery Routing and Load Restoration for Microgrids with Mobile Energy Storage Systems
+
+Authors: Shourya Bose, Sifat Chowdhury, Yu Zhang
+
+Abstract:
+Mobile energy storage systems (MESS) offer great operational flexibility to enhance the resiliency of distribution systems in an emergency condition. The optimal placement and sizing of those units are pivotal for quickly restoring the curtailed loads. In this paper, we propose a model for load restoration in a microgrid while concurrently optimizing the MESS routes required for the same. The model is formulated as a mixed integer second order cone program by considering the state of charge and 

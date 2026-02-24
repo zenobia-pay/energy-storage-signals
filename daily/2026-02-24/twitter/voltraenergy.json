@@ -1,0 +1,265 @@
+[
+  {
+    "id": "2024602605356536100",
+    "text": "This week @ Voltra:\n\nDemand response & market participation now live for connected assets across major US markets and regions.\n\nDevice connectivity over MQTT, Modbus, BACnet & DNP3 is now supported for connecting new devices and systems.\n\nLearn more here: https://t.co/HUNXnAIg7W",
+    "createdAt": "Thu Feb 19 21:50:51 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 2,
+    "conversationId": "2024602605356536100",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "2022075589751119986",
+    "text": "Platform updates for this week:\n\n- OCPP 2.0.1 support — full implementation and parity with 1.6J\n- Map publishing — stations on Google, Tesla, and Apple Maps via OCPI\n- ID Tag Manager — manage and debug OCPP auth tags across your fleet\n\nFull notes here: https://t.co/nf3Po6ByPO",
+    "createdAt": "Thu Feb 12 22:29:23 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 2,
+    "likeCount": 5,
+    "conversationId": "2022075589751119986",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "2021710865569829282",
+    "text": "Why We Chose Elixir as Our Language of Choice",
+    "createdAt": "Wed Feb 11 22:20:06 +0000 2026",
+    "replyCount": 1,
+    "retweetCount": 0,
+    "likeCount": 7,
+    "conversationId": "2021710865569829282",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640",
+    "article": {
+      "title": "Why We Chose Elixir as Our Language of Choice",
+      "previewText": "A friend mentioned Elixir at dinner. At the time, we'd just about had enough building our charger connectivity layer in Java—wrestling with connection state and devices that each speak their own"
+    }
+  },
+  {
+    "id": "2019510585772146696",
+    "text": "New this week to the Voltra Platform: \n\nSmart Charging — sessions optimize automatically on grid signals and tariffs\n\nDirect OCPP action endpoints — full protocol-level charger control via API\n\nUpdated Load Management — redesigned UI with groups, nesting, and detailed profiles\n\nFull notes:  https://t.co/uT15Bi9Az3",
+    "createdAt": "Thu Feb 05 20:36:58 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 2,
+    "conversationId": "2019510585772146696",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "2011604073246834848",
+    "text": "RT @alexstratmoen: Unfortunately I won’t be able to make it in person, but excited to have @voltraenergy joining forces with @Theoryvc, @la…",
+    "createdAt": "Thu Jan 15 00:59:19 +0000 2026",
+    "replyCount": 0,
+    "retweetCount": 2,
+    "likeCount": 0,
+    "conversationId": "2011604073246834848",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1923033092320600537",
+    "text": "RT @alexstratmoen: Thanks so much for the shout out @ElectricAutonmy! So excited to be able to announce our raise and product launch at the…",
+    "createdAt": "Thu May 15 15:09:52 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 0,
+    "conversationId": "1923033092320600537",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1923033072276054156",
+    "text": "RT @alexstratmoen: So happy to have had the chance to work on this piece with the amazing team at @Contrary_Res!   Great read on the state…",
+    "createdAt": "Thu May 15 15:09:47 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 3,
+    "likeCount": 0,
+    "conversationId": "1923033072276054156",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1922682023300260244",
+    "text": "RT @UWVelocity: ⚡️@voltraenergy is reshaping the future of energy infrastructure. With energy demands accelerating, traditional grids are s…",
+    "createdAt": "Wed May 14 15:54:50 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 0,
+    "conversationId": "1922682023300260244",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1922681577156333690",
+    "text": "RT @jchen623: I’m thrilled to announce we’ve led @voltraenergy's pre-seed.\n\nBreakthroughs in energy technology across batteries, nuclear, s…",
+    "createdAt": "Wed May 14 15:53:04 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 2,
+    "likeCount": 0,
+    "conversationId": "1922681577156333690",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1922681482054701211",
+    "text": "A huge thank you to Contrary! Read more about their investment in us on their blog, and on the electrical grid.",
+    "createdAt": "Wed May 14 15:52:41 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 14,
+    "conversationId": "1922681482054701211",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640",
+    "quotedTweet": {
+      "id": "1922678723947450785",
+      "text": "Read more on our blog: https://t.co/tZqW0gAQ5q\n\nFor a deeper dive on the decentralization of the electrical grid: https://t.co/Q1tcRvSUDZ",
+      "createdAt": "Wed May 14 15:41:44 +0000 2025",
+      "replyCount": 0,
+      "retweetCount": 2,
+      "likeCount": 13,
+      "conversationId": "1922678720479027262",
+      "inReplyToStatusId": "1922678720479027262",
+      "author": {
+        "username": "contrary",
+        "name": "Contrary"
+      },
+      "authorId": "746175786550439940"
+    }
+  },
+  {
+    "id": "1922681179158757611",
+    "text": "RT @contrary: Congratulations to @alexstratmoen and @AryanAfrouzi on launching Voltra! The world is on the cusp of an energy revolution, an…",
+    "createdAt": "Wed May 14 15:51:29 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 6,
+    "likeCount": 0,
+    "conversationId": "1922681179158757611",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1922670321745690893",
+    "text": "We’ll be here today and tomorrow at the #EVChargingExpo2025. Come say hi at Booth 620!\n\n#ElectricVehicles\n#EVCharging \n#EVFleets https://t.co/NgVkWGttLG",
+    "createdAt": "Wed May 14 15:08:20 +0000 2025",
+    "replyCount": 1,
+    "retweetCount": 1,
+    "likeCount": 33,
+    "conversationId": "1922670321745690893",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq6yd5NXwAAlh0w.jpg",
+        "width": 1526,
+        "height": 1144,
+        "previewUrl": "https://pbs.twimg.com/media/Gq6yd5NXwAAlh0w.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "1922657502237249826",
+    "text": "We are thrilled to announce the launch of our first product Charge, alongside a $1.8M (USD) raise led by Contrary, with participation from Hanover and Velocity fund! (1/3) https://t.co/bi8KVZhDv9",
+    "createdAt": "Wed May 14 14:17:24 +0000 2025",
+    "replyCount": 5,
+    "retweetCount": 6,
+    "likeCount": 81,
+    "conversationId": "1922657502237249826",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq6er3BWcAAgSVZ.png",
+        "width": 2000,
+        "height": 1073,
+        "previewUrl": "https://pbs.twimg.com/media/Gq6er3BWcAAgSVZ.png:small"
+      }
+    ]
+  },
+  {
+    "id": "1922657504955125919",
+    "text": "Charge provides software companies in the EV space with the tools needed to seamlessly interface across chargers, connected energy devices, and microgrids. This substantially lowers the barrier to building EV native applications, and will deliver far superior experiences to drivers. (2/3)",
+    "createdAt": "Wed May 14 14:17:25 +0000 2025",
+    "replyCount": 1,
+    "retweetCount": 0,
+    "likeCount": 11,
+    "conversationId": "1922657502237249826",
+    "inReplyToStatusId": "1922657502237249826",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1922657508692267120",
+    "text": "It's all part of a much larger vision to build a “connected energy cloud”, providing the software infrastructure needed to rewire North America's Electrical Grids.\n\nRead more at https://t.co/I1kp5JEiv3 (3/3)",
+    "createdAt": "Wed May 14 14:17:25 +0000 2025",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 11,
+    "conversationId": "1922657502237249826",
+    "inReplyToStatusId": "1922657504955125919",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  },
+  {
+    "id": "1921996318865514739",
+    "text": "https://t.co/ylUgVbcc4n",
+    "createdAt": "Mon May 12 18:30:06 +0000 2025",
+    "replyCount": 1,
+    "retweetCount": 3,
+    "likeCount": 19,
+    "conversationId": "1921996318865514739",
+    "author": {
+      "username": "voltraenergy",
+      "name": "Voltra"
+    },
+    "authorId": "1781780418980720640"
+  }
+]

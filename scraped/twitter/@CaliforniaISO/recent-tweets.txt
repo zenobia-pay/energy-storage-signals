@@ -1,0 +1,35 @@
+# @CaliforniaISO - Recent Tweets on Storage
+# Scraped: 2026-02-19
+# Source: Twitter/X via bird CLI
+
+## Profile
+- Name: California ISO
+- Role: California grid operator
+- Focus: Managing electricity flow for 80% of California
+- Twitter: @CaliforniaISO
+
+## Key Storage Tweet (Oct 2025)
+"In 2020, the ISO-managed grid had just ~122 MW of battery storage. Since then, 
+more than 14,000MW have been added to the grid—a real game changer for reliability 
+during summer periods of peak demand."
+
+## Storage Design & Modeling Meetings
+CAISO holds regular "Storage Design & Modeling" stakeholder meetings as part of 
+their market evolution initiatives. Topics include:
+- Hybrid Resources Phase 2C
+- Resource adequacy modeling
+- Ancillary services
+- Extended Day-Ahead Market (EDAM)
+
+## Storage Growth Timeline
+- 2020: ~122 MW
+- 2025: 14,000+ MW (115x growth in 5 years!)
+- Largest battery storage market in the US
+- Critical for summer peak demand reliability
+
+## Key Themes
+1. Rapid battery deployment since 2020
+2. Summer reliability dependence on storage
+3. Ongoing market design for storage
+4. Hybrid resources integration
+5. Resource adequacy contributions

@@ -1,0 +1,6 @@
+Title: Optimal Battery Energy Storage Placement for Transient Voltage Stability Enhancement
+
+Authors: Yongli Zhu, Chengxi Liu, Renchang Dai, Guangyi Liu, Yiran Xu
+
+Abstract:
+A placement problem for multiple Battery Energy Storage System (BESS) units is formulated towards power system transient voltage stability enhancement in this paper. The problem is solved by the Cross-Entropy (CE) optimization method. A simulation-based approach is adopted to incorporate higher-order dynamics and nonlinearities of generators and loads. The objective is to maximize the voltage stability index, which is set up based on certain grid-codes. Formulations of the optimization problem a

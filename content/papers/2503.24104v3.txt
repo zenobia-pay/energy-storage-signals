@@ -1,0 +1,6 @@
+Title: Application of Battery Storage to Switching Predictive Control of Power Distribution Systems Including Road Heating
+
+Authors: Chiaki Kojima, Yuya Muto, Hikaru Akutsu, Rinnosuke Shima, Yoshihiko Susuki
+
+Abstract:
+In regions with heavy snowfall, the living environment is becoming a serious problem due to heavy snow accumulation. A road heating is an electrical device which promotes snow melting by burying a heating cable as a thermal source underground in such regions. When integrating the road heating into power distribution systems, we need to optimize the flow of electric power by appropriately integrating distributed power sources and conventional power distribution equipment. In this paper, we introd

@@ -1,0 +1,175 @@
+# Scrape Failures Log
+# Created: 2026-02-19 16:11 EST
+# Re-run failed items after fixing issues
+
+## Podcasts
+
+### RSS Feed Failures
+- [FAIL] Volts RSS: Substack podcast feed not enabled
+  URL: https://api.substack.com/feed/podcast/10517.rss
+  Error: 404 - "Podcast feed is not enabled for this publication"
+  Time: 2026-02-19 16:08
+
+- [FAIL] The Interchange RSS (old): Feed no longer exists
+  URL: https://feeds.simplecast.com/bMYQcA8f
+  Error: 404 - NoSuchKey
+  Time: 2026-02-19 16:08
+
+- [FAIL] Interchange Recharged RSS: Feed not found
+  URL: https://rss.art19.com/interchange-recharged
+  Error: 404 - Not Found
+  Time: 2026-02-19 16:08
+
+- [FAIL] Resources Radio RSS: Operation aborted/timeout
+  URL: https://feeds.transistor.fm/resources-radio
+  Error: timeout/aborted
+  Time: 2026-02-19 16:09
+
+- [FAIL] Volts Transistor RSS: Feed not found
+  URL: https://feeds.transistor.fm/volts
+  Error: 404 - Not Found
+  Time: 2026-02-19 16:09
+
+- [FAIL] Megaphone feed: Not found
+  URL: https://feeds.megaphone.fm/WWO8086402036
+  Error: 404 - NoSuchKey
+  Time: 2026-02-19 16:08
+
+### Podcast Page Failures
+- [FAIL] Catalyst with Shayle Kann: Page not found
+  URL: https://www.canarymedia.com/catalyst-with-shayle-kann
+  Error: 404 - Page moved/removed
+  Time: 2026-02-19 16:08
+
+- [FAIL] Apple Podcasts Catalyst: Not found
+  URL: https://podcasts.apple.com/us/podcast/catalyst-with-shayle-kann/id1582754679
+  Error: 404 - Not Found
+  Time: 2026-02-19 16:08
+
+## Twitter
+
+### CLI Limitations (not failures per se)
+- [LIMITATION] bird CLI lacks 'user' command - cannot get user profiles/bios
+  Attempted: bird user JesseJenkins
+  Error: "unknown command 'user'"
+  Workaround: Used search queries instead
+  Time: 2026-02-19 16:10
+
+- [LIMITATION] bird CLI cannot get following lists
+  No 'following' command available for getting who a user follows
+  Would need Twitter API directly
+  Time: 2026-02-19 16:10
+
+### Search Failures
+- [FAIL] @MelPoweredUp storage tweets: No results
+  Query: "from:MelPoweredUp energy storage"
+  Error: No tweets found (may be handle change or few storage tweets)
+  Time: 2026-02-19 16:13
+
+### Accounts Not Scraped (time constraints)
+- @energystoragenw - not attempted
+- @CanaryMediaInc - not attempted
+- @WoodMackenzie - not attempted
+- @FERC - not attempted
+- @SEIA - not attempted
+- @QuincyEdmundLee - not attempted
+- (90+ more accounts in twitter-accounts.jsonl)
+
+## Think Tanks
+
+### Cloudflare Blocked
+- [FAIL] LBNL EMP about page: Cloudflare security block
+  URL: https://emp.lbl.gov/about
+  Error: 403 - "You have been blocked" / Cloudflare Ray ID: 9d08c1b5cd2f43b6
+  Time: 2026-02-19 16:10
+  Fix: Use browser automation with proper headers/cookies
+
+### Pages Not Scraped (time constraints)
+- Brookings Institution - not attempted
+- CSIS - not attempted
+- Resources for the Future (RFF) - not attempted
+- AEI - not attempted
+- Heritage Foundation - not attempted
+- Clean Air Task Force - not attempted
+- Rhodium Group - not attempted
+- BloombergNEF - not attempted (likely paywalled)
+- S&P Global - not attempted (likely paywalled)
+- Princeton ZERO Lab - not attempted
+- Advanced Energy United - not attempted
+- MIT Energy Initiative - not attempted
+- Stanford Precourt - not attempted
+- Columbia CGEP - not attempted
+
+## Government Documents
+
+### Cloudflare/Captcha Blocked
+- [FAIL] FERC Order 2023 page: Cloudflare challenge
+  URL: https://www.ferc.gov/media/order-no-2023
+  Error: 403 - "Just a moment..." (Cloudflare challenge page)
+  Time: 2026-02-19 16:10
+  Fix: Use browser automation
+
+- [FAIL] FERC Order 841 PDF: Not attempted (PDF extraction not supported)
+  URL: https://www.ferc.gov/sites/default/files/2020-06/Order-841.pdf
+  Error: PDF format - would need pdf-to-text extraction
+  Fix: Use pdftotext or similar tool
+
+### Not Attempted (time constraints)
+- DOE Loan Programs Office pages - not attempted
+- DOE Grid Storage reports - not attempted
+- EIA Electric Power Monthly - not attempted
+- EIA Form 860M data files - not attempted
+- Treasury IRA guidance documents - not attempted
+- NERC reliability assessments - not attempted
+- Congressional testimony pages - not attempted
+- GAO energy reports - not attempted
+
+## Events/Communities
+
+### Not Attempted
+- Luma events - not attempted
+- Partiful events - not attempted
+- Industry conferences - not attempted
+- Community pages - not attempted
+
+## Summary of Issues
+
+### Blocking Issues (need browser automation)
+1. Cloudflare protection on .gov sites (FERC, some DOE)
+2. Cloudflare protection on some .edu/.org sites (LBNL)
+
+### Format Issues (need additional tools)
+1. PDF documents - need pdftotext or similar
+2. Some RSS feeds behind authentication
+3. Paywalled content (Bloomberg, S&P)
+
+### Rate Limiting
+- No rate limiting issues encountered with bird CLI
+- web_fetch requests all completed without rate limits
+
+### Coverage Gaps
+- ~90 Twitter accounts not scraped (only did 7)
+- ~15 think tanks not scraped (only did 4)
+- ~15 podcasts not fully scraped (only did 6)
+- ~20 government doc sources not scraped (only did 4)
+
+## Recommendations for Re-run
+
+### Priority 1: Use Browser Automation
+- FERC orders and documents
+- LBNL/EMP research pages
+- Any Cloudflare-protected sites
+
+### Priority 2: Add PDF Extraction
+- FERC Order PDFs
+- DOE reports
+- NREL/LBNL publications
+
+### Priority 3: Complete Twitter Scraping
+- Run through all 100+ accounts in twitter-accounts.jsonl
+- Use search queries for each: "from:handle storage OR battery"
+
+### Priority 4: Find Working RSS Feeds
+- Search Apple Podcasts for RSS feed URLs
+- Try podcast hosting platforms (Libsyn, Anchor, etc.)
+- Use podcast index APIs

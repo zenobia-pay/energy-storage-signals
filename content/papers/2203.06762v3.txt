@@ -1,0 +1,6 @@
+Title: The development of battery storage systems in Germany: A market review (status 2023)
+
+Authors: Jan Figgener, Christopher Hecht, David Haberschusz, Jakob Bors, Kai Gerd Spreuer, Kai-Philipp Kairies, Peter Stenzel, Dirk Uwe Sauer
+
+Abstract:
+The market for battery storage systems (BSS) has been growing rapidly for years and will multiply in the future. With this extension of our previous works, we contribute key figures for model parametrization and political decision-making and depict the market development in Germany, one of the leading storage markets worldwide. In empirical analyses, we evaluate and combine all major public databases on national stationary and mobile storage as well as our databases from subsidy programs and ext

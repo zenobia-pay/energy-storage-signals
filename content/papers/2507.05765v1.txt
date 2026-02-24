@@ -1,0 +1,6 @@
+Title: Real-time monitoring of the SoH of lithium-ion batteries
+
+Authors: Bruno Jammes, Edgar Hernando Sepúlveda-Oviedo, Corinne Alonso
+
+Abstract:
+Real-time monitoring of the state of health (SoH) of batteries remains a major challenge, particularly in microgrids where operational constraints limit the use of traditional methods. As part of the 4BLife project, we propose an innovative method based on the analysis of a discharge pulse at the end of the charge phase. The parameters of the equivalent electrical model describing the voltage evolution across the battery terminals during this current pulse are then used to estimate the SoH. Base

@@ -1,0 +1,38 @@
+# Resources Radio - All Guests
+# Curated list of guests from Resources for the Future podcast
+
+## Prominent Guests (by frequency/influence)
+
+### Energy Economists
+- Severin Borenstein - UC Berkeley, electricity markets
+- Dallas Burtraw - RFF Senior Fellow, carbon pricing
+- Karen Palmer - RFF Senior Fellow, electricity markets
+- Kevin Rennert - RFF Fellow, social cost of carbon
+- Margaret Walls - RFF Senior Fellow, land use
+
+### Policy Experts
+- Heather Zichal - Former Obama climate advisor, energy finance
+- Kate Gordon - California energy/climate policy
+- Tisha Schuller - Energy transition consultant
+- Jennifer Wilcox - DOE, carbon removal
+- Tom Moerenhout - Columbia CGEP, critical minerals
+
+### Industry Leaders
+- Diana Hernández - Columbia, energy equity
+- David Konisky - Indiana University, environmental justice
+- Ben Hertz-Shargel - Grid modernization
+
+### Climate Scientists
+- Vivek Srikrishnan - Cornell, climate modeling
+- Miyuki Hino - UNC, sea level rise
+- Arvind Ravikumar - UT Austin, methane emissions
+
+### Advocates & Communicators
+- Benji Backer - Conservative climate advocate
+- Dave Foster - Labor/environment alliances
+- Danny Richter - Carbon pricing policy
+
+### International Experts
+- Luisa Palacios - Columbia CGEP, Venezuela/Latin America energy
+- Paasha Mahdavi - UC Santa Barbara, fossil fuel subsidies
+- Sheila Olmstead - UT Austin, water/environment policy

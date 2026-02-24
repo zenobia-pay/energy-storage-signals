@@ -1,0 +1,8 @@
+Title: Two-Dimensional GaN: An Excellent Electrode Material Providing Fast Ion Diffusion and High Storage Capacity for Li-Ion and Na-Ion Batteries
+
+Authors: Xiaoming Zhang, Lei Jin, Xuefang Dai, Guifeng Chen, Guodong Liu
+
+DOI: 10.1021/acsami.8b15139
+
+Abstract:
+Identifying applicable anode materials is a significant task for Li- and Na-ion battery (LIB and NIB) technologies. We propose the GaN monolayer (2D GaN) can be a good anode candidate. The GaN monolayer manifests stable Li/Na adsorption and inherently low theoretical voltages. Most excitingly, both high storage capacity and extremely fast Li/Na diffusion can be simultaneously realized in the GaN monolayer. For Li, the storage capacity and diffusion barrier is 938 mA h g-1 and 80 meV , respective

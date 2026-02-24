@@ -1,0 +1,8 @@
+Title: Long-term usage of the off-grid photovoltaic system with lithium-ion battery-based energy storage system on high mountains: A case study in Payiun Lodge on Mt. Jade in Taiwan
+
+Authors: Hsien-Ching Chung
+
+DOI: 10.3390/batteries10060202
+
+Abstract:
+Energy supply on high mountains remains an open issue since grid connection is unavailable. In the past, diesel generators with lead-acid battery energy storage systems (ESSs) are applied in most cases. Recently, photovoltaic (PV) system with lithium-ion (Li-ion) battery ESS is an appropriate method for solving this problem in a greener way. In 2016, an off-grid PV system with Li-ion battery ESS has been installed in Paiyun Lodge on Mt. Jade (the highest lodge in Taiwan). After operation for mor

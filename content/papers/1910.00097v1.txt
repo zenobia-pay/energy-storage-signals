@@ -1,0 +1,6 @@
+Title: Photoacoustic Imaging of Lithium Metal Batteries
+
+Authors: Huihui Liu, Yibo Zhao, Jiasheng Zhou, Ping Li, Shou-Hang Bo, Sung-Liang Chen
+
+Abstract:
+We demonstrate that photoacoustic microscopy (PAM) can be a potential novel imaging tool to investigate the Li metal dendrite growth, a critical issue leading to short circuit and even explosion of Li metal batteries. Our results suggest several advantages of PAM imaging of Li metal batteries: high resolution (micrometers), 3D imaging capability, deep penetration in a separator, and high contrast from bulk Li metal. Further, PAM has potential for in situ real-time imaging of Li metal batteries.

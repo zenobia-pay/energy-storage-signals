@@ -1,0 +1,8 @@
+Title: High Rate Hybrid MnO2@CNT Fabric Anode for Li-Ion Batteries: Properties and Lithium Storage Mechanism by In-Situ Synchrotron X-Ray Scattering
+
+Authors: Moumita Rana, Venkata Sai Avvaru, Nicola Boaretto, Víctor A. de la Peña Ò Shea, Rebeca Marcill, Vinodkumar Etacheri, Juan J. Vilatela
+
+DOI: 10.1039/C9TA08800H
+
+Abstract:
+High-performance anodes for rechargeable Li-ion battery are produced by nanostructuring of the transition metal oxides on a conductive support. Here, we demonstrate a hybrid material of MnO2 directly grown onto fabrics of carbon nanotube fibres, which exhibits notable specific capacity over 1100 and 500 mAh/g at a discharge current density of 25 mA/g and 5 A/g, respectively, with coulombic efficiency of 97.5 %. Combined with 97 % capacity retention after 1500 cycles at a current density of 5 A/g

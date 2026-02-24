@@ -1,0 +1,8 @@
+Title: Modeling and Optimal Operation of Distributed Battery Storage in Low Voltage Grids
+
+Authors: Philipp Fortenbacher, Johanna L. Mathieu, Göran Andersson
+
+DOI: 10.1109/TPWRS.2017.2682339
+
+Abstract:
+Due to high power in-feed from photovoltaics, it can be expected that more battery systems will be installed in the distribution grid in near future to mitigate voltage violations and thermal line and transformer overloading. In this paper, we present a two-stage centralized model predictive control scheme for distributed battery storage that consists of a scheduling entity and a real-time control entity. To guarantee secure grid operation, we solve a robust multi-period optimal power flow (OPF)

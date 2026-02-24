@@ -1,0 +1,6 @@
+Title: Advanced Safety Filter for Smooth Transient Operation of a Battery Energy Storage System
+
+Authors: Michael Schneeberger, Florian Dörfler, Silvia Mastellone
+
+Abstract:
+In this paper, we implement an advanced safety filter to smoothly limit the current of an inverter-based Battery Energy Storage System. The task involves finding suitable Control Barrier Function and Control Lyapunov Function via Sum-of-Squares optimization to certify the system's safety during grid transients. In contrast to the conventional safety filter, the advanced safety filter not only provides a safety certificate but also achieves finite-time convergence to a nominal region. Within this

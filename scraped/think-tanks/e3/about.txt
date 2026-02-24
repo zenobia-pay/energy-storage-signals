@@ -1,0 +1,65 @@
+# E3 - Energy and Environmental Economics
+# Source: https://www.ethree.com/about/
+# Founded: 1989
+# Type: Energy Consulting Firm
+
+## Overview
+Energy + Environmental Economics (E3) is a consulting firm helping utilities,
+regulators, policy makers, developers, and investors make strategic decisions
+on clean energy implementation.
+
+## Headquarters
+San Francisco, CA
+
+## Additional Offices
+- Boston, MA
+- New York City, NY
+- Calgary, Canada
+
+## Focus Areas
+- Clean energy policy implementation
+- Utility planning
+- Market design
+- Environmental factors
+- Asset valuation
+- Regulatory support
+
+## Key Clients
+- Utilities
+- State agencies
+- Market operators
+- Regulators
+- Financial institutions
+- Equity investors
+
+## Notable Project Regions
+- California (50% RPS implementation)
+- New York (customer incentives, market design)
+- Hawaii (100% renewable energy planning)
+- Europe, China, India, Africa (international)
+
+## Services Related to Energy Storage
+- Storage economics analysis
+- Grid planning with storage
+- Rate design for storage
+- Resource adequacy studies
+- Long-term planning models
+- Cost-benefit analysis
+
+## Expertise
+- Analytical techniques
+- Electricity industry economics
+- Energy markets
+- Regulatory institutions
+- Policy analysis
+- Engineering
+
+## Notable Work
+E3 has been instrumental in California's clean energy transition,
+supporting the state's renewable portfolio standard and grid planning
+with high penetrations of solar, wind, and storage.
+
+## Industry Influence
+E3's analyses are frequently cited in regulatory proceedings and
+policy debates. Their models (like RESOLVE and PATHWAYS) are used
+by utilities and regulators for long-term planning.

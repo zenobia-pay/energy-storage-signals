@@ -1,0 +1,8 @@
+Title: A Novel Modular, Reconfigurable Battery Energy Storage System: Design, Control, and Experimentation
+
+Authors: Amir Farakhor, Di Wu, Yebin Wang, Huazhen Fang
+
+DOI: 10.1109/TTE.2022.3223993
+
+Abstract:
+This paper presents a novel modular, reconfigurable battery energy storage system. The proposed design is characterized by a tight integration of reconfigurable power switches and DC/DC converters. This characteristic enables isolation of faulty cells from the system and allows fine power control for individual cells toward optimal system-level performance. An optimal power management approach is developed to extensively exploit the merits of the proposed design. Based on receding-horizon convex

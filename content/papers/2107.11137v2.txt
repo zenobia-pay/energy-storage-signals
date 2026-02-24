@@ -1,0 +1,6 @@
+Title: Revisiting the storage capacity limit of graphite battery anodes: spontaneous lithium overintercalation at ambient pressure
+
+Authors: Cristina Grosu, Chiara Panosetti, Steffen Merz, Peter Jakes, Sebastian Matera, Rüdiger-A. Eichel, Josef Granwehr, Christoph Scheurer
+
+Abstract:
+The market quest for fast-charging, safe, long-lasting and performant batteries drives the exploration of new energy storage materials, but also promotes fundamental investigations of materials already widely used. Presently, revamped interest in anode materials is observed -- primarily graphite electrodes for lithium-ion batteries. Here, we focus on the upper limit of lithium intercalation in the morphologically quasi-ideal highly oriented pyrolytic graphite (HOPG), with a LiC$_6$ stoichiometry

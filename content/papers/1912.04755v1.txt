@@ -1,0 +1,6 @@
+Title: Additive manufacturing for energy storage: Methods, designs and materials selection for customizable 3D printed batteries and supercapacitors
+
+Authors: Umair Gulzar, Colm Glynn, Colm O'Dwyer
+
+Abstract:
+Additive manufacturing and 3D printing in particular have the potential to revolutionize existing fabrication processes where objects with complex structures and shapes can be built with multifunctional material systems. For electrochemical energy storage devices such as batteries and supercapacitors, 3D printing methods allows alternative form factors to be conceived based on the end use application need in mind at the design stage. Additively manufactured energy storage devices require active 

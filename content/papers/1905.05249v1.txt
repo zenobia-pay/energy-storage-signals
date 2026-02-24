@@ -1,0 +1,8 @@
+Title: Electrochemical properties of Na$_{0.66}$V$_4$O$_{10}$ nanostructures as cathode material in rechargeable batteries for energy storage applications
+
+Authors: Rakesh Saroha, Tuhin S. Khan, Mahesh Chandra, Rishabh Shukla, Amrish K. Panwar, Amit Gupta, M. Ali Haider, Suddhasatwa Basu, Rajendra S. Dhaka
+
+DOI: 10.1021/acsomega.9b00105
+
+Abstract:
+We report the electrochemical performance of nanostructures of Na$_{0.66}$V$_4$O$_{10}$ as cathode material for rechargeable batteries. The Rietveld refinement of room temperature x-ray diffraction pattern shows the monoclinic phase with C2/m space group. The cyclic voltammetry curves of prepared half-cells exhibit redox peaks at ~3.1 and 2.6~V, which are due to two-phase transition reaction between V$^{5+/4+}$ and can be assigned to the single step deintercalation/intercalation of Na-ion. We ob

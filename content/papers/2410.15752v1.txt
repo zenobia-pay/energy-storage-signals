@@ -1,0 +1,8 @@
+Title: Modeling and theoretical design of next-generation lithium metal batteries
+
+Authors: Yanchen Fana, Xiang Chenb, Dominik Legut, Qianfan Zhang
+
+DOI: 10.1016/j.ensm.2018.05.007
+
+Abstract:
+Rechargeable lithium metal batteries (LMBs) with an ultrahigh theoretical energy density have attracted more and more attentions for their crucial applications of portable electronic devices, electric vehicles, and smart grids. However, the implementation of LMBs in practice is still facing numerous challenges, such as low Coulombic e ciency, poor cycling performance, and complicated interfacial reactions. First-principles calculations have become a powerful technique in lithium battery research

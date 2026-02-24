@@ -1,0 +1,6 @@
+Title: Advances in Battery Energy Storage Management: Control and Economic Synergies
+
+Authors: Venkata Rajesh Chundru, Shreshta Rajakumar Deshpande, Stanislav A Gankov
+
+Abstract:
+The existing literature on Battery Energy Storage Systems (BESS) predominantly focuses on two main areas: control system design aimed at achieving grid stability and the techno-economic analysis of BESS dispatch on power grid. However, with the increasing incorporation of ancillary services into power grids, a more comprehensive approach to energy management systems is required. Such an approach should not only optimize revenue generation from BESS but also ensure the safe, efficient, and reliab

@@ -1,0 +1,6 @@
+Title: Price Aware Power Split Control in Heterogeneous Battery Storage Systems
+
+Authors: Sheng Yin, Vivek Teja Tanjavooru, Thomas Hamacher, Christoph Goebel, Holger Hesse
+
+Abstract:
+This paper presents a unified framework for the optimal scheduling of battery dispatch and internal power allocation in Battery energy storage systems (BESS). This novel approach integrates both market-based (price-aware) signals and physical system constraints to simultaneously optimize (1) external energy dispatch and (2) internal heterogeneity management of BESS, enhancing its operational economic value and performance. This work compares both model-based Linear Programming (LP) and model-fre

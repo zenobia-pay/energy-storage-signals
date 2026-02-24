@@ -1,0 +1,6 @@
+Title: Optimal Grid-Forming Control of Battery Energy Storage Systems Providing Multiple Services: Modelling and Experimental Validation
+
+Authors: Francesco Gerini, Yihui Zuo, Rahul Gupta, Elena Vagnoni, Rachid Cherkaoui, Mario Paolone
+
+Abstract:
+This paper proposes and experimentally validates a joint control and scheduling framework for a grid-forming converter-interfaced BESS providing multiple services to the electrical grid. The framework is designed to dispatch the operation of a distribution feeder hosting heterogeneous prosumers according to a dispatch plan and provide frequency containment reserve and voltage control as additional services. The framework consists of three phases. In the day-ahead scheduling phase, a robust optim

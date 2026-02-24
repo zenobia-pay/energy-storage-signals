@@ -1,0 +1,6 @@
+Title: Evaluating the Techno-Economic Viability of a Solar PV-Wind Turbine Hybrid System with Battery Storage for an Electric Vehicle Charging Station in Khobar, Saudi Arabia
+
+Authors: Ahmed S. AbdElrazek, Mohamed Soliman, Muhammad Khalid
+
+Abstract:
+The main aim of this investigation is to replicate and enhance a sustainable hybrid energy structure that combines solar photovoltaic, wind turbines, battery storage. The study employs the Homer simulation model to evaluate the scaling, cost, and control strategy of this hybrid power system. This work primarily focuses on determining the most efficient design for a renewable energy generation system architecture for a significant electric vehicle charging station. The hybrid power system is desi

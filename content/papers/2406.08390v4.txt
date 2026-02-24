@@ -1,0 +1,6 @@
+Title: Coordinated Trading Strategies for Battery Storage in Reserve and Spot Markets
+
+Authors: Paul E. Seifert, Emil Kraft, Steffen Bakker, Stein-Erik Fleten
+
+Abstract:
+Quantity and price risks are key uncertainties market participants face in electricity markets with increased volatility, for instance, due to high shares of renewables. From day ahead until real-time, there is a large variation in the best available information, leading to price changes that flexible assets, such as battery storage, can exploit economically. This study contributes to understanding how coordinated bidding strategies can enhance multi-market trading and large-scale energy storage

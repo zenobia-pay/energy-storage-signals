@@ -1,0 +1,6 @@
+Title: A Continuum of Physics-Based Lithium-Ion Battery Models Reviewed
+
+Authors: Ferran Brosa Planella, Weilong Ai, Adam M. Boyce, Abir Ghosh, Ivan Korotkin, Smita Sahu, Valentin Sulzer, Robert Timms, Thomas G. Tranter, Maxim Zyskin, Samuel J. Cooper, Jacqueline S. Edge, Jamie M. Foster, Monica Marinescu, Billy Wu, Giles Richardson
+
+Abstract:
+Physics-based electrochemical battery models derived from porous electrode theory are a very powerful tool for understanding lithium-ion batteries, as well as for improving their design and management. Different model fidelity, and thus model complexity, is needed for different applications. For example, in battery design we can afford longer computational times and the use of powerful computers, while for real-time battery control (e.g. in electric vehicles) we need to perform very fast calcula

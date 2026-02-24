@@ -1,0 +1,8 @@
+Title: Optimal Placement and Sizing of Distributed Battery Storage in Low Voltage Grids using Receding Horizon Control Strategies
+
+Authors: Philipp Fortenbacher, Andreas Ulbig, Göran Andersson
+
+DOI: 10.1109/TPWRS.2017.2746261
+
+Abstract:
+In this paper we present a novel methodology for leveraging Receding Horizon Control (RHC), also known as Model Predictive Control (MPC) strategies for distributed battery storage in a planning problem using a Benders decomposition technique. Longer prediction horizons lead to better storage placement strategies but also higher computational complexity that can quickly become computationally prohibitive. The here proposed MPC strategy in conjunction with a Benders decomposition technique effecti

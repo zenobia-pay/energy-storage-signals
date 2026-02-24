@@ -1,0 +1,6 @@
+Title: Privacy-Preserving Distributed Control for a Networked Battery Energy Storage System
+
+Authors: Mihitha Maithripala, Zongli Lin
+
+Abstract:
+The increasing deployment of distributed Battery Energy Storage Systems (BESSs) in modern power grids necessitates effective coordination strategies to ensure state-of-charge (SoC) balancing and accurate power delivery. While distributed control frameworks offer scalability and resilience, they also raise significant privacy concerns due to the need for inter-agent information exchange. This paper presents a novel privacy-preserving distributed control algorithm for SoC balancing in a networked 

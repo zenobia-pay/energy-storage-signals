@@ -1,0 +1,8 @@
+Title: High-performance magnesium/sodium hybrid ion battery based on sodium vanadate oxide for reversible storage of Na+ and Mg2+
+
+Authors: Xiaoke Wang, Titi Li, Xixi Zhang, Yaxin Wang, Hongfei Li, Hai-Feng Li, Gang Zhao, Cuiping Han
+
+DOI: 10.1016/j.jechem.2024.04.016
+
+Abstract:
+Magnesium ion batteries (MIBs) are a potential field for the energy storage of the future but are restricted by insufficient rate capability and rapid capacity degradation. Magnesium-sodium hybrid ion batteries (MSHBs) are an effective way to address these problems. Here, we report a new type of MSHBs that use layered sodium vanadate ((Na, Mn)V8O20 5H2O, Mn-NVO) cathodes coupled with an organic 3,4,9,10-perylenetetracarboxylic diimide (PTCDI) anode in Mg2+/Na+ hybrid electrolytes. During electro

@@ -1,0 +1,8 @@
+Title: Scheduling Power-Intensive Operations of Battery Energy Storage Systems and Application to Hybrid Hydropower Plants
+
+Authors: Stefano Cassano, Fabrizio Sossan
+
+DOI: 10.1016/j.apenergy.2025.125559
+
+Abstract:
+This paper proposes a novel set of power constraints for Battery Energy Storage Systems (BESSs), referred to as Dynamic Power Constraints (DPCs), that account for the voltage and current limits of the BESS as a function of its State of Charge (SOC). These constraints are formulated for integration into optimization-based BESS scheduling problems, providing a significant improvement over traditional static constraints. It is shown that, under mild assumptions typically verified during practical o

@@ -1,0 +1,8 @@
+Title: Lithium transport through Lithium-ion battery cathode coatings
+
+Authors: Shenzhen Xu, Ryan M. Jacobs, Ha M. Nguyen, Shiqiang Hao, Mahesh Mahanthappa, Chris Wolverton, Dane Morgan
+
+DOI: 10.1039/C5TA01664A
+
+Abstract:
+The surface coating of cathodes using insulator films has proven to be a promising method for high-voltage cathode stabilization in Li-ion batteries. However, there is still substantial uncertainty about how these films function, specifically with regard to important coating design principles such as lithium solubility and transport through the films. This study uses Density Functional Theory to examine the diffusivity of interstitial lithium in crystalline α-$AlF_3$, α-$Al_2O_3$, m-$ZrO_2$, c-M

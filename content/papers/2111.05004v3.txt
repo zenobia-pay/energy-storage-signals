@@ -1,0 +1,6 @@
+Title: Model Predictive Control for a Medium-head Hydropower Plant Hybridized with Battery Energy Storage to Reduce Penstock Fatigue
+
+Authors: Stefano Cassano, Fabrizio Sossan
+
+Abstract:
+A hybrid hydropower power plant is a conventional HydroPower Plant (HPP) augmented with a Battery Energy Storage System (BESS) to decrease the wear and tear of sensitive mechanical components and improve the reliability and regulation performance of the overall plant. A central task of controlling hybrid power plants is determining how the total power set-point should be split between the BESS and the hybridized unit (power set-point splitting) as a function of the operational objectives. This p

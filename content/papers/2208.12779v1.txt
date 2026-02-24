@@ -1,0 +1,6 @@
+Title: Battery and Hydrogen Energy Storage Control in a Smart Energy Network with Flexible Energy Demand using Deep Reinforcement Learning
+
+Authors: Cephas Samende, Zhong Fan, Jun Cao
+
+Abstract:
+Smart energy networks provide for an effective means to accommodate high penetrations of variable renewable energy sources like solar and wind, which are key for deep decarbonisation of energy production. However, given the variability of the renewables as well as the energy demand, it is imperative to develop effective control and energy storage schemes to manage the variable energy generation and achieve desired system economics and environmental goals. In this paper, we introduce a hybrid ene

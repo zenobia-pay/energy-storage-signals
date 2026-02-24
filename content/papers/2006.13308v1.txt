@@ -1,0 +1,8 @@
+Title: Influence of Permeability Anisotropy and Layered Heterogeneity on Geothermal Energy Battery Storage
+
+Authors: Palash Panja, John McLennan, Sidney Green
+
+DOI: 10.1016/j.geothermics.2020.101998
+
+Abstract:
+The Geothermal Battery Energy Storage concept has been proposed to provide large-scale heat storage when solar radiance is available, to be later recovered for economic benefit. The concept uses solar radiance to heat water on the surface which is then injected into a suitable subsurface formation. This hot water elevates the ambient formation temperature creating a high-temperature geothermal reservoir acceptable for geothermal electricity generation or direct heat applications. The process use

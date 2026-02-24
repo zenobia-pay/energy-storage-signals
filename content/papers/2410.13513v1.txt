@@ -1,0 +1,8 @@
+Title: Geometry-influenced cooling performance of lithium-ion battery
+
+Authors: Dwijendra Dubey, A. Mishra, Subrata Ghosh, M. V. Reddy, Ramesh Pandey
+
+DOI: 10.1016/j.applthermaleng.2023.120723
+
+Abstract:
+Battery geometry (shape and size) is one of the important parameters which governs the battery capacity and thermal behavior. In the dynamic conditions or during the operation, the performance of batteries become much more complex. Herein, the changes in thermal behavior of lithium-ion battery (LIB)by altering the geometry i.e., length to diameter ratio (l/d), is investigated. The geometries considered are named as large geometry (LG), datum geometry (DG) and small geometry (SG) with the l/d rat

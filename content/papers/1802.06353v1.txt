@@ -1,0 +1,8 @@
+Title: On the well-posedness of a multiscale mathematical model for Lithium-ion batteries
+
+Authors: Jesús Ildefonso Díaz, David Gómez-Castro, Angel Manuel Ramos
+
+DOI: 10.1515/anona-2018-0041
+
+Abstract:
+We consider the mathematical treatment of a system of nonlinear partial differential equations based on a model, proposed in 1972 by J. Newman, in which the coupling between the Lithium concentration, the phase potentials and temperature in the electrodes and the electrolyte of a Lithium battery cell is considered. After introducing some functional spaces well-adapted to our framework we obtain some rigorous results showing the well-posedness of the system, first for some short time and then, by

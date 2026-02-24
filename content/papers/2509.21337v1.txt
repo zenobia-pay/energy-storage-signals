@@ -1,0 +1,6 @@
+Title: Optimized Operation of Standalone Battery Energy Storage Systems in the Cross-Market Energy Arbitrage Business
+
+Authors: Luis van Sandbergen
+
+Abstract:
+The provision of renewable electricity is the foundation for a sustainable future. To achieve the goal of sustainable renewable energy, Battery Energy Storage Systems (BESS) could play a key role to counteract the intermittency of solar and wind generation power. In order to aid the system, the BESS can simply charge at low wholesale prices and discharge during high prices, which is also called energy arbitrage. However, the real-time execution of energy arbitrage is not straightforward for many

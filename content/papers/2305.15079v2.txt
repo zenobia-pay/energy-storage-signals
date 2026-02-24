@@ -1,0 +1,6 @@
+Title: Life cycle economic viability analysis of battery storage in electricity market
+
+Authors: Yinguo Yang, Yiling Ye, Zhuoxiao Cheng, Guangchun Ruan, Qiuyu Lu, Xuan Wang, Haiwang Zhong
+
+Abstract:
+Battery storage is essential to enhance the flexibility and reliability of electric power systems by providing auxiliary services and load shifting. Storage owners typically gains incentives from quick responses to auxiliary service prices, but frequent charging and discharging also reduce its lifetime. Therefore, this paper embeds the battery degradation cost into the operation simulation to avoid overestimated profits caused by an aggressive bidding strategy. Based on an operation simulation m

@@ -1,0 +1,6 @@
+Title: Ultrasonic identification technique in recycling of lithium ion batteries
+
+Authors: Michiel Postema, Satyajit Phadke, Anthony Novell, Rustem Uzbekov, Cuthbert Nyamupangedengu, Mériém Anouti, Ayache Bouakaz
+
+Abstract:
+The recycling of lithium ion batteries has been mentioned as one of the near-future waste management necessities. In order for recycling to be economically viable, straightforward and cost effective techniques need to be developed to separate the individual materials in a composite electrode. Ultrasonic separation might be such a technique, provided that lithium ion battery microparticles respond predictably to a sound field. Lithium ion battery cathodes contain hydrophobic carbon. Owing to the 

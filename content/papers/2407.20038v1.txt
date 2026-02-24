@@ -1,0 +1,8 @@
+Title: Optimal Control of a Battery Storage On the Energy Market
+
+Authors: Stephan Schlüter, Abhinav Das, Mathew Davison
+
+DOI: 10.1109/ICPSAsia61913.2024.10761266
+
+Abstract:
+Electricity storage is crucial for a successful transition towards carbon-neutral energy production. Despite considerable research and a number of promising future alternatives such as hydrogen, battery storages currently remain the first choice. However, costs remain high and it remains to be shown whether an investment can be profitable. This article addresses this question by modelling a battery storage operating in the German power market. We consider two periods with very distinct price dyn

@@ -1,0 +1,6 @@
+Title: Scalable Optimal Power Management for Large-Scale Battery Energy Storage Systems
+
+Authors: Amir Farakhor, Di Wu, Yebin Wang, Huazhen Fang
+
+Abstract:
+Large-scale battery energy storage systems (BESS) are helping transition the world towards sustainability with their broad use, among others, in electrified transportation, power grid, and renewables. However, optimal power management for them is often computationally formidable. To overcome this challenge, we develop a scalable approach in the paper. The proposed approach partitions the constituting cells of a large-scale BESS into clusters based on their state-of-charge (SoC), temperature, and

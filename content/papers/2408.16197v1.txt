@@ -1,0 +1,6 @@
+Title: Economic Optimal Power Management of Second-Life Battery Energy Storage Systems
+
+Authors: Amir Farakhor, Di Wu, Pingen Chen, Junmin Wang, Yebin Wang, Huazhen Fang
+
+Abstract:
+Second-life battery energy storage systems (SL-BESS) are an economical means of long-duration grid energy storage. They utilize retired battery packs from electric vehicles to store and provide electrical energy at the utility scale. However, they pose critical challenges in achieving optimal utilization and extending their remaining useful life. These complications primarily result from the constituent battery packs' inherent heterogeneities in terms of their size, chemistry, and degradation. T

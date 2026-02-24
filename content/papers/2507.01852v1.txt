@@ -1,0 +1,6 @@
+Title: Predictive Energy Management for Mitigating Load Altering Attacks for Islanded Microgrids Using Battery Energy Storage Systems
+
+Authors: Satish Vedula, Koto Omiloli, Ayobami Olajube, Olugbenga Anubi
+
+Abstract:
+An increasing number of smart devices controlling loads opens a potential pathway for false data attacks which could alter the loads. The presence of energy storage with its ability to quickly respond to discrepancies in loads offers a promising solution for security by preventing further instabilities and potential blackouts. This paper proposes a control methodology for secure predictive energy management that uses batteries to mitigate the impact of load-altering attacks. To that extent, we d

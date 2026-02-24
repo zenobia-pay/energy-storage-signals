@@ -1,0 +1,8 @@
+Title: Sizing Battery Energy Storage and PV System in an Extreme Fast Charging Station Considering Uncertainties and Battery Degradation
+
+Authors: Waqas ur Rehman, Rui Bo, Hossein Mehdipourpicha, Jonathan Kimball
+
+DOI: 10.1016/j.apenergy.2022.118745
+
+Abstract:
+This paper presents mixed integer linear programming (MILP) formulations to obtain optimal sizing for a battery energy storage system (BESS) and solar generation system in an extreme fast charging station (XFCS) to reduce the annualized total cost. The proposed model characterizes a typical year with eight representative scenarios and obtains the optimal energy management for the station and BESS operation to exploit the energy arbitrage for each scenario. Contrasting extant literature, this pap

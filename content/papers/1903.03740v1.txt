@@ -1,0 +1,6 @@
+Title: Storage of electrical energy: Batteries and Supercapacitors
+
+Authors: Trilochan Bagarti, Arun M Jayannavar
+
+Abstract:
+In this article we shall discuss the development of electrical storage system. Since the early days of electricity people have tried various methods to store electricity. One of the earliest device was a simple electrostatic capacitor that could store less than a micro Joule of energy. The battery has been the most popular in storing electricity as it has a higher energy density. We will discuss the development of batteries and their working principle. Although capacitors has never been thought 

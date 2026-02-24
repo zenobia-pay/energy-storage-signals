@@ -1,0 +1,65 @@
+# @drvolts - Recent Tweets on Energy Storage
+# Scraped: 2026-02-19
+# Source: Twitter/X via bird CLI search
+
+## Profile
+- Name: David Roberts
+- Role: Energy journalist, Volts podcast host
+- Focus: Clean energy technology, politics, and policy
+- Twitter: @drvolts
+- Newsletter: volts.wtf (Substack)
+
+## Recent Tweets on Energy Storage (Selected)
+
+### Oct 22, 2025: Redwood Materials Second-Life Batteries
+"Redwood Materials, the biggest battery recycler in the US, has launched Redwood 
+Energy, which will gather used batteries & hook them up to power banks to serve 
+as grid-scale storage until they're depleted."
+
+Volts episode with CTO on logistics & potential.
+
+### Oct 1, 2025: Hyperscalers and Storage
+"The folks at @rewiringamerica have an idea. Hyperscalers desperately need to 
+free up grid capacity for data centers, right? Why not let them buy that capacity 
+by paying for residential heat pumps & solar/storage systems?"
+
+Episode with Rewiring America and PG&E.
+
+### Sep 24, 2025: Industrial Heat Pumps & Thermal Storage
+"Low-temp industry -- beer, paper, food, etc.? It can be decarbonized with 
+industrial heat pumps & thermal storage, but it needs policy & incentives."
+
+### Sep 3, 2025: Sodium-Ion Batteries
+"Sodium-ion batteries! They are lower in energy density than lithium-ion, but 
+cheaper, safer, & made from abundant domestic materials. What are they good for? 
+Peak Energy is using them for grid-scale energy storage."
+
+Episode with Peak Energy CEO.
+
+### Jul 16, 2025: Solar+Storage Economics
+"The sun doesn't shine at night, but if you add batteries it might as well! 
+If you're not closely tracking the industry, you're probably not aware of just 
+how cheap solar+storage is getting."
+
+Episode discussing new Ember report.
+
+### Jan 22, 2025: Pumped Hydro Revival
+"Pumped hydro is the most common form of energy storage, but there hasn't been 
+much built in the US in years. That's about to change, with the coming of a wave 
+of 'closed loop' pumped hydro facilities, which do not need rivers or dams."
+
+## Key Volts Episodes on Storage
+1. Redwood Materials battery recycling and second-life program
+2. Sodium-ion batteries with Peak Energy
+3. Solar+storage economics (Ember report)
+4. Closed-loop pumped hydro
+5. Thermal storage for industrial decarbonization
+6. Virtual power plants and distributed storage
+
+## Key Themes
+1. Battery recycling and circular economy
+2. Alternative battery chemistries (sodium-ion)
+3. Solar+storage cost declines
+4. Pumped hydro renaissance
+5. Thermal storage for industry
+6. Grid capacity and data center demand

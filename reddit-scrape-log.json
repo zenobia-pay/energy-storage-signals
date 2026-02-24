@@ -1,0 +1,46 @@
+{
+  "started_at": "2026-02-20T11:07:00-05:00",
+  "completed_at": "2026-02-20T11:45:00-05:00",
+  "status": "completed_initial_pass",
+  "subreddits_scraped": [
+    "energy", "solar", "electricvehicles", "EnergyStorage", "renewable", 
+    "sustainability", "batteries", "Futurology", "UpliftingNews", "technology",
+    "wallstreetbets", "singularity", "Damnthatsinteresting", "science",
+    "ClimateCrisisCanada", "OptimistsUnite", "tech", "Powerwall", "TeslaSolar",
+    "SolarUK", "homeowners", "prepping", "DIY", "Generator", "electricians",
+    "legaladvice", "HistoricalCapsule", "climatechange", "worldnews",
+    "todayilearned", "confidentlyincorrect", "interestingasfuck", "AdviceAnimals",
+    "SolarDIY", "RenewableEnergy", "OffGrid"
+  ],
+  "search_queries_executed": [
+    "energy storage", "battery storage", "grid scale", "BESS", "utility scale",
+    "solar panel install", "home battery backup", "powerwall tesla", "lithium battery grid",
+    "electric car battery", "renewable energy storage"
+  ],
+  "posts_processed": 45,
+  "total_users_extracted": 1180,
+  "unique_users": 1100,
+  "comments_analyzed": 4000,
+  "high_engagement_posts_read": [
+    "r/energy - solar panels longevity (335 comments)",
+    "r/UpliftingNews - California battery storage (499 comments)",
+    "r/Futurology - Oxford clean energy (1833 comments)",
+    "r/science - lithium-sulphur battery (1716 comments)",
+    "r/energy - CATL sodium ion (375 comments)",
+    "r/Futurology - China battery prices (268 comments)",
+    "r/Futurology - $63/kWh storage (208 comments)",
+    "r/UpliftingNews - China CO2 flat (262 comments)",
+    "r/wallstreetbets - Ford EV pivot (1007 comments)",
+    "r/singularity - 5D glass storage (339 comments)",
+    "r/Damnthatsinteresting - California solar bill (1293 comments)",
+    "r/technology - China solar panels (1301 comments)",
+    "r/technology - Tesla virtual power plant (793 comments)",
+    "r/Futurology - molten salt battery (1406 comments)",
+    "r/worldnews - Norway phosphate (3568 comments)",
+    "r/Futurology - EV battery longevity (858 comments)"
+  ],
+  "output_files": {
+    "reddit-users.jsonl": "All users with metadata (username, subreddits, source_post, scraped_at)"
+  },
+  "notes": "Initial pass complete. Extracted ~1,180 users from 45 high-engagement posts. To reach 50k target, need to: 1) Read full comment threads of all 45 posts (only read partial), 2) Expand to more subreddits (r/teslamotors, r/RealTesla, r/australia, r/climate, etc), 3) Follow user profiles to find additional content creators. Current extraction focused on commenters in energy storage discussions."
+}

@@ -1,0 +1,6 @@
+Title: Off-grid solar energy storage system with hybrid lithium iron phosphate (LFP) and lead-acid batteries in high mountains: a case report of Jiujiu Cabins in Taiwan
+
+Authors: Hsien-Ching Chung
+
+Abstract:
+Mountain huts are buildings located at high altitude, offering a place for hikers and providing shelter. Energy supply to mountain huts remains an ongoing issue. Using renewable energies could be an appropriate solution. Jiujiu Cabins, a famous mountain hut in Shei-Pa National Park, Taiwan, has operated an off-grid solar energy storage system (ESS) with lead-acid batteries. In 2021, a serious system failure took place, leading to no electricity. After a detailed on-site survey, a reorganization 

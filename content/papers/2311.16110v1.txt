@@ -1,0 +1,6 @@
+Title: Community Battery Energy Storage Systems for Enhancing Distribution System Operation: A Multi-objective Optimization Approach
+
+Authors: Yunqi Wang, Hao Wang, Markus Wagner, Ariel Liebman
+
+Abstract:
+The growing penetration of distributed energy resources (DERs) in distribution networks (DNs) raises new operational challenges, particularly in terms of reliability and voltage regulation. In response to these challenges, we introduce an innovative DN operation framework with multi-objective optimization, leveraging community battery energy storage systems (C-BESS). The proposed framework targets two key operational objectives: first, to minimize voltage deviation, which is a concern for a dist

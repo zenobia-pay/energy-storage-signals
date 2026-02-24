@@ -1,0 +1,8 @@
+Title: Structured electrode additive manufacturing for lithium-ion batteries
+
+Authors: Soyeon Park, Kaiyue Deng, Baohui Shi, Yuanyuan Shang, Kun
+
+DOI: 10.1021/acs.nanolett.2c03545
+
+Abstract:
+A thick electrode with high areal capacity has been developed as a strategy for high-energy-density lithium-ion batteries, but thick electrodes have difficulties in manufacturing and limitations in ion transport. Here, we reported a new manufacturing approach for ultra-thick electrode with aligned structure, called structure electrode additive manufacturing or SEAM, which aligns active materials to the through-thicknesses direction of electrodes using shear flow and a designed printing path. The

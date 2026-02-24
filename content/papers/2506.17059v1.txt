@@ -1,0 +1,6 @@
+Title: Evaluating the Impact of Model Accuracy for Optimizing Battery Energy Storage Systems
+
+Authors: Martin Cornejo, Melina Graner, Holger Hesse, Andreas Jossen
+
+Abstract:
+This study investigates two models of varying complexity for optimizing intraday arbitrage energy trading of a battery energy storage system using a model predictive control approach. Scenarios reflecting different stages of the system's lifetime are analyzed. The findings demonstrate that the equivalent-circuit-model-based non-linear optimization model outperforms the simpler linear model by delivering more accurate predictions of energy losses and system capabilities. This enhanced accuracy en

@@ -1,0 +1,58 @@
+# @JesseJenkins - Recent Tweets on Energy Storage
+# Scraped: 2026-02-19
+# Source: Twitter/X via bird CLI search
+
+## Profile
+- Name: Jesse D. Jenkins
+- Role: Princeton professor, energy systems researcher
+- Focus: Macro energy systems, grid modeling, GenX model
+- Twitter: @JesseJenkins
+
+## Recent Tweets on Energy Storage (Selected)
+
+### Jan 29, 2026: High Temperature Heat Storage
+"Another high temp heat battery now in operation! 20 MWh-thermal stored at 1800°C 
+in ceramic oxide "firebricks". This one from MIT spin-out Electrified Thermal Solutions."
+
+Notes: Jesse is an advisor to Rondo Energy. The concept allows higher temps than 
+conventional heat batteries (1800°C vs ~1200-1500°C), enabling applications like 
+steel making or cement calciners.
+
+### Jan 25, 2026: Multi-Day Storage Solutions
+"One plausible solution I think is on-site liquid fuel storage... Liquid fuel is 
+remarkably energy dense and easy to store. Could be a fossil diesel with very 
+little annual emissions impact or synthetic diesel... Other solutions include 
+greater use of geothermal with in-reservoir energy storage and nuclear with 
+thermal storage, or other low-cost multi-day storage technologies."
+
+### Dec 31, 2025: Storage Cost Thresholds
+"We assess the full possible design space of future storage technology of all types 
+and find that costs below $10/kWh (+ sufficient combo of other performance parameters) 
+are needed to fully displace new, carbon-free firm generation options in a decarbonized grid."
+
+Key research paper: https://doi.org/10.1016/j.joule.2024.03.020
+
+### Nov 21, 2025: China Battery Export Boom
+"Battery export boom: China has exported approximately $60 billion in battery energy 
+storage systems and components in the first three quarters of 2025, up 24% from last year"
+
+Comparison: US soy exports $25b, LNG $28.9b, Auto exports $59.2b
+
+### Oct 22, 2024: LCOS Critique
+"We should never talk about storage as if it's a source of energy, which is what LCOS 
+attempts. If we must, consider the LEVELIZED ARBITRAGE SPREAD, not LCOS. Take the buy 
+price out entirely and just focus on arbitrage spread."
+
+### Oct 19, 2024: California Solar+Storage
+"A coalition of California farmers and legislators is advancing the Valley Clean 
+Infrastructure Plan, granting Westland Water District authority to develop transmission 
+lines that will enable 20 GW of solar energy & storage projects on farmlands lacking 
+sufficient water supply."
+
+## Key Themes
+1. Long-duration energy storage economics
+2. Multi-day storage requirements for grid decarbonization
+3. Heat storage for industrial applications
+4. China's dominance in battery exports
+5. Critique of storage valuation metrics (LCOS)
+6. Integration of storage with renewables

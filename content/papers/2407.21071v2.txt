@@ -1,0 +1,6 @@
+Title: Graded lithium-ion battery pouch cells to homogenise current distributions and mitigate lithium plating
+
+Authors: Ross Drummond, Eloise C. Tredenick, Toby L. Kirk, Marveh Forghani, Patrick S. Grant, Stephen R. Duncan
+
+Abstract:
+Spatial distributions in current, temperature, state-of-charge and degradation across the plane of large format lithium-ion battery pouch cells can significantly impact their performance, especially at high C-rates. In this paper, a method to smooth out these spatial distributions by grading the electrode microstructure in-the-plane is proposed. A mathematical model of a large format pouch cell is developed and validated against both temperature and voltage experimental data. An analytical solut

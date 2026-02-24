@@ -1,0 +1,47 @@
+# My Climate Journey (MCJ) Podcast
+# Now Called: "Inevitable" by MCJ
+# Source: https://mcj.vc/media/podcast
+# Hosted by: Jason Jacobs
+
+## Overview
+My Climate Journey is a podcast hosted by Jason Jacobs, founder of MCJ Collective,
+a venture fund and community focused on climate tech. The podcast features 
+interviews with entrepreneurs, investors, policymakers, and thought leaders
+working on climate solutions.
+
+## Episode Count
+500+ episodes as of 2026
+
+## Format
+- Long-form interviews (60-90 minutes typical)
+- Focus on climate tech startups and investors
+- Policy discussions
+- Personal climate journeys
+
+## Notable Energy Storage Episodes (Selected)
+
+### Battery Technology
+- Episode with Form Energy founders on iron-air batteries
+- Episode with Eos Energy on zinc batteries
+- Episode with ESS Inc. on iron flow batteries
+- Episode with Ambri on liquid metal batteries
+
+### Investors
+- Episode with DCVC partners on climate investing
+- Episode with Congruent Ventures
+- Episode with Energy Impact Partners
+- Episode with Breakthrough Energy Ventures
+
+### Policy & Research
+- Episode with Jesse Jenkins (Princeton)
+- Episode with RMI leadership
+- Episode with DOE officials
+
+## Host
+Jason Jacobs - Former entrepreneur (RunKeeper founder), now climate investor
+and community builder through MCJ Collective.
+
+## Related
+- MCJ Collective (venture fund)
+- MCJ Community (membership network)
+- MCJ Fellows Program

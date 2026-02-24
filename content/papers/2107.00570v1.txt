@@ -1,0 +1,6 @@
+Title: Proposed new dynamic power insertion method for stabilized power generation based on battery energy storage system
+
+Authors: Amirhossein Khosravipour
+
+Abstract:
+The solar energy is clean and future energy for electricity generation. Its energy has enormous potential but do not optimal to utilized caused by intermittent energy. The intermittent radiance and ambient temperature influence the energy produced fluctuates and unstable. These power fluctuations affect system stability and frequency. To overcome this problem, several methods for PV power stabilization have been developed. One of them is the Stabilized Power Generation where PV output power is t

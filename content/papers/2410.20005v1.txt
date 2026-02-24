@@ -1,0 +1,8 @@
+Title: Enhancing Battery Storage Energy Arbitrage with Deep Reinforcement Learning and Time-Series Forecasting
+
+Authors: Manuel Sage, Joshua Campbell, Yaoyao Fiona Zhao
+
+DOI: 10.1115/ES2024-130538
+
+Abstract:
+Energy arbitrage is one of the most profitable sources of income for battery operators, generating revenues by buying and selling electricity at different prices. Forecasting these revenues is challenging due to the inherent uncertainty of electricity prices. Deep reinforcement learning (DRL) emerged in recent years as a promising tool, able to cope with uncertainty by training on large quantities of historical data. However, without access to future electricity prices, DRL agents can only react

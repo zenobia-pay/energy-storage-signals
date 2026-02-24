@@ -1,0 +1,6 @@
+Title: Stochastic Dynamic Optimal Power Flow in Distribution Network with Distributed Renewable Energy and Battery Energy Storage
+
+Authors: Chenghui Tang, Jian Xu, Yuanzhang Sun, Siyang Liao, Deping Ke, Xiong Li
+
+Abstract:
+The penetration of distributed renewable energy (DRE) greatly raises the risk of distribution network operation such as peak shaving and voltage stability. Battery energy storage (BES) has been widely accepted as the most potential application to cope with the challenge of high penetration of DRE. To cope with the uncertainties and variability of DRE, a stochastic day-ahead dynamic optimal power flow (DOPF) and its algorithm are proposed. The overall economy is achieved by fully considering the 

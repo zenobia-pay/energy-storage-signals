@@ -1,0 +1,6 @@
+Title: Supervisory model predictive control for PV battery and heat pump system with phase change slurry thermal storage
+
+Authors: Yannik Löhr, Daniel Wolf, Clemens Pollerberg, Alexander Hörsting, Martin Mönnigmann
+
+Abstract:
+We present the design, implementation and experimental validation of a supervisory predictive control approach for an electrical heating system featuring a phase change slurry as heat storage and transfer medium. The controller optimizes the energy flows that are used as set points for the heat generation and energy distribution components. The optimization handles the thermal and electrical subsystems simultaneously and is able to switch between different objectives. We show the control can be 

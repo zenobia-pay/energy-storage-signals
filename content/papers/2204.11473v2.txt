@@ -1,0 +1,6 @@
+Title: Mitigation of Cyberattacks through Battery Storage for Stable Microgrid Operation
+
+Authors: Ioannis Zografopoulos, Panagiotis Karamichailidis, Andreas T. Procopiou, Fei Teng, George C. Konstantopoulos, Charalambos Konstantinou
+
+Abstract:
+In this paper, we present a mitigation methodology that leverages battery energy storage system (BESS) resources in coordination with microgrid (MG) ancillary services to maintain power system operations during cyberattacks. The control of MG agents is achieved in a distributed fashion, and once a misbehaving agent is detected, the MG's mode supervisory controller (MSC) isolates the compromised agent and initiates self-healing procedures to support the power demand and restore the compromised ag

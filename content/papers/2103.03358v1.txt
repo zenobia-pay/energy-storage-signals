@@ -1,0 +1,6 @@
+Title: Non-invasive Current Density Imaging of Lithium-Ion Batteries
+
+Authors: Mark G. Bason, Thomas Coussens, Matthew Withers, Christopher Abel, Gary Kendall, Peter Kruger
+
+Abstract:
+The rapid pace of replacing fossil fuel propelled transport by electric vehicles is critically dependent on high-performing, high energy density and efficient batteries. Optimal and safe use of existing battery cells and development of much-needed novel battery chemistries and geometries require a large range of diagnostic and monitoring tools. While structural and chemical information is readily extracted through a host of imaging techniques, non-invasive functional detection of interior batter

@@ -1,0 +1,6 @@
+Title: Optimal Workload Allocation for Distributed Edge Clouds With Renewable Energy and Battery Storage
+
+Authors: Duong Thuy Anh Nguyen, Jiaming Cheng, Ni Trieu, Duong Tung Nguyen
+
+Abstract:
+This paper studies an optimal workload allocation problem for a network of renewable energy-powered edge clouds that serve users located across various geographical areas. Specifically, each edge cloud is furnished with both an on-site renewable energy generation unit and a battery storage unit. Due to the discrepancy in electricity pricing and the diverse temporal-spatial characteristics of renewable energy generation, how to optimally allocate workload to different edge clouds to minimize the 

@@ -1,0 +1,6 @@
+Title: Learning the P2D Model for Lithium-Ion Batteries with SOH Detection
+
+Authors: Maricela Best McKay, Bhushan Gopaluni, Brian Wetton
+
+Abstract:
+Lithium ion batteries are widely used in many applications. Battery management systems control their optimal use and charging and predict when the battery will cease to deliver the required output on a planned duty or driving cycle. Such systems use a simulation of a mathematical model of battery performance. These models can be electrochemical or data-driven. Electrochemical models for batteries running at high currents are mathematically and computationally complex. In this work, we show that 

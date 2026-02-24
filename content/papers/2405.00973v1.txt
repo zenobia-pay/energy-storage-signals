@@ -1,0 +1,6 @@
+Title: Active Cell Balancing for Extended Operational Time of Lithium-Ion Battery Systems in Energy Storage Applications
+
+Authors: Yiming Xu, Xiaohua Ge, Ruohan Guo, Weixiang Shen
+
+Abstract:
+Cell inconsistency within a lithium-ion battery system poses a significant challenge in maximizing the system operational time. This study presents an optimization-driven active balancing method to minimize the effects of cell inconsistency on the system operational time while simultaneously satisfying the system output power demand and prolonging the system operational time in energy storage applications. The proposed method utilizes a fractional order model to forecast the terminal voltage dyn

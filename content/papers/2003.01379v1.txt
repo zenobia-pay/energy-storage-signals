@@ -1,0 +1,8 @@
+Title: Filled Carbon Nanotubes as Anode Materials for Lithium-Ion Batteries
+
+Authors: Elisa Thauer, Alexander Ottmann, Philip Schneider, Lucas Möller, Lukas Deeg, Rouven Zeus, Florian Wilhelmi, Lucas Schlestein, Christoph Neef, Rasha Ghunaim, Markus Gellesch, Christian Nowka, Maik Scholz, Marcel Haft, Sabine Wurmehl, Karolina Wenelska, Ewa Mijowska, Aakanksha Kapoor, Ashna Bajpai, Silke Hampel, Rüdiger Klingeler
+
+DOI: 10.3390/molecules25051064
+
+Abstract:
+Downsizing well-established materials to the nanoscale is a key route to novel functionalities, in particular if different functionalities are merged in hybrid nanomaterials. Hybrid carbon-based hierarchical nanostructures are particularly promising for electrochemical energy storage since they combine benefits of nanosize effects, enhanced electrical conductivity and integrity of bulk materials. We show that endohedral multiwalled carbon nanotubes (CNT) encapsulating high-capacity (here: conver

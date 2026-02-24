@@ -1,0 +1,6 @@
+Title: State constrained stochastic optimal control of a PV system with battery storage via Fokker-Planck and Hamilton-Jacobi-Bellman equations
+
+Authors: Alfredo Bermúdez, Iago Padín
+
+Abstract:
+With the growing global emphasis on sustainability and the implementation of contemporary environmental policies, the penetration of renewable energy sources has significantly increased --primarily due to their inexhaustible nature. In this context, integrating photovoltaic (PV) modules with energy storage systems offers a means to mitigate the inherent variability of solar energy. This paper proposes an optimal methodology for power management and market bidding strategies tailored to PV power 

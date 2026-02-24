@@ -1,0 +1,6 @@
+Title: A Convex Cycle-based Degradation Model for Battery Energy Storage Planning and Operation
+
+Authors: Yuanyuan Shi, Bolun Xu, Yushi Tan, Baosen Zhang
+
+Abstract:
+A vital aspect in energy storage planning and operation is to accurately model its operational cost, which mainly comes from the battery cell degradation. Battery degradation can be viewed as a complex material fatigue process that based on stress cycles. Rainflow algorithm is a popular way for cycle identification in material fatigue process, and has been extensively used in battery degradation assessment. However, the rainflow algorithm does not have a closed form, which makes the major diffic

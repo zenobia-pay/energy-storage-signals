@@ -1,0 +1,6 @@
+Title: Data-driven model predictive control of battery storage units
+
+Authors: Johannes B. Lipka, Christian A. Hans
+
+Abstract:
+In many state-of-the-art control approaches for power systems with storage units, an explicit model of the storage dynamics is required. With growing numbers of storage units, identifying these dynamics can be cumbersome. This paper employs recent data-driven control approaches that do not require an explicit identification step. Instead, they use measured input/output data in control formulations. In detail, we propose an economic data-driven model predictive control (MPC) scheme to operate a s

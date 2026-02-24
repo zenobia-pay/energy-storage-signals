@@ -1,0 +1,65 @@
+# FERC Order 841 - Electric Storage Participation in Markets
+# Issued: February 2018
+# Source: https://www.ferc.gov/sites/default/files/2020-06/Order-841.pdf
+# Status: Final Rule (Implemented)
+
+## Overview
+FERC Order 841 requires Regional Transmission Organizations (RTOs) and Independent
+System Operators (ISOs) to establish rules enabling energy storage resources to
+participate in wholesale electricity markets.
+
+## Key Requirements
+
+### 1. Market Participation Model
+- Storage must be able to provide all capacity, energy, and ancillary services
+  it is technically capable of providing
+- Participation as both buyer and seller in markets
+- Ability to set wholesale market clearing prices
+
+### 2. Size Threshold
+- Minimum size threshold of 100 kW or less
+- Applies to all storage technologies (batteries, pumped hydro, flywheels, etc.)
+
+### 3. Bidding Parameters
+- Must account for physical and operational characteristics:
+  - State of charge
+  - Charging/discharging limits
+  - Duration limitations
+  - Response times
+
+### 4. De Minimis Exemption
+- Small storage resources exempt from certain requirements
+- Supports distributed energy resource aggregation
+
+### 5. Dual Participation
+- Storage can participate in wholesale AND retail markets
+- Coordination with state regulatory authorities required
+
+## Compliance Timeline
+- Final rule effective: May 2018
+- Compliance filings due: December 2018
+- Implementation: Varies by RTO/ISO (2019-2020)
+
+## Impact on Energy Storage Industry
+- Removed major regulatory barrier to storage deployment
+- Enabled utility-scale battery projects in wholesale markets
+- Allowed storage to compete with traditional peaking plants
+- Created new revenue streams for storage assets
+
+## RTO/ISO Implementation
+- PJM: Implemented 2019
+- CAISO: Already had similar rules
+- NYISO: Implemented 2020
+- MISO: Implemented 2022
+- SPP: Implemented 2022
+- ISO-NE: Implemented 2020
+
+## Challenges/Ongoing Issues
+- State jurisdictional conflicts
+- Dual participation rules vary by region
+- Coordination with distribution utilities
+- Retail rate design impacts
+
+## Related Orders
+- Order 2222 (DER aggregation)
+- Order 2023 (Interconnection reform)

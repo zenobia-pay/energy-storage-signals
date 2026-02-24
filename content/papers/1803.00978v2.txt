@@ -1,0 +1,6 @@
+Title: Control of Battery Storage Systems for the Simultaneous Provision of Multiple Services
+
+Authors: Emil Namor, Fabrizio Sossan, Rachid Cherkaoui, Mario Paolone
+
+Abstract:
+In this paper, we propose a control framework for a battery energy storage system to provide simultaneously multiple services to the electrical grid. The objective is to maximise the battery exploitation from these services in the presence of uncertainty (load, stochastic distributed generation, grid frequency). The framework is structured in two phases. In a period-ahead phase, we solve an optimization problem that allocates the battery power and energy budgets to the different services. In the

@@ -1,0 +1,6 @@
+Title: s-Vector Control of Battery Energy Storage System: Definition and Application
+
+Authors: Zhao Yuan
+
+Abstract:
+We give the definition of s-Vector control by using the complex power vector in the p-q plane to quantify the feasible operational region of battery energy storage system (BESS) and to find the optimal power set-point solution. The s-Vector control features in the avoidance of using costly optimization solvers to solve optimization models online which is also an execution time bottleneck in real-time control. The advantages of s-Vector control are fast and stable computational efficiency. We val

@@ -1,0 +1,70 @@
+# The Interchange / Interchange Recharged
+# Host: Originally Stephen Lacey & Shayle Kann, now Wood Mackenzie hosts
+# Producer: Wood Mackenzie (formerly Greentech Media)
+# Focus: Energy market analysis and clean tech
+
+## Overview
+The Interchange was the flagship podcast of Greentech Media, now produced by 
+Wood Mackenzie after their acquisition. The show (now "Interchange Recharged") 
+provides technical analysis of clean energy markets.
+
+## History
+- Original hosts: Stephen Lacey, Shayle Kann
+- Greentech Media acquisition by Wood Mackenzie
+- Rebrand to "Interchange Recharged"
+- Current hosts: Sylvia Leyva Martinez, Bridget van Dorsten (interim)
+
+## Episode Count
+500+ episodes across original and recharged formats
+
+## Format
+- Weekly market analysis
+- Expert interviews
+- Data-driven discussions
+- Technical deep dives
+
+## Energy Storage Coverage
+
+### Market Analysis
+- US storage deployment trends
+- Regional market differences (ERCOT, CAISO, PJM)
+- Price trends and economics
+- Project pipeline analysis
+
+### Technology
+- Battery chemistry evolution
+- Long-duration storage technologies
+- Hybrid solar+storage projects
+- Grid-forming inverters
+
+### Policy
+- IRA implementation impacts
+- FERC orders (841, 2023)
+- State storage mandates
+- Tariff impacts
+
+### Companies
+- Storage developer profiles
+- Manufacturer analysis
+- Investor perspectives
+- Utility procurement strategies
+
+## Notable Episodes (Storage)
+- Battery storage market outlook (annual)
+- California duck curve and storage
+- Texas battery boom analysis
+- Long-duration storage technologies
+- Storage economics deep dives
+
+## Distribution
+- Apple Podcasts
+- Spotify
+- Wood Mackenzie website
+- YouTube
+
+## Wood Mackenzie Data Integration
+Episodes often feature proprietary Wood Mackenzie data on:
+- Storage installations
+- Project pipelines
+- Cost benchmarks
+- Market forecasts

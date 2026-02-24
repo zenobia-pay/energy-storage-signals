@@ -1,0 +1,6 @@
+Title: Asymptotic reduction of a porous electrode model for lithium-ion batteries
+
+Authors: Iain R. Moyles, Matthew G. Hennessy, Timothy G. Myers, Brian R. Wetton
+
+Abstract:
+We present a porous electrode model for lithium-ion batteries using Butler--Volmer reaction kinetics. We model lithium concentration in both the solid and fluid phase along with solid and liquid electric potential. Through asymptotic reduction, we show that the electric potentials are spatially homogeneous which decouples the problem into a series of time-dependent problems. These problems can be solved on three distinguished time scales, an early time scale where capacitance effects in the elec

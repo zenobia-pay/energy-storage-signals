@@ -1,0 +1,8 @@
+Title: Optimal sizing of renewable energy storage: A comparative study of hydrogen and battery system considering degradation and seasonal storage
+
+Authors: Son Tay Le, Tuan Ngoc Nguyen, Dac-Khuong Bui, Tuan Duc Ngo
+
+DOI: 10.1016/j.apenergy.2023.120817
+
+Abstract:
+Renewable energy storage (RES) is essential to address the intermittence issues of renewable energy systems, thereby enhancing the system stability and reliability. This study presents an optimisation study of sizing and operational strategy parameters of a grid-connected photovoltaic (PV)-hydrogen/battery systems using a Multi-Objective Modified Firefly Algorithm (MOMFA). An operational strategy that utilises the ability of hydrogen to store energy over a long time was also investigated. The pr

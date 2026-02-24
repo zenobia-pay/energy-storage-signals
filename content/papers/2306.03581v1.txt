@@ -1,0 +1,6 @@
+Title: Optimal sizing of solar photovoltaic and lithium battery storage to reduce grid electricity reliance in buildings
+
+Authors: Han Kun Ren, Malcolm McCulloch, David Wallom
+
+Abstract:
+In alignment with the Paris Agreement, the city of Oxford in the UK aims to become carbon neutral by 2040. Renewable energy help achieve this target by reducing the reliance on carbon-intensive grid electricity. This research seeks to optimally size solar photovoltaic and lithium battery storage systems, reducing Oxford's grid electricity reliance in buildings. The analysis starts with modeling the electricity demand. The model uses Elexon electricity settlement profiles, and assembles them into

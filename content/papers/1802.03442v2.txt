@@ -1,0 +1,6 @@
+Title: Battery Energy Storage Scheduling for Optimal Load Variance Minimization
+
+Authors: Yichen Zhang, Alexander Melin, Mohammed Olama, Seddik Djouadi, Jin Dong, Kevin Tomsovic
+
+Abstract:
+Generation portfolio can be significantly altered due to the deployment of distributed energy resources (DER) in distribution networks and the concept of microgrid. Generally, distribution networks can operate in a more resilient and economic fashion through proper coordination of DER. However, due to the partially uncontrollable and stochastic nature of some DER, the variance of net load of distribution systems increases, which raises the operational cost and complicates operation for transmiss

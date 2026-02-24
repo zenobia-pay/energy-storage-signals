@@ -1,0 +1,8 @@
+Title: Optimal Combination of Frequency Control and Peak Shaving with Battery Storage Systems
+
+Authors: Jonas Engels, Bert Claessens, Geert Deconinck
+
+DOI: 10.1109/TSG.2019.2963098
+
+Abstract:
+Combining revenue streams by providing multiple services with battery storage systems increases profitability and enhances the investment case. In this work, we present a novel optimisation and control framework that enables a storage system to optimally combine the provision of primary frequency control services with peak shaving of a consumption profile. We adopt a dynamic programming framework to connect the daily bidding in frequency control markets with the longer term peak shaving objectiv

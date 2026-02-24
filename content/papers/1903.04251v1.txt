@@ -1,0 +1,8 @@
+Title: Techno-Economic Analysis and Optimal Control of Battery Storage for Frequency Control Services, Applied to the German Market
+
+Authors: Jonas Engels, Bert Claessens, Geert Deconinck
+
+DOI: 10.1016/j.apenergy.2019.03.128
+
+Abstract:
+Optimal investment in battery energy storage systems, taking into account degradation, sizing and control, is crucial for the deployment of battery storage, of which providing frequency control is one of the major applications. In this paper, we present a holistic, data-driven framework to determine the optimal investment, size and controller of a battery storage system providing frequency control. We optimised the controller towards minimum degradation and electricity costs over its lifetime, w

@@ -1,0 +1,6 @@
+Title: Modelling Dynamic Limitations of Lithium Transport in Lithium-Sulfur Batteries
+
+Authors: Michael Cornish, Monica Marinescu, Dharshannan Sugunan
+
+Abstract:
+A common, yet unmodelled experimental phenomenon is explained first through the experimental data and then through modelling efforts. The phenomenon is a large, temporary loss in voltage during constant current discharge. This effect can be observed in several independent experimental settings, such as during low-temperature operation, under high currents, with low Electrolyte-to-Sulfur (E/S) ratios, as well as in cells with high salt concentrations. The model presented here is the first to prov

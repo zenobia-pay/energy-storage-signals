@@ -1,0 +1,6 @@
+Title: Off-grid solar energy storage system with lithium iron phosphate (LFP) batteries in high mountains: a case report of Tianchi Lodge in Taiwan
+
+Authors: Hsien-Ching Chung
+
+Abstract:
+Mountain huts are buildings located at high altitude, providing shelter and a place for hikers. Energy supply on mountain huts remains an open issue. Using renewable energies could be an appropriate solution. Tianchi Lodge, a famous mountain hut in Taiwan, has operated an off-grid solar energy storage system with lithium iron phosphate (LFP) batteries since 2020. In this case report, the energy architecture, detailed descriptions, and historical status of the system are provided.

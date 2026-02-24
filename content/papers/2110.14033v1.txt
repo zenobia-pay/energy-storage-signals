@@ -1,0 +1,6 @@
+Title: Noninvasive ultrasound for Lithium-ion batteries state estimation
+
+Authors: Simon Montoya-Bedoya, Miguel Bernal, Laura A. Sabogal-Moncada, Hader V. Martinez-Tejada, Esteban Garcia-Tamayo
+
+Abstract:
+Lithium-ion battery degradation estimation using fast and noninvasive techniques is a crucial issue in the circular economy framework of this technology. Currently, most of the approaches used to establish the battery-state (i.e., State of Charge (SoC), State of Health (SoH)) require time-consuming processes. In the present preliminary study, an ultrasound array was used to assess the influence of the SoC and SoH on the variations in the time of flight (TOF) and the speed of sound (SOS) of the u

@@ -1,0 +1,6 @@
+Title: An MDP-Based Approach for Distribution System Control with PV Generation and Battery Storage
+
+Authors: Robert Sosnowski, Marcin Baszynski, Charalambos Konstantinou
+
+Abstract:
+This paper proposes a decision-making approach for the control of distribution systems with distributed energy resources (DERs) equipped with photovoltaic (PV) units and battery energy storage systems (BESS). The objective is to minimize the total operational cost of the distribution system while satisfying the system operating constraints. The method is based on the discrete-time finite-horizon Markov Decision Process (MDP) framework. Different aspects of the distribution system operation are c

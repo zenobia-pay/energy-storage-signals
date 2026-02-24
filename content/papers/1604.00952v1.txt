@@ -1,0 +1,6 @@
+Title: Profit-Maximizing Planning and Control of Battery Energy Storage Systems for Primary Frequency Control
+
+Authors: Ying Jun, Zhang, Changhong Zhao, Wanrong Tang, Steven H. Low
+
+Abstract:
+We consider a two-level profit-maximizing strategy, including planning and control, for battery energy storage system (BESS) owners that participate in the primary frequency control (PFC) market. Specifically, the optimal BESS control minimizes the operating cost by keeping the state of charge (SoC) in an optimal range. Through rigorous analysis, we prove that the optimal BESS control is a "state-invariant" strategy in the sense that the optimal SoC range does not vary with the state of the syst

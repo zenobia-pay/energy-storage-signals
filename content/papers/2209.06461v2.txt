@@ -1,0 +1,6 @@
+Title: Electric Vehicle Battery Sharing Game for Mobile Energy Storage Provision in Power Networks
+
+Authors: Utkarsha Agwan, Junjie Qin, Kameshwar Poolla, Pravin Varaiya
+
+Abstract:
+Electric vehicles (EVs) equipped with a bidirectional charger can provide valuable grid services as mobile energy storage. However, proper financial incentives need to be in place to enlist EV drivers to provide services to the grid. In this paper, we consider two types of EV drivers who may be willing to provide mobile storage service using their EVs: commuters taking a fixed route, and on-demand EV drivers who receive incentives from a transportation network company (TNC) and are willing to ta

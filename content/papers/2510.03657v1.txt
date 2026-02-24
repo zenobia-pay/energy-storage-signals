@@ -1,0 +1,6 @@
+Title: Optimising Battery Energy Storage System Trading via Energy Market Operator Price Forecast
+
+Authors: Aymeric Fabre
+
+Abstract:
+In electricity markets around the world, the ability to anticipate price movements with precision can be the difference between profit and loss, especially for fast-acting assets like battery energy storage systems (BESS). As grid volatility increases due to renewables and market decentralisation, operators and forecasters alike face growing pressure to transform prediction into strategy. Yet while forecast data is abundant, especially in advanced markets like Australia's National Electricity Ma

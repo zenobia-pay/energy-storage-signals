@@ -1,0 +1,6 @@
+Title: Highly Antioxidative Lithium Salt Enables High-Voltage Ether Electrolyte for Lithium Metal Battery
+
+Authors: Jian He, Shihan Qi, Jianmin Ma, Nongnuch Artrith
+
+Abstract:
+Ether-based electrolytes exhibit excellent compatibility with Li metal anodes, but their instability at high voltages limits their use in high-voltage Li metal batteries. To address this issue, we introduce an alternative perfluorobutane sulfonate (LiPFBS) / dimethoxyethane (DME) electrolyte to stabilize DME in a 4.6 V Li-Li LCO battery. Our study focuses on the formation of solid-electrolyte interphase (SEI) and cathode-electrolyte interphase (CEI) layers compared to the LiTFSI/DME electrolyte.

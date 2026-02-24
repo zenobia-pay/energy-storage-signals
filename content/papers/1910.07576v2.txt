@@ -1,0 +1,8 @@
+Title: Assessing the viability of Battery Energy Storage Systems coupled with Photovoltaics under a pure self-consumption scheme
+
+Authors: Georgios A. Barzegkar-Ntovom, Nikolas G. Chatzigeorgiou, Angelos I. Nousdilis, Styliani A. Vomva, Georgios C. Kryonidis, Eleftherios O. Kontis, George E. Georghiou, Georgios C. Christoforidis, Grigoris K. Papagiannis
+
+DOI: 10.1016/j.renene.2020.01.061
+
+Abstract:
+Over the last few decades, there is a constantly increasing deployment of solar photovoltaic (PV) systems both at the commercial and residential building sector. However, the steadily growing PV penetration poses several technical problems to electric power systems, mainly related to power quality issues. To this context, the exploitation of energy storage systems integrated along with PVs could constitute a possible solution. The scope of this paper is to thoroughly evaluate the economic viabil

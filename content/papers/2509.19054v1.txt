@@ -1,0 +1,6 @@
+Title: Hybrid Adaptive Robust Stochastic Optimization Model for the Design of a Photovoltaic Battery Energy Storage System
+
+Authors: Alba Lun Mora Pous, Fernando Garcia-Muñoz, Natalia Jorquera-Bravo, Ricardo Aranguiz, Valentina Bugueño Olivos
+
+Abstract:
+Future energy projections and their inherent uncertainty play a key role in the design of photovoltaic-battery energy storage systems (PV-BESS) for household use. In this study, both stochastic and robust optimization techniques are simultaneously integrated into a Hybrid Adaptive Robust-Stochastic Optimization (HARSO) model. Uncertainty in future PV generation is addressed using a stochastic approach, while uncertainty in power demand is handled through robust optimization. To solve the tri-lev

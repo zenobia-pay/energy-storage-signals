@@ -1,0 +1,8 @@
+Title: Unraveling the storage mechanism of Na$_{3}$V$_{2-x}$Ni$_x$(PO$_4$)$_2$F$_3$/C cathodes for sodium-ion batteries through electrochemical, {\it operando} X-ray diffraction and microscopy studies
+
+Authors: Simranjot K. Sapra, Jeng-Kuei Chang, Rajendra S. Dhaka
+
+DOI: 10.1016/j.ensm.2025.104478
+
+Abstract:
+The storage mechanism and diffusion kinetics of Na$_{3}$V$_{2-x}$Ni$_{x}$(PO$_{4}$)$_{2}$F$_{3}$/C ($x=$ 0--0.07) cathodes are investigated through electrochemical impedance spectroscopy (EIS), galvanostatic intermittent titration technique (GITT) and cyclic voltammetry (CV). All the samples are prepared through the facile pH-assisted sol-gel route and crystallize in the P4$_{2}$/mnm symmetry. The optimal doping of Ni ($x=$ 0.05) exhibits superior specific capacities of 119 and 100 mAh g$^{-1}$ 

@@ -1,0 +1,6 @@
+Title: Effect of State of Charge Uncertainty on Battery Energy Storage Systems
+
+Authors: Sonia Martin, Simona Onori, Ram Rajagopal
+
+Abstract:
+Battery energy storage systems (BESSs) provide many benefits to the electricity grid, including stability, backup power, and flexibility in introducing more clean energy sources. As BESS penetration grows, knowledge of the uncertainty in the battery's state of charge (SOC) estimate is crucial for planning optimal BESS power injection trajectories. This paper proposes a framework for quantifying SOC estimation uncertainty based on battery rest periods. An uncertainty analysis is presented for a B

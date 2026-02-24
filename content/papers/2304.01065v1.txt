@@ -1,0 +1,6 @@
+Title: Towards Reuse and Recycling of Lithium-ion Batteries: Tele-robotics for Disassembly of Electric Vehicle Batteries
+
+Authors: Jamie Hathaway, Abdelaziz Shaarawy, Cansu Akdeniz, Ali Aflakian, Rustam Stolkin, Alireza Rastegarpanah
+
+Abstract:
+Disassembly of electric vehicle batteries is a critical stage in recovery, recycling and re-use of high-value battery materials, but is complicated by limited standardisation, design complexity, compounded by uncertainty and safety issues from varying end-of-life condition. Telerobotics presents an avenue for semi-autonomous robotic disassembly that addresses these challenges. However, it is suggested that quality and realism of the user's haptic interactions with the environment is important fo

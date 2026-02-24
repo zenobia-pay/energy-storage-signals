@@ -1,0 +1,67 @@
+# Catalyst Podcast
+# Host: Shayle Kann
+# Producer: Latitude Media (formerly Canary Media)
+# Focus: Climate tech deep dives
+
+## Overview
+Catalyst is a podcast hosted by Shayle Kann, focusing on deep technical and 
+business analysis of climate and clean energy technologies. The podcast 
+features long-form conversations with entrepreneurs, investors, and experts.
+
+## Episode Count
+200+ episodes
+
+## Format
+- Long-form interviews (45-90 minutes)
+- Technical depth on specific technologies
+- Business model analysis
+- Market dynamics
+
+## Host
+Shayle Kann
+- Former Head of Research at Greentech Media
+- Co-host of The Interchange podcast (with Stephen Lacey)
+- Background in solar and energy market analysis
+
+## Energy Storage Episodes (Selected Topics)
+
+### Battery Technology
+- Lithium-ion manufacturing and supply chains
+- Sodium-ion battery potential
+- Solid-state battery development
+- Flow battery economics
+
+### Long-Duration Storage
+- Form Energy iron-air technology
+- Compressed air energy storage
+- Thermal storage innovations
+- Hydrogen for storage
+
+### Grid Integration
+- Wholesale market participation
+- Ancillary services
+- Capacity markets
+- Interconnection challenges
+
+### Business Models
+- Storage developer strategies
+- Utility procurement
+- Behind-the-meter storage
+- Virtual power plants
+
+## Notable Guests (Storage Focus)
+- Julian Nebreda (Fluence CEO)
+- Mateo Jaramillo (Form Energy CEO)
+- Jigar Shah (DOE LPO)
+- Industry executives and investors
+
+## Distribution
+- Apple Podcasts
+- Spotify
+- Canary Media website
+- YouTube
+
+## Related Shows
+- The Interchange (also Shayle Kann)
+- The Carbon Copy
+- The Juice

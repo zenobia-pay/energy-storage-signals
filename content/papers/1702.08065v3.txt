@@ -1,0 +1,6 @@
+Title: Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains
+
+Authors: Yuanyuan Shi, Bolun Xu, Di Wang, Baosen Zhang
+
+Abstract:
+We consider using a battery storage system simultaneously for peak shaving and frequency regulation through a joint optimization framework which captures battery degradation, operational constraints and uncertainties in customer load and regulation signals. Under this framework, using real data we show the electricity bill of users can be reduced by up to 15\%. Furthermore, we demonstrate that the saving from joint optimization is often larger than the sum of the optimal savings when the battery

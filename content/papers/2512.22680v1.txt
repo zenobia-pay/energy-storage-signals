@@ -1,0 +1,6 @@
+Title: From Electrochemical Energy Storage to Next-Generation Intelligent Battery Technologies for Electric Vehicles: A Survey
+
+Authors: Abderaouf Bahi, Amel Ourici, Chaima Lagraa, Siham Lameche, Soundess Halimi, Inoussa Mouiche, Ylias Sabri, Waseem Haider, Mohamed Trari
+
+Abstract:
+This study provides a comprehensive overview of recent advances in electrochemical energy storage, including Na+ -ion, metal-ion, and metal-air batteries, alongside innovations in electrode engineering, electrolytes, and solid-electrolyte interphase control. It also explores the integration of machine learning, digital twins, large language models and predictive analytics to enable intelligent battery management systems, enhancing performance, safety, and operational longevity. Key challenges, r

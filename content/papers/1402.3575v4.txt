@@ -1,0 +1,6 @@
+Title: Optimal Hour-Ahead Bidding in the Real-Time Electricity Market with Battery Storage using Approximate Dynamic Programming
+
+Authors: Daniel R. Jiang, Warren B. Powell
+
+Abstract:
+There is growing interest in the use of grid-level storage to smooth variations in supply that are likely to arise with increased use of wind and solar energy. Energy arbitrage, the process of buying, storing, and selling electricity to exploit variations in electricity spot prices, is becoming an important way of paying for expensive investments into grid-level storage. Independent system operators such as the NYISO (New York Independent System Operator) require that battery storage operators p

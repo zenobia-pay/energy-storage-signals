@@ -1,0 +1,8 @@
+Title: Modular converter system for low-cost off-grid energy storage using second life Li-ion batteries
+
+Authors: Christoph R. Birkl, Damien F. Frost, Adrien M. Bizeray, Robert R. Richardson, David A. Howey
+
+DOI: 10.1109/GHTC.2014.6970281
+
+Abstract:
+Lithium ion batteries are promising for small off- grid energy storage applications in developing countries because of their high energy density and long life. However, costs are prohibitive. Instead, we consider 'used' Li-ion batteries for this application, finding experimentally that many discarded laptop cells, for example, still have good capacity and cycle life. In order to make safe and optimal use of such cells, we present a modular power management system using a separate power converter

@@ -1,0 +1,6 @@
+Title: Multi-agent Battery Storage Management using MPC-based Reinforcement Learning
+
+Authors: A. Bahari Kordabad, W. Cai, S. Gros
+
+Abstract:
+In this paper, we present the use of Model Predictive Control (MPC) based on Reinforcement Learning (RL) to find the optimal policy for a multi-agent battery storage system. A time-varying prediction of the power price and production-demand uncertainty are considered. We focus on optimizing an economic objective cost while avoiding very low or very high state of charge, which can damage the battery. We consider the bounded power provided by the main grid and the constraints on the power input an

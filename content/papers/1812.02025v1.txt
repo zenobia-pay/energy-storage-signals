@@ -1,0 +1,6 @@
+Title: Congestion management within a multi-service scheduling coordination scheme for large battery storage systems
+
+Authors: Clémentine Straub, Jean Maeght, Camille Pache, Patrick Panciatici, Ram Rajagopal
+
+Abstract:
+There is a growing interest in the use of largescale battery storage systems for grid services. This technology has been deployed in several countries to increase transmission systems capabilities and reliability. In particular, large-scale battery storage systems could be used for congestion management and the French Transmission System Operator (RTE) is currently installing 3 large batteries for 2020 at the sub-transmission grid level for this purpose. The battery operation for congestion mana

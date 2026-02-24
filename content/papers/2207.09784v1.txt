@@ -1,0 +1,6 @@
+Title: Anomaly Detection of Smart Metering System for Power Management with Battery Storage System/Electric Vehicle
+
+Authors: Sangkeum Lee, Sarvar Hussain Nengroo, Hojun Jin, Yoonmee Doh, Chungho Lee, Taewook Heo, Dongsoo Har
+
+Abstract:
+A novel smart metering technique capable of anomaly detection was proposed for real-time home power management system. Smart meter data generated in real-time was obtained from 900 households of single apartments. To detect outliers and missing values in smart meter data, a deep learning model, the autoencoder, consisting of a graph convolutional network and bidirectional long short-term memory network, was applied to the smart metering technique. Power management based on the smart metering tec

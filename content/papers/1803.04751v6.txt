@@ -1,0 +1,8 @@
+Title: Day-Ahead Energy Market as Adjustable Robust Optimization: Spatio-Temporal Pricing of Dispatchable Generators, Storage Batteries, and Uncertain Renewable Resources
+
+Authors: Takayuki Ishizaki, Masakazu Koike, Nobuyuki Yamaguchi, Yuzuru Ueda, Jun-ichi Imura
+
+DOI: 10.1016/j.eneco.2020.104912
+
+Abstract:
+We present modeling and analysis of day-ahead spatio-temporal energy markets in which each competitive aggregator aims at making the highest profit by managing a complex mixture of different energy resources, such as conventional generators, storage batteries, and uncertain renewable resources. First, we develop an energy market model in terms of an adjustable robust convex program. This market modeling is novel in the sense that the prosumption cost function of each aggregator, which evaluates 

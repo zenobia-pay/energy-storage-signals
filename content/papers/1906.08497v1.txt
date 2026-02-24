@@ -1,0 +1,6 @@
+Title: Optimal Decision Making Model of Battery Energy Storage-Assisted Electric Vehicle Charging Station Considering Incentive Demand Response
+
+Authors: Bishal Upadhaya, Donghan Feng, Yun Zhou, Qiang Gui, Xiaojin Zhao, Dan Wu
+
+Abstract:
+Considering large scale implementation of electric vehicles (EVs), public EV charging stations are served as fuel tanks for EVs to meet the need of longer travelling distance and overcome the shortage of private charging piles. The allocation of local battery energy storage (BES) can enhance the flexibility of the EV charging station. This paper proposes an optimal decision making model of the BES-assisted EV charging station considering the incentive demand response. Firstly, the detailed model

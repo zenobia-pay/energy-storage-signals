@@ -1,0 +1,6 @@
+Title: Modeling long-term capacity degradation of lithium-ion batteries
+
+Authors: Marcus Johnen, Simon Pitzen, Udo Kamps, Maria Kateri, Dirk Uwe Sauer
+
+Abstract:
+Capacity degradation of lithium-ion batteries under long-term cyclic aging is modelled via a flexible sigmoidal-type regression set-up, where the regression parameters can be interpreted. Different approaches known from the literature are discussed and compared with the new proposal. Statistical procedures, such as parameter estimation, confidence and prediction intervals are presented and applied to real data. The long-term capacity degradation model may be applied in second-life scenarios of b

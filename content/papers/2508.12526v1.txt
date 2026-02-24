@@ -1,0 +1,6 @@
+Title: Techno-Economic Planning of Spatially-Resolved Battery Storage Systems in Renewable-Dominant Grids Under Weather Variability
+
+Authors: Seyed Ehsan Ahmadi, Elnaz Kabir, Mohammad Fattahi, Mousa Marzband, Dongjun Li
+
+Abstract:
+The ongoing energy transition is significantly increasing the share of renewable energy sources (RES) in power systems; however, their intermittency and variability pose substantial challenges, including load shedding and system congestion. This study examines the role of the battery storage system (BSS) in mitigating these challenges by balancing power supply and demand. We optimize the location, size, and type of batteries using a two-stage stochastic program, with the second stage involving h

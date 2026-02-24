@@ -1,0 +1,6 @@
+Title: High performing ionanofluid electrolyte with higher lithium salt concentration for safer lithium metal batteries
+
+Authors: P. Bose, D. Deb, S. Bhattacharya
+
+Abstract:
+A new class of high-performance pyrrolidinium cation based ionanofluid electrolytes with higher lithium salt concentration are developed. The electrolytes are formed by dispersing imidazolium ionic liquid functionalized TiO2 nanoparticles in low conducting, 0.6 M lithium salt doped N-alkyl-N-butylpyrrolidinium bis(trifluoromethylsulfonyl)imide (Pyr14TFSI) ionic liquid (IL) hosted electrolyte. Viscosity, ionic conductivity and thermal properties of these electrolytes are compared with well studie

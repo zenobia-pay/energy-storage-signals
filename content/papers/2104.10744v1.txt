@@ -1,0 +1,6 @@
+Title: Electrification of Commercial E-buses by Utilizing Stationary Battery Energy Storage Systems for Mass Transportation Network in Los Angeles
+
+Authors: Amirhossein Ahmadian, Atharva Sunil Deo, Paawan Garg, Omar Elayyan
+
+Abstract:
+The 2028 LA Olympics is approaching, and the mass transportation network requires to be expanded. The green electric bus transportation system is gaining increasing attention as an essential step to mitigate emission concerns. However, the introduction of a large electric bus fleet will increase the peak load demand, which will adversely affect the grid. This research addresses the issue of an increase in the peak load demand due to the introduction of the electric bus fleet. Therefore, the pote

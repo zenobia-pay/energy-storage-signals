@@ -1,0 +1,56 @@
+# @FormEnergyInc - Recent Tweets
+# Scraped: 2026-02-19
+# Source: Twitter/X via bird CLI
+
+## Profile
+- Name: Form Energy
+- Role: Long-duration iron-air battery company
+- Focus: Multi-day energy storage
+- Twitter: @FormEnergyInc
+- CEO: Mateo Jaramillo
+
+## Recent Tweets
+
+### Feb 10, 2026: CEO Distinguished Lecture at CMU
+"On February 19, our CEO @mateojaramill will join @CarnegieMellon for a 
+Distinguished Lecture on Form Energy's pioneering multi-day storage systems – 
+and their role in meeting growing electricity demand reliably and affordably."
+
+### Jan 30, 2026: VP Programs Promotion - Hiring
+"We're excited to share that Kathy Spriggs has been promoted to Vice President 
+of Programs at Form Energy—and she's #hiring!"
+
+Background: Kathy worked at Tesla, Apple, and Amazon before Form.
+Open roles: Senior Staff Technical Program Managers
+
+### Jan 20, 2026: 50+ Open Roles
+"At Form Energy, we're #hiring for dozens of roles as we scale deployments of 
+our iron-air batteries to help transform America's electric grid."
+
+Recognition in 2025: TIME, Earthshot Prize, Fast Company, Forbes
+
+### Jan 16, 2026: Global Storage Market Growth
+"With 100+ GW of new capacity added in 2025, the global energy storage market 
+is scaling fast. We're proud to be part of this rapidly expanding ecosystem, 
+delivering the multi-day storage solutions needed to meet growing global 
+energy demand."
+
+## Key Themes
+1. Multi-day storage for grid reliability
+2. Iron-air battery technology
+3. Manufacturing scale-up
+4. Talent acquisition and hiring
+5. Recognition for innovation
+6. Meeting electricity demand growth
+
+## Technology
+- Iron-air batteries
+- Multi-day duration (100+ hours)
+- Uses abundant materials (iron)
+- Target cost: $20/kWh
+- First commercial deployments 2024-2025
+
+## Key People
+- Mateo Jaramillo - CEO & Co-founder (former Tesla)
+- Yet-Ming Chiang - Co-founder (MIT professor)
+- Kathy Spriggs - VP Programs (ex-Tesla, Apple, Amazon)

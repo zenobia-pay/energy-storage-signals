@@ -1,0 +1,6 @@
+Title: On the well-posedness of a mathematical model for Lithium-ion batteries
+
+Authors: Angel Manuel Ramos
+
+Abstract:
+In this article we discuss the well-posedness of a mathematical model that is used in the literature for the simulation of Lithium-ion (Li-ion) batteries. First, a mathematical model based on a macro-homogeneous approach is presented, following previous works. Then it is showed, from a physical and a mathematical point of view, that a boundary condition widely used in the literature is not correct. Although these errors could be just sign typos (that can be explained as carelessness over d/d$x$ 

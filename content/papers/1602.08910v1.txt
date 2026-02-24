@@ -1,0 +1,8 @@
+Title: Model Reduction for Multiscale Lithium-Ion Battery Simulation
+
+Authors: Mario Ohlberger, Stephan Rave, Felix Schindler
+
+DOI: 10.1007/978-3-319-39929-4_31
+
+Abstract:
+In this contribution we are concerned with efficient model reduction for multiscale problems arising in lithium-ion battery modeling with spatially resolved porous electrodes. We present new results on the application of the reduced basis method to the resulting instationary 3D battery model that involves strong non-linearities due to Buttler-Volmer kinetics. Empirical operator interpolation is used to efficiently deal with this issue. Furthermore, we present the localized reduced basis multisca

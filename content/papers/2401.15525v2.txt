@@ -1,0 +1,6 @@
+Title: Multi-Interval Energy-Reserve Co-Optimization with SoC-Dependent Bids from Battery Storage
+
+Authors: Cong Chen, Siying Li, Lang Tong
+
+Abstract:
+We consider the problem of co-optimized energy-reserve market clearing with state-of-charge (SoC) dependent bids from battery storage participants. While SoC-dependent bids capture storage's degradation and opportunity costs, such bids result in a non-convex optimization in the market clearing process. More challenging is the regulation reserve capacity clearing, where the SoC-dependent cost is uncertain as it depends on the unknown regulation trajectories ex-post of the market clearing. Address

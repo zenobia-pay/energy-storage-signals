@@ -1,0 +1,8 @@
+Title: Lite-Sparse Hierarchical Partial Power Processing for Second-Use Battery Energy Storage Systems
+
+Authors: Xiaofan Cui, Alireza Ramyar, Peyman Mohtat, Veronica Contreras, Jason Siegel, Anna Stefanopoulou, Al-Thaddeus Avestruz
+
+DOI: 10.1109/ACCESS.2022.3201132
+
+Abstract:
+The explosive growth of electric vehicles (EVs) is leading to a surge in retired EV batteries, which are typically recycled despite having nearly 80% available capacity. Repurposing automotive batteries for second-use battery energy storage systems (2-BESS) has both economical and environmental benefits. The challenge with second-use batteries is the heterogeneity in their state of health. This paper introduces a new strategy to optimize 2-BESS performance despite the heterogeneity of individual

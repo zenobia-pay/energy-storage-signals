@@ -1,0 +1,6 @@
+Title: Current and temperature imbalances in parallel-connected grid storage battery modules
+
+Authors: Joseph Ross, Damien Frost, Efstratios Chatzinikolaou, Stephen Duncan, David Howey
+
+Abstract:
+A key challenge with large battery systems is heterogeneous currents and temperatures in modules with parallel-connected cells. Although extreme currents and temperatures are detrimental to the performance and lifetime of battery cells, there is not a consensus on the scale of typical imbalances within grid storage modules. Here, we quantify these imbalances through simulations and experiments on an industrially representative grid storage battery module consisting of prismatic lithium iron phos

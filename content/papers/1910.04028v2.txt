@@ -1,0 +1,6 @@
+Title: Embedding Lithium-ion Battery Scrapping Criterion and Degradation Model in Optimal Operation of Peak-shaving Energy Storage
+
+Authors: Qingchun Hou, Yanghao Yu, Ershun Du, Hongjie He, Ning Zhang, Chongqing Kang, Guojing Liu, Huan Zhu
+
+Abstract:
+Lithium-ion battery systems have been used in practical power systems for peak-shaving, demand response, and frequency regulation. However, a lithium-ion battery is degrading while cycling and would be scrapped when the capacity reduces to a certain threshold (e.g. 80%). Such scrapping criterion may not explore the maximum benefit from the battery storage. In this paper, we propose a novel scrapping criterion for peak-shaving energy storage based on battery efficiency, time-of-use price, and arb

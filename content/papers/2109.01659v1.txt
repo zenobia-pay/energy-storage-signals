@@ -1,0 +1,6 @@
+Title: Reinforcement Learning for Battery Energy Storage Dispatch augmented with Model-based Optimizer
+
+Authors: Gayathri Krishnamoorthy, Anamika Dubey
+
+Abstract:
+Reinforcement learning has been found useful in solving optimal power flow (OPF) problems in electric power distribution systems. However, the use of largely model-free reinforcement learning algorithms that completely ignore the physics-based modeling of the power grid compromises the optimizer performance and poses scalability challenges. This paper proposes a novel approach to synergistically combine the physics-based models with learning-based algorithms using imitation learning to solve dis

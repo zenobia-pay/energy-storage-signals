@@ -1,0 +1,74 @@
+# National Renewable Energy Laboratory (NREL)
+# Source: https://www.nrel.gov
+# Type: National Laboratory (DOE)
+# Location: Golden, CO
+
+## Overview
+NREL is the U.S. Department of Energy's primary national laboratory for
+renewable energy and energy efficiency research and development.
+
+## Key Energy Storage Research Areas
+
+### Grid Integration Studies
+- Storage dispatch modeling
+- Grid flexibility studies
+- High penetration renewable scenarios
+- Capacity credit analysis
+
+### Technology Assessment
+- Battery technology evaluation
+- Long-duration storage analysis
+- Hydrogen storage
+- Thermal energy storage
+
+### Tools and Models
+- ReEDS (Regional Energy Deployment System)
+- SAM (System Advisor Model)
+- REopt (renewable energy optimization)
+- Cambium (grid scenario data)
+
+### Standard Scenarios
+Annual long-term grid scenarios incorporating:
+- Solar, wind, storage deployment
+- Cost projections
+- Policy impacts
+- Regional variations
+
+## Notable Energy Storage Research
+
+### Storage Futures Study
+Comprehensive analysis of grid-scale energy storage needs:
+- 2020 baseline to 2050 projections
+- Cost-optimal storage deployment
+- Technology mix requirements
+- Regional storage needs
+
+### Utility-Scale Battery Storage
+- Cost trends and projections
+- Performance characteristics
+- Degradation modeling
+- Use case economics
+
+### Long-Duration Storage
+- Multi-day storage requirements
+- Technology comparison
+- Cost targets for competitiveness
+- Grid reliability contributions
+
+## Key Researchers
+- Paul Denholm - Grid flexibility, storage integration
+- Wesley Cole - Capacity expansion modeling
+- Brian Sergi - Storage economics
+- Will Frazier - Long-duration storage
+
+## Data Products
+- Annual Technology Baseline (ATB)
+- Standard Scenarios
+- Cambium grid data
+- PVWatts and SAM tools
+
+## Collaborations
+- Electric Power Research Institute (EPRI)
+- Utilities and grid operators
+- International Energy Agency
+- Other national labs

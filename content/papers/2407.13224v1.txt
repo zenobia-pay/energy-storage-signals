@@ -1,0 +1,6 @@
+Title: Vacancy-Induced Boron Nitride Monolayers as Multifunctional Materials for Metal Ion Batteries and Hydrogen Storage Applications
+
+Authors: Wadha Alfalasi, Wael Othman, Tanveer Hussain, Nacir Tit
+
+Abstract:
+This study comprehensively examined the structural, electronic, electrochemical, and energy storage properties of boron-vacancy induced porous boron nitride monolayers (BN:VB) as multifunctional materials, anodes for MIBs and H2 storage applications. Our computational approaches, density functional theory (DFT), ab initio molecular dynamics (AIMD), and thermodynamic analysis, revealed exceptionally high energy and gravimetric densities for MIBs and H2 storage, respectively. We investigated the i

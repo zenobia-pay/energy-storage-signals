@@ -1,0 +1,53 @@
+# @fluenceenergy - Recent Tweets
+# Scraped: 2026-02-19
+# Source: Twitter/X via bird CLI
+
+## Profile
+- Name: Fluence
+- Role: Major battery storage integrator (Siemens/AES JV)
+- Focus: Grid-scale energy storage systems
+- Twitter: @fluenceenergy
+
+## Recent Tweets
+
+### May 20, 2025: US Manufacturing Facility
+"We officially cut the ribbon on our new manufacturing facility in Goodyear, 
+Arizona, where we are now producing enclosures made with U.S. steel and battery 
+management system (BMS) hardware for our grid-scale energy storage solutions."
+
+### May 15, 2025: Supply Chain Standards
+"Delivering safe, sustainable #energystorage starts long before deployment—with 
+how we source materials and uphold #supplychain standards."
+Focus on responsible sourcing program.
+
+### Apr 22, 2025: Sustainability Report (Earth Day)
+"Our annual Sustainability Report is here—released today in honor of #earthday! 
+Now in its third year, the report builds on the strong foundation established 
+over the past two years."
+
+### Apr 8, 2025: Digital Services
+"Fluence's Digital Services Center is redefining the monitoring and maintenance 
+of #energystorage through 24/7 remote monitoring, AI-powered analytics, and 
+specialized expertise."
+
+### Apr 3, 2025: Cybersecurity
+"As #energystorage becomes central to our increasingly digital grid, protecting 
+these assets from evolving cyber threats is critical."
+
+### PBS Energy Switch Interview
+John Zahurancik, President, Americas at Fluence, on grid-scale batteries 
+transforming the power system.
+
+## Key Themes
+1. US manufacturing expansion (Arizona facility)
+2. Domestic content and IRA compliance
+3. Responsible supply chain sourcing
+4. AI-powered monitoring and analytics
+5. Cybersecurity for grid assets
+6. Sustainability reporting
+
+## Company Overview
+- Joint venture: Siemens and AES Corporation
+- Products: Grid-scale battery storage systems
+- Services: Digital monitoring, optimization software
+- Markets: US, Europe, Australia, Asia

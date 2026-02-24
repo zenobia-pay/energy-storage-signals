@@ -1,0 +1,6 @@
+Title: Sizing and Placement of Battery Energy Storage Systems and Wind Turbines by Minimizing Costs and System Losses
+
+Authors: Bahman Khaki, Pritam Das
+
+Abstract:
+Probabilistic and intermittent output power of wind turbines (WT) is one major inconsistency of WTs. Battery Energy Storage Systems (BESSs) are a suitable solution to mitigate this intermittency which use to smoothen the output power injected to the grid by such intermittent sources. This paper proposes a new optimization formulation using genetic algorithm to simultaneous sizing and placement of BESSs and WTs which result in finding best location and size (capacity) of WTs and BESSs in power sy

@@ -1,0 +1,6 @@
+Title: Stable artificial solid electrolyte interfaces for lithium batteries
+
+Authors: Lin Ma, Mun Sek Kim, Lynden A. Archer
+
+Abstract:
+A rechargeable lithium metal battery (LMB), which uses metallic lithium at the anode, is among the most promising technologies for next generation electrochemical energy storage devices due to its high energy density, particularly when Li is paired with energetic conversion cathodes such as sulfur, oxygen/air, and carbon dioxide. Practical LMBs in any of these designs remain elusive due to multiple stubborn problems, including parasitic reactions of Li metal with liquid electrolytes, unstable/de

@@ -1,0 +1,6 @@
+Title: Decentralized Control for Heterogeneous Battery Energy Storage System
+
+Authors: Yusuke Hakuta, Yasushi Amano, Tomohiko Jimbo, Shuji Tomura
+
+Abstract:
+Battery energy storage systems (BESSs) are essential for stable power supply in renewable energy systems that can operate in all weather. Future BESSs will be massive and pluggable with several heterogeneous batteries. In this paper, a novel decentralized control method for a heterogeneous BESS is proposed, in which each battery autonomously operates based on its characteristics. First, a control method that uses only one broadcast signal for each type of battery is proposed. Second, the asympto

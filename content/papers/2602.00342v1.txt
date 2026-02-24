@@ -1,0 +1,8 @@
+Title: Optimal Engagement of Residential Battery Storage to Alleviate Grid Upgrades Caused by EVs and Solar Systems
+
+Authors: Rafi Zahedi, Amirhossein Ahmadian, Chen Zhang, Shashank Narayana Gowda, Kourosh SedghiSigarchi, Rajit Gadh
+
+DOI: 10.25046/aj090201
+
+Abstract:
+The integration of distributed energy resources has ushered in a host of complex challenges, significantly impacting power quality in distribution networks. This work studies these challenges, exploring issues such as voltage fluctuations and escalating power losses caused by the integration of solar systems and electric vehicle (EV) chargers. We present a robust methodology focused on mitigating voltage deviations and power losses, emphasizing the allocation of a Permitted Percentage (PP) of ba

@@ -1,0 +1,6 @@
+Title: A Brief Review of Current Lithium Ion Battery Technology and Potential Solid State Battery Technologies
+
+Authors: Andrew Ulvestad
+
+Abstract:
+Solid state battery technology has recently garnered considerable interest from companies including Toyota, BMW, Dyson, and others. The primary driver behind the commercialization of solid state batteries (SSBs) is to enable the use of lithium metal as the anode, as opposed to the currently used carbon anode, which would result in ~20% energy density improvement. However, no reported solid state battery to date meets all of the performance metrics of state of the art liquid electrolyte lithium i

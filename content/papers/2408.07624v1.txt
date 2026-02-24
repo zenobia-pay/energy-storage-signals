@@ -1,0 +1,6 @@
+Title: Battery GraphNets : Relational Learning for Lithium-ion Batteries(LiBs) Life Estimation
+
+Authors: Sakhinana Sagar Srinivas, Rajat Kumar Sarkar, Venkataramana Runkana
+
+Abstract:
+Battery life estimation is critical for optimizing battery performance and guaranteeing minimal degradation for better efficiency and reliability of battery-powered systems. The existing methods to predict the Remaining Useful Life(RUL) of Lithium-ion Batteries (LiBs) neglect the relational dependencies of the battery parameters to model the nonlinear degradation trajectories. We present the Battery GraphNets framework that jointly learns to incorporate a discrete dependency graph structure betw

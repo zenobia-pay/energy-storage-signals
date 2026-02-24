@@ -1,0 +1,6 @@
+Title: Lithium-Ion Battery Charging Schedule Optimization to Balance Battery Usage and Degradation
+
+Authors: Jacob Azoulay, Nico Carballal
+
+Abstract:
+This work optimizes a lithium-ion battery charging schedule while considering a joint revenue and battery degradation model. The study extends the work of Meheswari et. al. to encourage battery usage/charging at optimal intervals depending on energy cost forecasts. This paper utilizes central difference Nesterov momentum gradient descent to come to optimal charging strategies and deal with the non-linearities of the battery degradation model. This optimization strategy is tested against constant

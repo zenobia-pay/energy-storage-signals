@@ -1,0 +1,6 @@
+Title: From inconsistency to decision: explainable operation and maintenance of battery energy storage systems
+
+Authors: Jingbo Qu, Yijie Wang, Yujie Fu, Putai Zhang, Weihan Li, Mian Li
+
+Abstract:
+Battery Energy Storage Systems (BESSs) are increasingly critical to power-system stability, yet their operation and maintenance remain dominated by reactive, expert-dependent diagnostics. While cell-level inconsistencies provide early warning signals of degradation and safety risks, the lack of scalable and interpretable decision-support frameworks prevents these signals from being effectively translated into operational actions. Here we introduce an inconsistency-driven operation and maintenanc

@@ -1,0 +1,6 @@
+Title: Integrating Electrochemical Modeling with Machine Learning for Lithium-Ion Batteries
+
+Authors: Hao Tu, Scott Moura, Huazhen Fang
+
+Abstract:
+Mathematical modeling of lithium-ion batteries (LiBs) is a central challenge in advanced battery management. This paper presents a new approach to integrate a physics-based model with machine learning to achieve high-precision modeling for LiBs. This approach uniquely proposes to inform the machine learning model of the dynamic state of the physical model, enabling a deep integration between physics and machine learning. We propose two hybrid physics-machine learning models based on the approach

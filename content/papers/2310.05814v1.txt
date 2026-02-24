@@ -1,0 +1,8 @@
+Title: Deep Learning-Based Hurricane Resilient Co-planning of Transmission Lines, Battery Energy Storages and Wind Farms
+
+Authors: Mojtaba Moradi-Sepahvand, Turaj Amraee, Saleh Sadeghi Gougheri
+
+DOI: 10.1109/TII.2021.3074397
+
+Abstract:
+In this paper, a multi-stage model for expansion co-planning of transmission lines, Battery Energy Storages (BESs), and Wind Farms (WFs) is presented considering resilience against extreme weather events. In addition to High Voltage Alternating Current (HVAC) lines, Multi-Terminal Voltage Source Converter (MTVSC) based High Voltage Direct Current (HVDC) lines are planned to reduce the impact of high-risk events. To evaluate the system resilience against hurricanes, probable hurricane speed (HS) 

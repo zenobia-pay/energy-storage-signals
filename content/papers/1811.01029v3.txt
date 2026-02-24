@@ -1,0 +1,8 @@
+Title: Quantifying Inactive Lithium in Lithium Metal Batteries
+
+Authors: Chengcheng Fang, Jinxing Li, Minghao Zhang, Yihui Zhang, Fan Yang, Jungwoo Z. Lee, Min-Han Lee, Judith Alvarado, Marshall A. Schroeder, Yangyuchen Yang, Bingyu Lu, Nicholas Williams, Miguel Ceja, Li Yang, Mei Cai, Jing Gu, Kang Xu, Xuefeng Wang, Ying Shirley Meng
+
+DOI: 10.1038/s41586-019-1481-z
+
+Abstract:
+Inactive lithium (Li) formation is the immediate cause of capacity loss and catastrophic failure of Li metal batteries. However, the chemical component and the atomic level structure of inactive Li have rarely been studied due to the lack of effective diagnosis tools to accurately differentiate and quantify Li+ in solid electrolyte interphase (SEI) components and the electrically isolated unreacted metallic Li0, which together comprise the inactive Li. Here, by introducing a new analytical metho

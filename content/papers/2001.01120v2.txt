@@ -1,0 +1,8 @@
+Title: Quantum Chemistry Simulations of Dominant Products in Lithium-Sulfur Batteries
+
+Authors: Julia E. Rice, Tanvi P. Gujarati, Tyler Y. Takeshita, Joe Latone, Mario Motta, Andreas Hintennach, Jeannette M. Garcia
+
+DOI: 10.1063/5.0044068
+
+Abstract:
+Quantum chemistry simulations of some industrially relevant molecules are reported, employing variational quantum algorithms for near-term quantum devices. The energies and dipole moments are calculated along the dissociation curves for lithium hydride (LiH), hydrogen sulfide, lithium hydrogen sulfide and lithium sulfide. In all cases we focus on the breaking of a single bond, to obtain information about the stability of the molecular species being investigated. We calculate energies and a varie

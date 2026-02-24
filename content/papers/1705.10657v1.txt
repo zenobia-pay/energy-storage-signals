@@ -1,0 +1,6 @@
+Title: A Fibrous Solid Electrolyte for Lithium-ion Batteries
+
+Authors: Salim Erol
+
+Abstract:
+The new methodology proposed in this work uses oxide filaments/fibers instead of a dense thin film electrolyte, allowing: (i) straightforward fabrication without the use of costly thin film production techniques, (ii) minor changes in the existing Li- ion battery production lines, and (iii) better mechanical stability and electrochemical performance. Li7La3Zr2O12 (LLZO) fibers as an electrolyte were prepared using the electrospinning technique. The crystallographic phase and morphology of the pr

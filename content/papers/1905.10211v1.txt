@@ -1,0 +1,8 @@
+Title: The electrochemical storage mechanism in oxy-hydroxyfluorinated anatase for sodium-ion batteries
+
+Authors: Wei Li, Mika Fukunishi, Benjamin Morgan, Olaf Borkiewicz, Valérie Pralong, Antoine Maignan, Henri Groult, Shinichi Komaba, Damien Dambournet
+
+DOI: 10.1039/C8QI00185E
+
+Abstract:
+Replacing lithium ions with sodium ions as the charge carriers in rechargeable batteries can induce noticeable differences in the electrochemical storage mechanisms of electrode materials. Many material parameters, such as particle size, morphology, and the presence of defects, are known to further affect the storage mechanism. Here, we report an investigation of how the introduction of titanium vacancies into anatase TiO2 affects the sodium storage mechanism. From pair distribution function ana

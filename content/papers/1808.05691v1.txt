@@ -1,0 +1,8 @@
+Title: Optimal Scheduling of an Isolated Microgrid with Battery Storage Considering Load and Renewable Generation Uncertainties
+
+Authors: Yang Li, Zhen Yang, Guoqing Li, Dongbo Zhao, Wei Tian
+
+DOI: 10.1109/TIE.2018.2840498
+
+Abstract:
+By modeling the uncertainty of spinning reserves provided by energy storage with probabilistic constraints, a new optimal scheduling mode is proposed for minimizing the operating costs of an isolated microgrid (MG) by using chance-constrained programming. The model is transformed into a readily solvable mixed integer linear programming (MILP) formulation in GAMS via a proposed discretized step transformation (DST) approach and finally solved by applying the CPLEX solver. By properly setting the 

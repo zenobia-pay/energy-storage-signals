@@ -1,0 +1,6 @@
+Title: Self-healing mechanism of lithium in lithium metal batteries
+
+Authors: Junyu Jiao, Genming Lai, Liang Zhao, Jiaze Lu, Qidong Li, Xianqi Xu, Yao Jiang, Yan-Bing He, Chuying Ouyang, Feng Pan, Hong Li, Jiaxin Zheng
+
+Abstract:
+Li metal is an ideal anode material for use in state-of-the-art secondary batteries. However, Li-dendrite growth is a safety concern and results in low coulombic efficiency, which significantly restricts the commercial application of Li secondary batteries. Unfortunately, the Li deposition (growth) mechanism is poorly understood on the atomic scale. Here, we used machine learning to construct a Li potential model with quantum-mechanical computational accuracy. Molecular dynamics simulations in t

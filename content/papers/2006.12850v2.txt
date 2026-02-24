@@ -1,0 +1,6 @@
+Title: Real-time Control of Battery Energy Storage Systems to Provide Ancillary Services Considering Voltage-Dependent Capability of DC-AC Converters
+
+Authors: Zhao Yuan, Antonio Zecchino, Rachid Cherkaoui, Mario Paolone
+
+Abstract:
+Frequency response and voltage support are vital ancillary services for power grids. In this paper, we design and experimentally validate a real-time control framework for battery energy storage systems (BESSs) to provide ancillary services to power grids. The objective of the control system is to utilize the full capability of the BESSs to provide ancillary services. We take the voltage-dependent capability curve of the DC-AC converter and the security requirements of BESSs as constraints of th

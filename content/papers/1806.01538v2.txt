@@ -1,0 +1,6 @@
+Title: Zonal congestion management mixing large battery storage systems and generation curtailment
+
+Authors: Clementine Straub, Sorin Olaru, Jean Maeght, Patrick Panciatici
+
+Abstract:
+The French transmission system operator (RTE) needs to face a significant congestion increase in specific zones of the electrical network due to high integration of renewable energies. Network reconfiguration and renewable energy curtailment are currently employed to manage congestion and guarantee the system security and stability. In sensitive zones, however, stronger levers need to be developed. Large battery storage systems are receiving an increasing interest for their potential in congesti

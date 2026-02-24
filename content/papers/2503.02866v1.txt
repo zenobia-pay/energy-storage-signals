@@ -1,0 +1,6 @@
+Title: Optimal Power Management for Large-Scale Battery Energy Storage Systems via Bayesian Inference
+
+Authors: Amir Farakhor, Iman Askari, Di Wu, Yebin Wang, Huazhen Fang
+
+Abstract:
+Large-scale battery energy storage systems (BESS) have found ever-increasing use across industry and society to accelerate clean energy transition and improve energy supply reliability and resilience. However, their optimal power management poses significant challenges: the underlying high-dimensional nonlinear nonconvex optimization lacks computational tractability in real-world implementation, and the uncertainty of the exogenous power demand makes exact optimization difficult. This paper pres

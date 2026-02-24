@@ -1,0 +1,6 @@
+Title: Optimal Power Management of Battery Energy Storage Systems via Ensemble Kalman Inversion
+
+Authors: Amir Farakhor, Iman Askari, Di Wu, Huazhen Fang
+
+Abstract:
+Optimal power management of battery energy storage systems (BESS) is crucial for their safe and efficient operation. Numerical optimization techniques are frequently utilized to solve the optimal power management problems. However, these techniques often fall short of delivering real-time solutions for large-scale BESS due to their computational complexity. To address this issue, this paper proposes a computationally efficient approach. We introduce a new set of decision variables called power-s

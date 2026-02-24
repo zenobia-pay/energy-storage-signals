@@ -1,0 +1,6 @@
+Title: Battery Swapping Station as an Energy Storage for Capturing Distribution-Integrated Solar Variability
+
+Authors: Zohreh S. Hosseini, Mohsen Mahoor, Amin Khodaei
+
+Abstract:
+Managing the inherent variability of solar generation is a critical challenge for utility grid operators, particularly as the distribution grid-integrated solar generation is making fast inroads in power systems. This paper proposes to leverage Battery Swapping Station (BSS) as an energy storage for mitigating solar photovoltaic (PV) output fluctuations. Using mixed-integer programming, a model for the BSS optimal scheduling is proposed to capture solar generation variability. The proposed model

@@ -1,0 +1,8 @@
+Title: Theory of Impedance Spectroscopy for Lithium Batteries
+
+Authors: Fabian Single, Birger Horstmann, Arnulf Latz
+
+DOI: 10.1021/acs.jpcc.9b07389
+
+Abstract:
+In this article, we derive and discuss a physics-based model for impedance spectroscopy of lithium batteries. Our model for electrochemical cells with planar electrodes takes into account the solid-electrolyte interphase (SEI) as porous surface film. We present two improvements over standard impedance models. Firstly, our model is based on a consistent description of lithium transport through electrolyte and SEI. We use well-defined transport parameters, e.g., transference numbers, and consider 

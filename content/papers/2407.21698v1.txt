@@ -1,0 +1,8 @@
+Title: Long-Term Energy Management for Microgrid with Hybrid Hydrogen-Battery Energy Storage: A Prediction-Free Coordinated Optimization Framework
+
+Authors: Ning Qi, Kaidi Huang, Zhiyuan Fan, Bolun Xu
+
+DOI: 10.1016/j.apenergy.2024.124485
+
+Abstract:
+This paper studies the long-term energy management of a microgrid coordinating hybrid hydrogen-battery energy storage. We develop an approximate semi-empirical hydrogen storage model to accurately capture the power-dependent efficiency of hydrogen storage. We introduce a prediction-free two-stage coordinated optimization framework, which generates the annual state-of-charge (SoC) reference for hydrogen storage offline. During online operation, it updates the SoC reference online using kernel reg

@@ -1,0 +1,6 @@
+Title: Real-time Operation Optimization of Microgrids with Battery Energy Storage System: A Tube-based Model Predictive Control Approach
+
+Authors: Cheng Lyu, Youwei Jia, Zhao Xu
+
+Abstract:
+Battery energy storage systems (ESS) are widely used in microgrids to complement high renewables. However, the real-time energy management of microgrids with battery ESS is challenging in two aspects: 1) the evolution process of battery energy level is across-time coupled; 2) uncertainties unavoidably arise in the forecasting process for renewable generation. In this paper, a tube-based model predictive control (MPC) approach is innovatively proposed in accommodating the real-time energy managem

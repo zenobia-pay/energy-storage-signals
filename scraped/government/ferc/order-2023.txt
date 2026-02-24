@@ -1,0 +1,60 @@
+# FERC Order 2023 - Interconnection Reform
+# Issued: July 2023
+# Source: https://www.ferc.gov/media/order-no-2023
+# Status: Final Rule
+
+## Overview
+FERC Order 2023 is a landmark regulatory reform addressing the massive backlog in
+the interconnection queue for new generation resources, particularly solar, wind, 
+and energy storage projects.
+
+## Key Provisions
+
+### 1. First-Ready, First-Served Approach
+- Replaces first-come, first-served study process
+- Prioritizes projects that are most ready to proceed
+- Requires financial commitments to advance in queue
+
+### 2. Cluster Studies
+- Groups projects for more efficient study processing
+- Reduces redundant analysis
+- 150-day initial study timeline
+
+### 3. Financial Commitments
+- Study deposits of $5,000/MW or $250,000 minimum for affected systems study
+- Commercial readiness deposits of $10,000/MW for network upgrade costs
+- Withdrawal penalties to discourage speculative projects
+
+### 4. Timeline Requirements
+- 150-calendar-day cluster study
+- 150-calendar-day cluster restudy (if needed)
+- Facilities study: 90 days (projects ≤25 MW) or 180 days (larger projects)
+
+### 5. Affected System Coordination
+- Improved coordination between transmission providers
+- Binding cost allocations for affected system upgrades
+
+### 6. Transparency
+- Public posting of interconnection study data
+- Regular queue status updates
+
+## Impact on Energy Storage
+- Critical for clearing backlog of battery storage projects
+- Many storage projects withdrawn due to queue delays
+- Order expected to accelerate storage interconnection
+- Enables co-located solar+storage projects
+
+## Compliance Deadlines
+- Transmission providers must file compliance tariffs within 90 days
+- Implementation varies by region/ISO/RTO
+
+## Related Orders
+- Order 841 (Storage participation in wholesale markets)
+- Order 881 (Transmission line ratings)
+- Order 1920 (Transmission planning)
+
+## Significance
+Order 2023 addresses one of the biggest bottlenecks to clean energy deployment.
+As of 2023, over 2,000 GW of generation capacity waited in interconnection queues
+nationwide, with average wait times exceeding 5 years. The majority of queued
+capacity is solar, wind, and storage.

@@ -1,0 +1,6 @@
+Title: Theoretical Studies on Sodium Storage Mechanism in Hard Carbon Anodes of Sodium-Ion Batteries: Molecular Simulations Based on Machine Learning Force Fields
+
+Authors: Zhaoming Wang, Guanghui Shi, Guanghui Wang, Man Wang, Xiao Wang, Feng Ding
+
+Abstract:
+Sodium-ion batteries (SIBs) have garnered significant attention in recent years as a promising alternative to lithium-ion batteries (LIBs) due to their low cost, abundant sodium resources, and excellent cycling performance. Hard carbon materials, characterized by their high specific capacity, outstanding cycling stability, and low cost, have emerged as potential candidates for SIB anodes. However, the sodium storage mechanism in hard carbon anodes remains highly complex, especially in disordered

@@ -1,0 +1,8 @@
+Title: Power System Dispatch with Marginal Degradation Cost of Battery Storage
+
+Authors: Guannan He, Soummya Kar, Javad Mohammadi, Panayiotis Moutis, Jay F. Whitacre
+
+DOI: 10.1109/TPWRS.2020.3048401
+
+Abstract:
+Battery storage is essential for the future smart grid. The inevitable cell degradation renders the battery lifetime volatile and highly dependent on battery dispatch, and thus incurs opportunity cost. This paper rigorously derives the marginal degradation cost of battery for power system dispatch. The derived optimal marginal degradation cost is time-variant to reflect the time value of money and the functionality fade of battery and takes the form of a constant value divided by a discount fact

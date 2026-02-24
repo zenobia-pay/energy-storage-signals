@@ -1,0 +1,6 @@
+Title: Optimal Utilization Strategy of the LiFePO$_4$ Battery Storage
+
+Authors: T. Sayfutdinov, P. Vorobev
+
+Abstract:
+The paper provides a comprehensive battery storage modelling approach, which accounts for operation- and degradation-aware characteristics, i.e., variable efficiency, internal resistance growth, and capacity fade. Based on the available experimental data from the literature, we build mixed-integer linear programming compatible lithium iron phosphate (LiFePO$_4$) battery model that can be used in problems related to various applications, i.e., power system, smart grid, and vehicular applications.

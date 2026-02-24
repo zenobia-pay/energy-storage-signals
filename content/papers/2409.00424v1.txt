@@ -1,0 +1,6 @@
+Title: Optimization-Based Control of Distributed Battery Storage in Distribution Networks
+
+Authors: Wilhiam de Carvalho, Ahmad Attarha, Hemanshu R. Pota
+
+Abstract:
+We propose a combined global-local control approach to regulate voltage and minimize power losses in distribution networks with high integration of distributed energy resources (DERs). Local controllers embed the fast acting proportional volt-var-watt control law and have their gain (slope) coefficients updated regularly by a global optimization problem at a slower time-scale. Design of optimal coefficients preserve overall system stability and encapsulate inverter and energy limits of controlla

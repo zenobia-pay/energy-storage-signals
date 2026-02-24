@@ -1,0 +1,6 @@
+Title: A Sufficient Condition to Guarantee Non-Simultaneous Charging and Discharging of Household Battery Energy Storage
+
+Authors: Amit Joshi, Hamed Kebriaei, Valerio Mariani, Luigi Glielmo
+
+Abstract:
+In this letter, we model the day-ahead price-based demand response of a residential household with battery energy storage and other controllable loads, as a convex optimization problem. Further using duality theory and Karush-Kuhn-Tucker optimality conditions, we derive a sufficient criterion which guarantees non-simultaneous charging and discharging of the battery energy storage, without explicitly modelling it as a constraint

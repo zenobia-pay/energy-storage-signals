@@ -1,0 +1,6 @@
+Title: Efficient Scheduling of Vehicular Tasks on Edge Systems with Green Energy and Battery Storage
+
+Authors: Suvarthi Sarkar, Abinash Kumar Ray, Aryabartta Sahu
+
+Abstract:
+The autonomous vehicle industry is rapidly expanding, requiring significant computational resources for tasks like perception and decision-making. Vehicular edge computing has emerged to meet this need, utilizing roadside computational units (roadside edge servers) to support autonomous vehicles. Aligning with the trend of green cloud computing, these roadside edge servers often get energy from solar power. Additionally, each roadside computational unit is equipped with a battery for storing sol

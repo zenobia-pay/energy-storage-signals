@@ -1,0 +1,6 @@
+Title: Hydrogen and Battery Storage Technologies for Low Cost Energy Decarbonization in Distribution Networks
+
+Authors: Hamed Haggi, Paul Brooker, Wei Sun, James M. Fenton
+
+Abstract:
+Deep energy decarbonization cannot be achieved without high penetration of renewables. At higher renewable energy penetrations, the variability and intermittent nature of solar photovoltaic (PV) electricity can cause ramping issues with existing fossil fuel generation, requiring longer term energy storage to increase the reliability of grid operation. A proton exchange membrane electrolyzer can produce H2and serves as a utility controllable load. The produced H2 can then be stored and converted 

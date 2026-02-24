@@ -1,0 +1,6 @@
+Title: A novel linear battery energy storage system (BESS) life loss calculation model for BESS-integrated wind farm in scheduled power tracking
+
+Authors: Qiang Gui, Hao Su, Donghan Feng, Yun Zhou, Ran Xu, Ting Lei
+
+Abstract:
+Recently, rapid development of battery technology makes it feasible to integrate renewable generations with battery energy storage system (BESS). The consideration of BESS life loss for different BESS application scenarios is economic imperative. In this paper, a novel linear BESS life loss calculation model for BESS-integrated wind farm in scheduled power tracking is proposed. Firstly, based on the life cycle times-depth of discharge (DOD) relation-curve, the BESS life loss coefficient for unit

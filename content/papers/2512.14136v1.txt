@@ -1,0 +1,6 @@
+Title: Coordinated Fast Frequency Response from Electric Vehicles, Data Centers, and Battery Energy Storage Systems
+
+Authors: Xiaojie Tao, Rajit Gadh
+
+Abstract:
+High renewable penetration has significantly reduced system inertia in modern power grids, increasing the need for fast frequency response (FFR) from distributed and non-traditional resources. While electric vehicles (EVs), data centers, and battery energy storage systems (BESS) have each demonstrated the capability to provide sub-second active power support, their combined frequency response potential has not been systematically evaluated. This paper proposes a coordinated control framework tha

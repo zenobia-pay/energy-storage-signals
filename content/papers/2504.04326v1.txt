@@ -1,0 +1,8 @@
+Title: Economic Battery Storage Dispatch with Deep Reinforcement Learning from Rule-Based Demonstrations
+
+Authors: Manuel Sage, Martin Staniszewski, Yaoyao Fiona Zhao
+
+DOI: 10.1109/ICCAD57653.2023.10152299
+
+Abstract:
+The application of deep reinforcement learning algorithms to economic battery dispatch problems has significantly increased recently. However, optimizing battery dispatch over long horizons can be challenging due to delayed rewards. In our experiments we observe poor performance of popular actor-critic algorithms when trained on yearly episodes with hourly resolution. To address this, we propose an approach extending soft actor-critic (SAC) with learning from demonstrations. The special feature 

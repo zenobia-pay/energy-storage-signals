@@ -1,0 +1,8 @@
+Title: On $Γ-$Convergence of a Variational Model for Lithium-Ion Batteries
+
+Authors: Kerrek Stinson
+
+DOI: 10.1007/s00205-020-01602-7
+
+Abstract:
+A singularly perturbed phase field model used to model lithium-ion batteries including chemical and elastic effects is considered. The underlying energy is given by $$I_ε[u,c ] := \int_Ω\left( \frac{1}ε f(c) + ε\|\nabla c\|^2 + \frac{1}ε\mathbb{C} (e(u)-ce_0) : (e(u)-ce_0)\right) dx, $$ where $f$ is a double well potential, $\mathbb{C}$ is a symmetric positive definite fourth order tensor, $c$ is the normalized lithium-ion density, and $u$ is the material displacement. The integrand contains ele

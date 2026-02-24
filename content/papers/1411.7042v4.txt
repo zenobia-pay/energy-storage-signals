@@ -1,0 +1,8 @@
+Title: The Joint Center for Energy Storage Research: A New Paradigm for Battery Research and Development
+
+Authors: George Crabtree
+
+DOI: 10.1063/1.4916174
+
+Abstract:
+The Joint Center for Energy Storage Research (JCESR) seeks transformational change in transportation and the electricity grid driven by next generation high performance, low cost electricity storage. To pursue this transformative vision JCESR introduces a new paradigm for battery research: integrating discovery science, battery design, research prototyping and manufacturing collaboration in a single highly interactive organization. This new paradigm will accelerate the pace of discovery and inno

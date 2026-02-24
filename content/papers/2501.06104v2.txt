@@ -1,0 +1,6 @@
+Title: Weather-Driven Priority Charging for Battery Storage Systems in Hybrid Renewable Energy Grids
+
+Authors: Dhrumil Bhatt, Siddharth Penumatsa, Nirbhay Singhal
+
+Abstract:
+The integration of renewable energy into the power grid is often hindered by its fragmented infrastructure, leading to inefficient utilization due to the variability of energy production and its reliance on weather conditions. Battery storage systems, while essential for stabilizing energy supply, face challenges like sub-optimal energy distribution, accelerating battery degradation, and reducing operational efficiency. This paper presents a novel solution to these challenges by developing a lar

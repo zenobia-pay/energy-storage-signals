@@ -1,0 +1,6 @@
+Title: Comparing the suitability of Lithium ion, Lithium Sulfur and Lithium air batteries for current and future vehicular applications
+
+Authors: Gorazd Lampic, Gorazd Gotovac, Hugh Geaney, Colm O'Dwyer
+
+Abstract:
+In this report, future performance demands of batteries for various vehicular applications are modeled. Vehicles ranging in size from electric bikes to heavy trucks are assessed using driving cycle data which allows key performance parameters such as desired range (km), specific energy of the battery (Wh/Kg), cycle life requirement and expected price per unit capacity (Euro/kWh) to be calculated. These projected performance requirements are compared with the outputs for three existing Li-ion bat

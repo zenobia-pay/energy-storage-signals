@@ -1,0 +1,6 @@
+Title: Optimal Capacity of a Battery Energy Storage System based on Solar Variability Index to Smooth out Power Fluctuations in PV-Diesel Microgrids
+
+Authors: Julius Susanto, Farhad Shahnia
+
+Abstract:
+Battery energy storage systems can be integrated with photovoltaic (PV)-diesel microgrids, as an enabling technology to increase the penetration of PV systems and aid microgrid stability by smoothing out the power fluctuations of the PV systems. The aim of this paper is to derive correlations between the optimal capacity of the smoothing batteries and variabilities in daily solar irradiance. Two commonly used smoothing techniques of moving average and ramp rate control are applied on a real sola

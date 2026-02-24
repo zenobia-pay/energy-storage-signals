@@ -1,0 +1,8 @@
+Title: Novel Lithium-Sulfur Polymer Battery Operating at Moderate Temperature
+
+Authors: Vittorio Marangon, Daniele Di Lecce, Luca Minnetti, Jusef Hassoun
+
+DOI: 10.1002/celc.202101272
+
+Abstract:
+A safe lithium-sulfur (Li-S) battery employs a composite polymer electrolyte based on a poly(ethylene glycol) dimethyl ether (PEGDME) solid at room temperature. The electrolyte membrane enables a stable and reversible Li-S electrochemical process already at 50°C, with low resistance at the electrode/electrolyte interphase and fast Li+ transport. The relatively low molecular weight of the PEGDME and the optimal membrane composition in terms of salts and ceramic allow a liquid-like Li-S conversion

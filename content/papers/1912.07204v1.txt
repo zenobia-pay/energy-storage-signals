@@ -1,0 +1,6 @@
+Title: Hybrid Transmission Distribution Co-simulation: Frequency Regulation using Battery Energy Storage
+
+Authors: Gayathri Krishnamoorthy, Anamika Dubey
+
+Abstract:
+Battery energy storage systems (BESS) are proving to be an effective solution in providing frequency regulation services to the bulk grid. However, there are several concerns for the transmission/distribution system operators (TSO/DSO) with the frequent dispatching of the distribution-connected fast-responding storage systems. Unfortunately, the existing decoupled models for transmission and distribution (T&amp;D) simulations are unable to capture the complex interactions between the two systems

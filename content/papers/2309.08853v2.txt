@@ -1,0 +1,6 @@
+Title: Optimal Power Scheduling for High Renewables-Integrated Energy Systems with Battery Storage
+
+Authors: Cunzhi Zhao, Xingpeng Li
+
+Abstract:
+In high renewables-integrated power systems, irrespective to their sizes, energy storage is commonly included and utilized to mitigate fluctuations from both the load and renewable power generation, ensuring system reliability, among which battery energy storage system (BESS) are experiencing fast-growth in recent years. The BESS systems, predominantly employing lithi-um-ion batteries, have been extensively deployed. The degrada-tion of these batteries significantly affects system efficiency. De

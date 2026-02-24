@@ -1,0 +1,6 @@
+Title: Effective Capacity of a Battery Energy Storage System Captive to a Wind Farm
+
+Authors: Vinay A. Vaishampayan, Thilaharani Antony, Amirthagunaraj Yogarathnam
+
+Abstract:
+Wind energy's role in the global electric grid is set to expand significantly. New York State alone anticipates offshore wind farms (WFs) contributing 9GW by 2035. Integration of energy storage emerges as crucial for this advancement. In this study, we focus on a WF paired with a captive battery energy storage system (BESS). We aim to ascertain the capacity credit for a BESS with specified energy and power ratings. Unlike prior methods rooted in reliability theory, we define a power alignment fu

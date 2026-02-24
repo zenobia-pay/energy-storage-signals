@@ -1,0 +1,8 @@
+Title: Optimal Participation of Price-maker Battery Energy Storage Systems in Energy and Ancillary Services Markets Considering Degradation Cost
+
+Authors: Reza Khalilisenobari, Meng Wu
+
+DOI: 10.1016/j.ijepes.2021.107924
+
+Abstract:
+This paper proposes a bi-level optimization framework to investigate the optimal market operation strategies of price-maker battery energy storage systems (BESSs) in real-time energy, spinning reserve, and pay as performance regulation markets, with a special focus on understanding BESS's excessive regulation market participation observed by several system operators and the impact of battery degradation cost on BESS market activities. An accurate battery degradation cost function is integrated i

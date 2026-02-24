@@ -1,0 +1,6 @@
+Title: Trading with propagators and constraints: applications to optimal execution and battery storage
+
+Authors: Eduardo Abi Jaber, Nathan De Carvalho, Huyên Pham
+
+Abstract:
+Motivated by optimal execution with stochastic signals, market impact and constraints in financial markets, and optimal storage management in commodity markets, we formulate and solve an optimal trading problem with a general propagator model under linear functional inequality constraints. The optimal control is given explicitly in terms of the corresponding Lagrange multipliers and their conditional expectations, as a solution to a linear stochastic Fredholm equation. We propose a stochastic ve

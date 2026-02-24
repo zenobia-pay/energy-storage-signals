@@ -1,0 +1,80 @@
+# DOE Long Duration Energy Storage Earthshot
+# Launched: July 2021
+# Source: https://www.energy.gov/eere/long-duration-storage-shot
+# Status: Active Initiative
+
+## Overview
+The Long Duration Storage Shot is one of DOE's "Energy Earthshots" - ambitious
+goals to accelerate clean energy technology deployment. It aims to achieve
+90% cost reduction for grid-scale long-duration energy storage by 2030.
+
+## Target
+Reduce the cost of grid-scale energy storage that provides 10+ hours of
+duration by 90% within the decade.
+- From ~$350/kWh in 2020 to ~$35/kWh by 2030
+
+## Why Long Duration Storage Matters
+- Solar and wind provide cheap electricity but are intermittent
+- Current lithium-ion batteries cost-effective for 2-4 hour duration
+- Grid-scale decarbonization requires 10-100+ hours of storage
+- Enables reliable 100% clean electricity systems
+
+## Technology Pathways
+1. Advanced Battery Chemistries
+   - Flow batteries (vanadium, iron, zinc-bromine)
+   - Metal-air batteries (iron-air, zinc-air)
+   - Sodium-sulfur batteries
+   - Sodium-ion batteries
+
+2. Mechanical Storage
+   - Compressed air energy storage (CAES)
+   - Liquid air energy storage (LAES)
+   - Gravity storage systems
+   - Underground pumped hydro
+
+3. Thermal Storage
+   - Molten salt
+   - Concrete/rock thermal storage
+   - Ice/cold storage
+
+4. Hydrogen
+   - Green hydrogen production via electrolysis
+   - Underground hydrogen storage
+   - Fuel cell reconversion
+
+5. Chemical/Other
+   - Power-to-gas
+   - Carbon-based fuels
+
+## Key DOE Programs Supporting LDES
+- Advanced Research Projects Agency-Energy (ARPA-E)
+- Office of Electricity Energy Storage Program
+- Loan Programs Office (LPO)
+- Grid Deployment Office
+
+## Major Investments
+- $505 million for long-duration demonstration projects (2023)
+- Grid Storage Launchpad (PNNL) - $125 million facility
+- ARPA-E Duration Addition to electricitY Storage (DAYS) program
+
+## Companies Working on LDES
+- Form Energy (iron-air batteries)
+- ESS Inc. (iron flow batteries)
+- Ambri (liquid metal batteries)
+- Energy Vault (gravity storage)
+- Malta Inc. (thermal storage)
+- Eos Energy (zinc-based batteries)
+- Hydrostor (compressed air)
+
+## Metrics for Success
+- Cost: $/kWh for storage capacity
+- Efficiency: Round-trip efficiency >70%
+- Lifetime: 20+ year operational life
+- Safety: Non-flammable, non-toxic preferred
+- Scalability: Can deploy at GW scale
+
+## Current Status (2026)
+- Form Energy deploying first commercial iron-air projects
+- Flow batteries seeing increased deployment
+- Costs declining but 90% reduction goal ambitious
+- Several technologies approaching commercial viability

@@ -1,0 +1,6 @@
+Title: Optimal Sizing of Community Photovoltaic and Battery Energy Storage Systems with Second-Life Batteries in Peer-to-Peer Energy Communities
+
+Authors: Júlia Monar, Fernando García-Muñoz, Natalia Jorquera Bravo, Joaquín Aballay Araya, Vicente Castro Burgos
+
+Abstract:
+This article presents a mixed-integer second-order cone programming model to determine the optimal sizing of a community-shared photovoltaic and battery energy storage system (PV-BESS) within a peer-to-peer (P2P) energy trading framework. The model accounts for heterogeneous users who may already own individual PV or PV-BESS systems and aims to enhance the overall energy autonomy of the energy community. A key feature of the model is the explicit comparison between first-life (FL) and second-lif

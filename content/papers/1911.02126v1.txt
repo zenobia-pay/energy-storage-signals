@@ -1,0 +1,6 @@
+Title: Control Strategies for Microgrids with Renewable Energy Generation and Battery Energy Storage Systems
+
+Authors: Wenhao Zhuo
+
+Abstract:
+In this report, several control strategies for microgrids with renewable energy resources and battery energy storage systems are proposed. Renewable energy has the potential to reduce global carbon emissions, while higher penetration of renewable energy is hindered by the inherent variability and intermittency of renewable resources. This motivates the development of microgrids supplied by renewable energy resources. With proper control of storage units and communications with the energy market,

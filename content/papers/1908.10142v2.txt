@@ -1,0 +1,8 @@
+Title: Analysis of Avoided Transmission Through Decentralized Photovoltaic and Battery Storage Systems
+
+Authors: Shigeyoshi Sato, Anke Weidlich
+
+DOI: 10.1109/TSTE.2019.2946446
+
+Abstract:
+Decentralized renewable energy systems can be low-carbon power sources, and promoters of local economies. It is often argued that decentralized generation also helps reducing transmission costs, as generation is closer to the load, thus utilizing the transmission system less. The research presented here addresses the question whether or not, or under what circumstances this effect of avoided transmission can actually be seen for a community-operated cluster of photovoltaic (PV) power plants in t

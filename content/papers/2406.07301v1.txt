@@ -1,0 +1,6 @@
+Title: Optimal Scheduling of Battery Storage Systems in the Swedish Multi-FCR Market Incorporating Battery Degradation and Technical Requirements
+
+Authors: Nima Mirzaei Alavijeh, Rahmat Khezri, Mohammadreza Mazidi, David Steen, Le Anh Tuan
+
+Abstract:
+This paper develops a novel mixed-integer linear programming (MILP) model for optimal participation of battery energy storage systems (BESSs) in the Swedish frequency containment reserve (FCR) markets. The developed model aims to maximize the battery owner's potential profit by considering battery degradation and participation in multiple FCR markets, i.e., FCR in normal operation (FCR-N), and FCR in disturbances (FCR-D) for up- and down-regulations. Accordingly, a precise formulation of a detai

@@ -1,0 +1,6 @@
+Title: Understanding the electrochemical performance and diffusion kinetics of HC$||$Na$_3$V$_2$(PO$_4$)$_3$/C full cell battery for energy storage applications
+
+Authors: Madhav Sharma, Rajendra S. Dhaka
+
+Abstract:
+The efficient energy storage devices are crucial to meet the soaring global energy demand for sustainable future. Recently, the sodium-ion batteries (SIBs) have emerged as one of the excellent cost effective solution due to the uniform geographical distribution and abundance of sodium. Here, we use hard carbon (HC) as an anode and Na$_3$V$_2$(PO$_4$)$_3$/C (NVP/C) as a cathode to fabricate a HC$||$NVP/C full cell battery and understand its electrochemical performance and diffusion kinetics. Thes

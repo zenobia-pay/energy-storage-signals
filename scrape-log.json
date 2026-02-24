@@ -1,0 +1,53 @@
+{
+  "scrape_date": "2026-02-20",
+  "task": "Podcast scraping for Energy Storage briefing",
+  "sources_scraped": {
+    "catalyst": {
+      "url": "https://www.latitudemedia.com/news/?type=catalyst",
+      "episodes_found": 15,
+      "transcripts_saved": 5,
+      "host": "Shayle Kann"
+    },
+    "columbia_energy_exchange": {
+      "url": "https://www.energypolicy.columbia.edu/series/columbia-energy-exchange/",
+      "episodes_found": 12,
+      "transcripts_saved": 4,
+      "hosts": ["Jason Bordoff", "Bill Loveless"]
+    },
+    "the_big_switch": {
+      "url": "https://www.energypolicy.columbia.edu/series/the-big-switch/",
+      "episodes_found": 6,
+      "host": "Melissa Lott"
+    },
+    "volts": {
+      "url": "https://www.volts.wtf/",
+      "episodes_found": 396,
+      "host": "David Roberts",
+      "note": "Substack paywall limits full transcript access"
+    }
+  },
+  "people_extracted": 80,
+  "companies_mentioned": 45,
+  "transcripts_saved": [
+    "content/podcasts/catalyst/drew-baglino-heron-power-2026.md",
+    "content/podcasts/columbia-energy-exchange/roland-horne-geothermal-2026.md"
+  ],
+  "key_topics_covered": [
+    "long-duration energy storage",
+    "grid-scale batteries",
+    "solid-state transformers",
+    "power electronics",
+    "transformer shortage",
+    "data center flexibility",
+    "geothermal (EGS)",
+    "climate tech investment",
+    "FOAK financing",
+    "power markets (PJM, ERCOT)"
+  ],
+  "notes": [
+    "The Energy Gang has been discontinued, replaced by Open Circuit",
+    "GTM/The Interchange now under Wood Mackenzie paywall",
+    "Many podcasts have limited web-accessible archives",
+    "Full transcripts available on Latitude Media site"
+  ]
+}

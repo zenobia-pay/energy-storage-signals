@@ -1,0 +1,6 @@
+Title: Accounting for Subsystem Aging Variability in Battery Energy Storage System Optimization
+
+Authors: Melina Graner, Martin Cornejo, Holger Hesse, Andreas Jossen
+
+Abstract:
+This paper presents a degradation-cost-aware optimization framework for multi-string battery energy storage systems, emphasizing the impact of inhomogeneous subsystem-level aging in operational decision-making. We evaluate four scenarios for an energy arbitrage scenario, that vary in model precision and treatment of aging costs. Key performance metrics include operational revenue, power schedule mismatch, missed revenues, capacity losses, and revenue generated per unit of capacity loss. Our anal

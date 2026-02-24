@@ -1,0 +1,8 @@
+Title: Optimization of Battery Energy Storage to Improve Power System Oscillation Damping
+
+Authors: Yongli Zhu, Chengxi Liu, Kai Sun, Di Shi, Zhiwei Wang
+
+DOI: 10.1109/TSTE.2018.2858262
+
+Abstract:
+A placement problem for multiple Battery Energy Storage System (BESS) units is formulated towards power system transient voltage stability enhancement in this paper. The problem is solved by the Cross-Entropy (CE) optimization method. A simulation-based approach is adopted to incorporate higher-order dynamics and nonlinearities of generators and loads. The objective is to maximize the voltage stability index, which is setup based on certain grid-codes. Formulations of the optimization problem ar

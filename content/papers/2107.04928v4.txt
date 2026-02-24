@@ -1,0 +1,8 @@
+Title: Sustained cost declines in solar PV and battery storage needed to eliminate coal generation in India
+
+Authors: Aniruddh Mohan, Shayak Sengupta, Parth Vaishnav, Rahul Tongia, Asim Ahmed, Ines L. Azevedo
+
+DOI: 10.1088/1748-9326/ac98d8
+
+Abstract:
+Unabated coal power in India must be phased out by mid-century to achieve global climate targets under the Paris Agreement. Here we estimate the costs of hybrid power plants - lithium-ion battery storage with wind and solar PV - to replace coal generation. We design least cost mixes of these technologies to supply stylized baseload and load-following generation profiles in three Indian states - Karnataka, Gujarat, and Tamil Nadu. Our analysis shows that availability of low cost capital, solar PV

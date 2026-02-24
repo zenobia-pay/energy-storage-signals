@@ -1,0 +1,6 @@
+Title: Thermodynamics and kinetics of lithium at the silver-lithium battery interface
+
+Authors: Grace M. Lu, Dallas R. Trinkle
+
+Abstract:
+Silver interlayers have been shown to enable smooth lithium deposition and cycling in anode-free solid-state batteries. Here, we report the atomic structure of the Ag and Li interface, showing that Li preferentially plates as FCC on both the (111) and (100) Ag surfaces. This forms an energetically favorable coherent interface with Ag, while the BCC phase forms a semi-coherent interface due to large lattice mismatch. We also calculate vacancy formation energies and migration energies for Li diffu

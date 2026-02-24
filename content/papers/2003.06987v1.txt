@@ -1,0 +1,8 @@
+Title: Degrees of displacement: The impact of household PV battery prosumage on utility generation and storage
+
+Authors: Kelvin Say, Wolf-Peter Schill, Michele John
+
+DOI: 10.1016/j.apenergy.2020.115466
+
+Abstract:
+Reductions in the cost of PV and batteries encourage households to invest in PV battery prosumage. We explore the implications for the rest of the power sector by applying two open-source techno-economic models to scenarios in Western Australia for the year 2030. Household PV capacity generally substitutes utility PV, but slightly less so as additional household batteries are installed. Wind power is less affected, especially in scenarios with higher shares of renewables. With household batterie

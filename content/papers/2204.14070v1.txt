@@ -1,0 +1,6 @@
+Title: Methods pressure control apparatus for lithium metal battery
+
+Authors: Bingyu Lu, Wurigumula Bao, Weiliang Yao, Jean-Marie Doux, Chengcheng Fang, Ying Shirley Meng
+
+Abstract:
+Lithium (Li) metal anodes are essential for developing next-generation high-energy-density batteries. However, Li dendrite/whisker formation caused short-circuiting issue and short cycle life have prevented lithium metal from being viably used in rechargeable batteries. Numerous works have been done to study how to regulate the Li growth in electrochemical cycling by using external stacking forces. While it is widely agreed that stack pressure positively affects the lithium plating/stripping pro

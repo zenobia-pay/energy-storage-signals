@@ -1,0 +1,6 @@
+Title: Decision making under uncertainty for deploying battery storage as a non-wire alternative in distribution networks
+
+Authors: Marc Barbar, Dharik S. Mallapragada, Robert Stoner
+
+Abstract:
+The growing demand for electricity in emerging markets and developing economies (EMDE) such as India is causing loading and congestion problems on distribution networks, particularly in urban locations, that adversely impact sustainable development and economic growth. Electric utilities in these economies face unique constraints regarding raising capital required to upgrade their congested networks. Battery storage has emerged as a non-wire alternative (NWA) to feeder upgrades. This article pre

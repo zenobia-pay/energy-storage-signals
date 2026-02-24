@@ -1,0 +1,6 @@
+Title: Thermodynamics of Lithium Stripping and Limits for Fast Discharge in Lithium Metal Batteries
+
+Authors: Victor Venturi, Venkatasubramanian Viswanathan
+
+Abstract:
+Lithium metal batteries are seen as a critical piece towards electrifying aviation. During charging, plating of lithium metal, a critical failure mechanism, has been studied and mitigation strategies have been proposed. For electric aircraft, high discharge power requirements necessitate stripping of lithium metal in an uniform way and recent studies have identified the evolution of surface voids and pits as a potential failure mechanism. In this work, using density functional theory calculation

@@ -1,0 +1,6 @@
+Title: A full-time scale energy management and battery size optimization for off-grid renewable power to hydrogen systems: A battery energy storage-based grid-forming case in Inner Mongolian
+
+Authors: Jie Zhu
+
+Abstract:
+Hydrogen plays an important role in the context of global carbon reduction. For an off-grid renewable power to hydrogen system (OReP2HS), a grid-forming (GFM) source is essential to provide frequency and voltage references. Here, we take battery works as a GFM source, and the OReP2HS we focus on is comprised of solar photovoltaic, wind turbines, and alkaline electrolyzers for hydrogen generation. An elaborative full-time scale energy management strategy (EMS) covers GFM control to system schedul

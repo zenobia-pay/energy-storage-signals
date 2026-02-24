@@ -1,0 +1,8 @@
+Title: Flexibility potentials of a combined use of heat storages and batteries in PV-CHP hybrid systems
+
+Authors: Tanja M. Kneiske, Martin Braun
+
+DOI: 10.1016/j.egypro.2017.09.498
+
+Abstract:
+Due to the 2012 change in the renewable energy act the feed-in tariffs and as result the number of newly installed photovoltaic systems decreased dramatically in Germany. Therefore, there was the need, particularly, in the residential sector to develop new business ideas for photovoltaic systems. In context of this development, combined photovoltaic and heat-power systems were analyzed, which provide not only electricity but also heat throughout one entire year. Flexibilities are provided in for

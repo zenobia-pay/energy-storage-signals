@@ -1,0 +1,6 @@
+Title: Lithium-ion battery modelling for nonisothermal conditions
+
+Authors: Felix Schloms, Øystein Gullbrekken, Signe Kjelstrup
+
+Abstract:
+A nonequilibrium thermodynamic model is presented for the nonisothermal lithium-ion battery cell. Coupling coefficients, all significant for transport of heat, mass, charge and chemical reaction, were used to model profiles of temperature, concentration and electric potential for each layer of the cell. Electrode surfaces were modelled with excess properties. Extending earlier works, we included lithium diffusion in the electrodes, and explained the cell's thermal signature due to Peltier and So

@@ -1,0 +1,210 @@
+# Energy Gang - Guest Appearances
+# Note: Guest names extracted from episode descriptions
+
+## Regular Contributors
+- Ed Crooks - Host, Vice-Chair of the Americas at Wood Mackenzie
+- Melissa Lott - Director of Research, Columbia Center on Global Energy Policy
+- Amy Myers Jaffe - Director, Energy/Climate Justice & Sustainability Lab, NYU
+- Amy Harder - Executive Editor, Cipher (Breakthrough Energy)
+
+## Episode Guest Mentions
+
+### Episode 560: A solution to the problem of paying for data centre power? Unpacking AWS’s recent 3 gigawatt deal with NIPSCO (Tue, 17 Feb 2026)
+
+        Data centres have become one of the most contentious issue in US power markets. The question of who will pay for the new generation and grid upgrades needed to keep them running has been soaring up the political agenda, and attracting attention in the White House.Host Ed Crooks is joined on...
+
+### Episode 559: Energy storage steps up: the growing role of batteries on the grid, and the challenge from winter storms (Tue, 10 Feb 2026)
+
+        It’s the hottest sector in the global energy industry right now, driven by rising power demand, the need to back up variable renewable generation, and escalating threats to grid resilience. It is of course, battery storage. Host Ed Crooks and regular guest Amy Myers Jaffe speak with Julian ...
+
+### Episode 558: How a Texas electric co-op rebuilt for reliability | Sponsored content from Rayburn Electric (Tue, 27 Jan 2026)
+
+        As Texas battles another bout of bitterly cold weather, Energy Gang looks at the lessons that one generation and transmission electric co-operative learned from Winter Storm Uri in 2021. The freeze and subsequent shock to energy prices showed providers how dangerous it can be to rely on the...
+
+### Episode 557: Venezuela and what to expect from energy in 2026 (Thu, 08 Jan 2026)
+
+        The new year has only just begun, and already we have seen an event with massive significance for the world of energy. The US operation to remove Venezuelan President Nicolás Maduro opens a new era for a country that holds – according to some definitions – the world’s largest oil reserves.S...
+
+### Episode 556: Electric vehicles create problems for the grid. Could they also help solve them? The plan to turn EVs into reliable grid infrastructure (Tue, 06 Jan 2026)
+
+        As we head into 2026, electricity grids aren’t just under strain; they are facing transformational change because of the shifts in the ways that we work, entertain ourselves, and get around. EVs are one of the fastest-growing new loads on the grid in many parts of the world, but are also on...
+
+### Episode 555: Energy Gang’s year in review: the highs, the lows, the people and the technologies of 2025 (Thu, 18 Dec 2025)
+
+        It’s the final Energy Gang of the year, and host Ed Crooks is joined by regulars Amy Myers Jaffe, Director of NYU’s Energy, Climate Justice and Sustainability Lab, Shanu Mathew, a portfolio investor and manager, and Melissa Lott, a systems engineer and energy analyst, to take stock of an ex...
+
+### Episode 554: California’s grid under pressure: affordability, AI, and the future of electricity markets (Tue, 09 Dec 2025)
+
+        California is often described as the state where you can see the future of the US, and of the world. That has certainly been true in terms of some of the problems faced by the electricity grid. California has been grappling with the impact of wildfires and a big shift to renewable generatio...
+
+### Episode 553: What happened at COP30? The key points on cutting emissions, adapting to a warming world, and raising the finance to pay for it (Tue, 25 Nov 2025)
+
+        The COP30 climate talks in Belem wrapped up over the weekend, and reactions to the outcome were sharply divided. Simon Stiell, Executive Secretary of the UNFCCC, said “climate cooperation is still alive…we’re undeniably still in it and we are fighting back.” Others said the COP had been ano...
+
+### Episode 552: What happened in COP30’s first week? Support for energy efficiency and a status report on methane show which climate initiatives are still making progress (Wed, 19 Nov 2025)
+
+        Negotiations in the COP 30 climate talks are continuing in Belem, Brazil. The headlines are focusing on the divisions between countries that are shaping this year’s climate talks. But despite the doom and gloom, there are some practical steps being taken to support the transition towards lo...
+
+### Episode 551: The COP30 climate talks are under way In Brazil. What is the point of the conference?  (Thu, 13 Nov 2025)
+
+        COP30, which began this week in Belém, Brazil, marks a decade since the Paris Agreement was adopted at COP21 in 2015. It’s being billed as the “implementation COP”: instead of grand new announcements of international agreements, governments are supposed to be focused on delivering on the co...
+
+### Episode 550: How are businesses rethinking energy and sustainability? COP30 starts in Belem as climate action falters (Tue, 11 Nov 2025)
+
+        COP30, now getting under way in Belem, Brazil, has been billed as “the implementation COP”, which means a focus on governments taking real steps to achieve the goals of the Paris Agreement. We will be examining all the key issues for government negotiators in the talks very soon. But for th...
+
+### Episode 549: Energy addition, not energy transition? What does it mean for the future of our energy system, and the climate? | Special episode recorded at ADIPEC, the world’s largest energy event (Sat, 08 Nov 2025)
+
+        As world leaders, businesses and NGOs start their journeys to Brazil for the COP30 climate talks, more than 200,000 people attended ADIPEC in Abu Dhabi, the world’s biggest energy event. Energy Gang was there to bring you the highlights from the week’s discussions. One of the key talking po...
+
+### Episode 548: Speed to power: how can America accelerate the build-out of the next grid? | special episode from the ACORE Grid Forum in Washington DC (Tue, 04 Nov 2025)
+
+        Electricity demand in the US is rising faster than it has in decades, driven by AI and a wave of investment in domestic manufacturing. But with transmission lines and other electricity infrastructure taking years to permit and build, how can America secure the power it needs fast enough to ...
+
+### Episode 547: AI could break the electricity grid. What do regulators and the industry need to do to keep the lights on? (Thu, 30 Oct 2025)
+
+        What happens when the surge in electricity demand comes faster than we can build the infrastructure to support it? Live in front of an audience at the Council on Foreign Relations in New York, host Ed Crooks leads a conversation on the future of the US energy grid, skyrocketing load from da...
+
+### Episode 546: How energy diversification can drive development | Special pre-ADIPEC preview episode (Wed, 29 Oct 2025)
+
+        As global energy systems evolve, emerging economies face a defining challenge: how to secure affordable power for today while investing in the low-carbon solutions that will drive tomorrow’s growth. Can energy diversification unlock a new era of industrial development, resilience, and inclu...
+
+### Episode 545: Permitting reform and the politics of building the grid | Live from the ACORE Grid Forum in Washington, D.C.   (Thu, 23 Oct 2025)
+
+        Everyone agrees it takes too long and costs too much to build energy infrastructure in America, but what exactly needs fixing, and can we make progress without rolling back vital environmental protections?In this special episode of Energy Gang, recorded live at the ACORE Grid Forum in Washi...
+
+### Episode 544: The new nuclear renaissance - real or rhetoric? | Special pre-ADIPEC preview episode (Mon, 20 Oct 2025)
+
+        Nuclear power is back at the centre of the global energy conversation again. Is a real renaissance in the industry under way? Or are we just in another moment of excitement before familiar challenges emerge and the hype cycle turns down again?In the second of three special episodes ahead of...
+
+### Episode 543: The connected world of energy | Special episode from Wood Mackenzie (Tue, 14 Oct 2025)
+
+        Host Ed Crooks talks to Jason Liu, Chief Executive of Wood Mackenzie and co-author (with Chief Analyst Simon Flowers) of a new book, Connected, about the fast-changing world of energy. They are also joined by Sunaina Ocalan, formerly Senior Director for Corporate Strategy & Climate at the o...
+
+### Episode 542: Does low-carbon hydrogen still have a future? | Special pre-ADIPEC preview episode (Mon, 13 Oct 2025)
+
+        Low-carbon hydrogen has taken a few knocks in the headlines lately. There have been cancelled projects and fewer splashy announcements. Policy support has been jittery. Is momentum fading, or are we simply moving out of the hype phase and into the serious work of delivery? Host Ed Crooks pu...
+
+### Episode 541: How can the grid help AI, and how can AI help the grid? Live from NYU at New York Climate Week, featuring leaders from Nvidia and Amazon | Energy Gang Live from Climate Week (Tue, 30 Sep 2025)
+
+        Recorded in front of a packed room at NYU’s Kimmel Center during Climate Week NYC, Ed Crooks and Amy Myers Jaffe moderate a debate on the high-stakes topic of AI and energy. They dig deep into the questions raised by the surge of investment in data centers: what it means for grid stability ...
+
+### Episode 540: What do China’s climate commitments mean for energy? (Fri, 26 Sep 2025)
+
+        For COP30, the international climate talks in Brazil in November, the countries of the world are supposed to roll out their new Nationally Determined Contributions or NDCs: their commitments to cut emissions. China’s NDC is particularly eagerly awaited: it is the world’s largest emitter of ...
+
+### Episode 539: Everyone is talking (again!) about a coming revival in nuclear power. What needs to change to make it happen? | More from New York Climate Week (Thu, 25 Sep 2025)
+
+        At Climate Week NYC continues, the hottest topic is the question of how to meet growing demand for electricity while cutting emissions. In New York State, electricity use is expected to increase by 25% over the next 15 years. To meet that demand, the state plans to add tens of gigawatts or ...
+
+### Episode 538: As the pressure for climate action fades, what is driving investment in clean energy? | The big talking points from New York Climate Week (Wed, 24 Sep 2025)
+
+        It’s New York Climate Week this week, and we’re bringing you highlights from all the key debates and discussions. Climate Week NYC is one of the most important gatherings in the energy calendar, bringing together business leaders, investors, scientists, campaigners and policymakers to discu...
+
+### Episode 537: Carbon capture could be an important tool for tackling climate change. Can we find productive ways to use that carbon? (Mon, 22 Sep 2025)
+
+        As fossil fuel use and greenhouse gas emissions continue to rise, there is renewed interest in what can be done to capture carbon dioxide. Until now, most of the investment in carbon capture has gone into projects to take those emissions and store them underground forever. But what if we co...
+
+### Episode 536: Data centers for AI will need to embrace flexibility if our electricity system is going to cope. How can large loads support the grid? (Tue, 16 Sep 2025)
+
+        AI is adding to US electricity consumption at a pace not seen in decades. That demand growth is creating new strains on the grid in many parts of the country. But what if AI could instead help keep the system running? Varun Sivaram is a founder & CEO of Emerald AI and a Senior Fellow at the...
+
+### Episode 535: What will the COP30 climate talks mean for energy?   (Mon, 01 Sep 2025)
+
+        The COP21 climate talks in Paris in 2015 were hailed as a historic success. They resulted in a global agreement to curb climate change, and set a framework for every country in the world to contribute to achieving that goal.Ten years on, the conference no longer looks such a triumph. Greenh...
+
+### Episode 534: Petrostates, electrostates, and the energy transition. Gerard Reid of the Redefining Energy podcast visits the Energy Gang (Tue, 19 Aug 2025)
+
+        Is the global transition to low-carbon energy accelerating or slowing down? One answer is that it depends where you look. In the US, energy policy has shifted away from support for low-carbon technologies, but China is continuing with record installations of solar, wind, and batteries, and ...
+
+### Episode 533: Planning the grid to meet future energy demand | A discussion on the future of the grid, AI, energy innovation, and delivering the electricity supply we will need in the coming decades (Tue, 05 Aug 2025)
+
+        The grid “is designed for the core components - supplying electricity - but we are definitely pushing it to its limits,” says Melissa Lott, Partner for energy technologies at Microsoft*. The electricity grid has been described as one of the greatest achievements of human civilisation, becau...
+
+### Episode : What will energy look like 5 years after the 'Big Beautiful Bill?' The Energy Gang report from 2030. (Tue, 22 Jul 2025)
+
+        In this episode, we take a trip in a time machine, five years into the future. 2030 has been set as a deadline for many climate goals, and is a milestone for checking progress towards a low-carbon energy system. Ed Crooks, Amy Myers Jaffe and Melissa Lott imagine themselves five years from ...
+
+### Episode 532: Inside the ‘crazy grid’: why the future of energy needs everything, everywhere, all at once (Tue, 08 Jul 2025)
+
+        Building out the electricity grid was traditionally a predictable and straightforward business. Now it’s like trying to land a jet on a moving aircraft carrier in the dark. That’s a quote from this week’s guest Quinn Nakayama. He’s the senior director of Grid Research and Innovation at Paci...
+
+### Episode 531: The Big Beautiful Bill is close to passing. What would it mean for clean energy in the US? (Thu, 03 Jul 2025)
+
+        This week the US budget reconciliation legislation, dubbed the ‘One Big Beautiful Bill’, squeaked through the Senate on a 51/50 vote. The bill has wide-ranging implications for energy in the US, including an imminent end to tax credits for wind and solar power. To discuss what the new legis...
+
+### Episode 530: EBOS: the unsung hero that’s accelerating clean energy deployment | How Shoals is improving utility-scale solar performance (Tue, 24 Jun 2025)
+
+        Sponsored content from Shoals Technologies Group.EBOS – electrical balance of systems – includes everything that carries electricity from solar panels to the grid: wiring, switches, connector boxes and other components. It might not grab headlines, but it’s the backbone of every solar and s...
+
+### Episode 529: How do we adapt to a warming world?  (Wed, 18 Jun 2025)
+
+        The world is experiencing a new reality: infrastructure, agriculture, and supply chains were built for a historical climate that no longer exists. Last year the average global surface temperature was about 1.47° C warmer than in the late 19th century, according to NASA. On current trends we...
+
+### Episode 528: Geothermal, dealmaking, and the future of clean energy finance | live from the ACORE Finance Forum in New York (Tue, 10 Jun 2025)
+
+        In the third and final special episode recorded live from the ACORE Finance Forum, host Ed Crooks and regular guest Amy Myers Jaffe talk to industry leaders to explore some key issues in renewable energy technology and finance.Amy starts the episode by speaking with David Ulrey, CFO of Ferv...
+
+### Episode 527: Energy and the ‘big beautiful bill’ | live from day 2 of the ACORE Finance Forum in New York (Fri, 06 Jun 2025)
+
+        As the US races against China to develop the most advanced capabilities in AI, energy is critical. In this second episode from the ACORE finance forum, we speak to experts about how US energy policy, and in particular the reconciliation bill now being debated in Congress, might affect that ...
+
+### Episode 526: Clean energy finance in uncertain times | live from day 1 of the ACORE Finance Forum in New York (Thu, 05 Jun 2025)
+
+        The Energy Gang are at The American Council on Renewable Energy (ACORE) Finance Forum in New York City, which brings together industry leaders, investors, and bankers to discuss the hottest issues in clean energy. Host Ed Crooks and regular guest Amy Myers Jaffe talk to ACORE Chief Executiv...
+
+### Episode 525: It’s looking bleak for clean energy in the US as Congress threatens to shred the Inflation Reduction Act (Tue, 20 May 2025)
+
+        Legislation with massive implications for clean energy in the US has been making progress in Congress. The Republican party’s “big beautiful bill”, introducing sweeping changes to taxes and government spending, would phase out most of the tax credits for low-carbon energy that were created,...
+
+### Episode 524: Can we add dozens of giant new data centers to the electricity grid? New research says yes – if we embrace load flexibility. (Tue, 13 May 2025)
+
+        It’s the most talked-about academic paper this year in the world of energy. Rethinking Load Growth, co-authored by Tyler Norris of Duke University has caused a stir in energy circles because it offers a new perspective on the hottest issue of the moment: how to provide power for new data ce...
+
+### Episode 523: An energy podcast crossover: Energy Gang and Interchange Recharged join forces to discuss flexibility on the power grid: why it is so important, and how to create it (Tue, 29 Apr 2025)
+
+        They called the film Avengers: Infinity War the most ambitious crossover event in history. We can’t quite make the same claim, but at Wood Mackenzie’s 2025 Solar and Energy Storage Summit, we did record a crossover episode. Ed Crooks, host of Energy Gang, is joined by Sylvia Leyva Martinez,...
+
+### Episode 522: What do the tariff wars mean for low-carbon energy? | Recorded live at Wood Mackenzie’s Solar & Energy Storage Summit (Fri, 25 Apr 2025)
+
+        “With great uncertainty comes great opportunity”, says Abby Ross Hopper, president and CEO of the Solar Energy Industries Association, in this special episode of the Energy Gang, recorded live at Wood Mackenzie’s Solar & Energy Storage Summit.Is she right? And what are those opportunities? ...
+
+### Episode 521: Keeping cleantech investment alive | With technological, economic and policy challenges mounting, how can we keep energy innovation on track? (Tue, 15 Apr 2025)
+
+        These are hard times for investment in low-carbon energy. The lack of progress in international climate negotiations, threats to policy support, and an increased awareness of the challenges of decarbonization, have created some strong headwinds. Everyone agrees that more breakthroughs in in...
+
+### Episode 520: How can the power industry meet the challenge of rising demand? | In a special live episode recorded at the American Clean Power association, we discuss how to meet America’s growing need for electricity (Fri, 04 Apr 2025)
+
+        If President Trump’s tariff strategy succeeds in sparking a revival in US manufacturing, one consequence will be surging demand for power. We are already seeing electricity demand starting to pick up after 15 years of stagnation, driven by new data centers for AI and a wave of factory-build...
+
+### Episode 519: Is the US being left behind in the race to develop new clean energy technologies? BYD is selling EVs that can charge in five minutes | China is streaking ahead of the US in the energy transition race (Tue, 01 Apr 2025)
+
+        The Chinese car company BYD, the world’s top-selling manufacturer of electric vehicles, is launching two models that can charge in five minutes; about the time it takes to fill a tank with gasoline. It’s news that looks like a landmark moment in the energy transition, the way that the relea...
+
+### Episode 518: What does financial market turmoil mean for low-carbon energy? (Tue, 18 Mar 2025)
+
+        Investors have gone sour on clean energy. In a troubled time for stock markets in general, where is the capital for energy flowing now?Host Ed Crooks is joined by Shanu Mathew, Senior VP and Portfolio Manager at Lazard Asset Management, and Amy Myers Jaffe, Director of the Energy, Climate J...
+
+### Episode 517: Flexible, fast-responding and reliable – the growth of energy storage seems unstoppable.  What could possibly go wrong? (Tue, 04 Mar 2025)
+
+        Charge when it’s cheap, when energy is abundant, and discharge when the energy is needed. The role of energy storage will be critical to the transition to low-carbon technologies. It’s an exciting time in the industry, with spectacular growth in battery storage markets in the US and around ...
+
+### Episode 516: What do President Trump’s tariffs mean for energy? | The view from Washington and Canada (Tue, 18 Feb 2025)
+
+        In 2018, President Donald Trump said “I’m a tariff man”, declaring they were the way to make America rich again. Six years on and just weeks into his second term, he is putting that philosophy into practice. President Trump has announced a barrage of new and increased tariffs on imports int...
+
+### Episode 515: What does DeepSeek AI mean for energy?  (Tue, 04 Feb 2025)
+
+        It’s a historic moment in energy, with a leap forward in AI technology coming as the Trump administration sets a new direction for the US. The Energy Gang break down what it all means. When they make The Energy Transition – The Movie, the week of 27th January 2025 will be a pivotal scene. T...
+
+### Episode 514: Does clean hydrogen have a future? Finding a role for hydrogen in a low-carbon energy economy (Wed, 22 Jan 2025)
+
+        Hydrogen has been called the Swiss Army knife of energy, because it has so many potential applications, from home heating to heavy industry. But so far, deployment around the world has been slow. And in recent months there has been a series of setbacks for plans to use clean hydrogen to dec...
+
+### Episode 513: What can we expect from energy in 2025? The people, places and technologies to watch this year (Wed, 08 Jan 2025)
+
+        Host Ed Crooks is joined by regulars Amy Myers Jaffe and Melissa Lott to share their predictions for energy in 2025. They discuss the policy changes expected from Washington under the Trump administration, the crucial role for California as a leader in clean energy, the exciting new technol...
+
+### Episode : The Energy Gang’s Review of the Year in energy (Mon, 23 Dec 2024)
+
+        China’s booming EV industry, AI and clean energy, questions over hydrogen, and the other big stories from 2024.To round off a momentous year for clean energy, Ed Crooks is joined by regulars Melissa Lott and Amy Myers Jaffe to reflect on the highs and lows of 2024. The gang revisit the pred...

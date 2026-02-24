@@ -1,0 +1,6 @@
+Title: A Security-Constrained Optimal Power Management Algorithm for Shipboard Microgrids with Battery Energy Storage System
+
+Authors: Fabio D'Agostino, Marco Gallo, Matteo Saviozzi, Federico Silvestro
+
+Abstract:
+This work proposes an optimal power management strategy for shipboard microgrids equipped with diesel generators and a battery energy storage system. The optimization provides both the unit commitment and the optimal power dispatch of all the resources, in order to ensure reliable power supply at minimum cost and with minimum environmental impact. The optimization is performed solving a mixed integer linear programming problem, where the constraints are defined according to the operational limit

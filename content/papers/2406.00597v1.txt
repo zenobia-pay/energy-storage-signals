@@ -1,0 +1,8 @@
+Title: Hydrogen and Battery Based Energy Storage System (ESS) for Future DC Microgrids
+
+Authors: Massiagbe Diabate, Timothy Vriend, Harish S Krishnamoorthy, Jian Shi
+
+DOI: 10.1109/PEDES56012.2022.10080550
+
+Abstract:
+In this paper, a hydrogen-based energy storage system (ESS) is proposed for DC microgrids, which can potentially be integrated with battery ESS to meet the needs of future grids with high renewable penetration. Hydrogen-based ESS can provide a stable energy supply for a long time but has a slower response than battery ESSs. However, a combination of battery and hydrogen storage provides stable energy for an extended period of time and can easily handle the sudden demands and surpluses of the mic

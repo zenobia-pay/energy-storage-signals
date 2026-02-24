@@ -1,0 +1,8 @@
+Title: Data-driven nonparametric Li-ion battery ageing model aiming at learning from real operation data -- Part A: Storage operation
+
+Authors: Lucu M., Martinez-Laserna E., Gandiaga I., Liu K., Camblong H., Widanage W. D., Marco J
+
+DOI: 10.1016/j.est.2020.101409
+
+Abstract:
+Conventional Li-ion battery ageing models, such as electrochemical, semi-empirical and empirical models, require a significant amount of time and experimental resources to provide accurate predictions under realistic operating conditions. At the same time, there is significant interest from industry in the introduction of new data collection telemetry technology. This implies the forthcoming availability of a significant amount of real-world battery operation data. In this context, the developme

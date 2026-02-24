@@ -1,0 +1,6 @@
+Title: Modeling and Analysis on Efficiency Degradation of Lithium-ion Batteries
+
+Authors: Zihui Lin, Dagang Li
+
+Abstract:
+Efficiency of Battery Energy Storage Systems (BESSs) is increasingly critical as renewable energy generation becomes more prevalent on the grid. Therefore, it is necessary to study the energy efficiency of lithium-ion batteries, which are typically used in BESSs. The purpose of this study is to propose the State of Efficiency (SOE) as a measure of how efficiently batteries transfer energy, and to analyze what factors affect the SOE of a battery throughout its lifetime. Using NASA's data set, we 

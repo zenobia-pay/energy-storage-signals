@@ -1,0 +1,127 @@
+# RMI (Rocky Mountain Institute) - Staff Directory
+# Source: https://rmi.org/about/people/
+# Total Staff: 700+ employees
+# Scraped: 2026-02-19
+
+## Executive Leadership
+- Jon Creyts - CEO
+- Lena Hansen - Chief Strategy Officer
+- Octavio "Tavo" Fuentes - Chief Technology & Operations Officer
+- Kylie Rogers - Chief People Officer
+- Dina Cappiello - Chief Communications & Marketing Officer
+
+## Managing Directors
+- Mark Dyson - Managing Director (Electricity Program)
+- Bryan Fisher - Managing Director
+- Leia Guccione - Managing Director
+- Josh Henretig - Managing Director
+- Ting Li - Chief Representative and Managing Director of RMI China
+- Rushad Nanavatty - Managing Director
+- Brian O'Hanlon - Managing Director
+- Sukanya Paciorek - Managing Director
+- Thomas Koch Blank - Managing Director
+
+## Senior Directors & Directors
+- Betsy After - Senior Director
+- Erin Callahan - Senior Director
+- Suzanne Hopkins - Senior Director
+- Vikram Singh - Senior Director
+- Rebecca Pimentel - Senior Director
+- Betsy Leach - Senior Director
+- John Coequyt - Director
+- Mai Le - Director
+- John McGrath - Director
+- Lara Siree Johnson - Director
+
+## Founder
+- Amory Lovins - Cofounder and Chairman Emeritus
+
+## Senior Principals
+- Aaron Brickman - Senior Principal
+- Jacob Corvidae - Senior Principal
+- Kaitlin Crouch-Hess - Senior Principal
+- Rachel Gold - Senior Principal
+- Rachel Golden - Senior Principal
+- Deborah Gordon - Senior Principal
+- Brian Payer - Senior Principal
+
+## Principals (Selected)
+- Stephen Abbott - Principal
+- Marshall Abramczyk - Principal
+- Benjamin Bartle - Principal
+- Charlie Bloch - Principal
+- Kaitlyn Bunker - Principal
+- Andrew Chen - Principal
+- Kyle Clark-Sutton - Principal
+- TJ Conway - Principal
+- Carie Davis - Principal
+- Tom Frankiewicz - Principal
+- Cara Goldenberg - Principal
+- Yihan Hao - Principal
+- Heather House - Principal
+- Ankit Kalanki - Principal
+- Ellen Kennedy - Principal
+- Chetan Krishna - Principal
+- Tyeler Matsuo - Principal
+- Patrick Molloy - Principal
+- Aparajit Pandey - Principal
+- Daniel Pike - Principal
+- Wini Rizkiningayu - Principal
+- Ben Shapiro - Principal
+- James Sherwood - Principal
+- Samhita Shiledar - Principal
+- Lauren Shwisberg - Principal
+- Laurens Speelman - Principal
+
+## Program Leads (Selected by Focus Area)
+
+### Electricity/Grid
+- Joe Daniel - Principal (Grid)
+- Mike Henchen - Principal (Utilities)
+- Tyler Fitch - Manager (Grid)
+- Charlie Bloch - Principal (Electricity)
+
+### Buildings
+- Mike Roeth - Principal (Buildings)
+- Jacob Corvidae - Senior Principal (Buildings)
+- Sherri Billimoria - Manager (Buildings)
+
+### Transportation
+- Dave Mullaney - (Transportation)
+- Patrick Molloy - Principal (Mobility)
+
+### Industry/Steel
+- Thomas Koch Blank - Managing Director
+- Jyoti Bodas - Associate
+
+### International
+- Ting Li - Managing Director, RMI China
+- Wayne Omonuwa - Nigeria Energy Lead
+- Suleiman Babamanu - Program Director (Africa)
+- Ije Ikoku Okeke - Managing Director (Africa)
+
+### Finance/Investment
+- Leia Guccione - Managing Director
+- Sukanya Paciorek - Managing Director
+
+## Research & Analysis Staff (Selected)
+- Jesse Cohen - Senior Associate
+- Christian Fong - Senior Associate
+- Kevin Brehm - Manager
+- Nathan Kauffman - Senior Associate
+- Jonny Kocher - Manager
+
+## Notable Senior Fellows
+- Robert Hutchinson - Senior Fellow
+- David Mann - Senior Fellow
+- Graham Pugh - Senior Fellow
+- James Newcomb - Senior Expert
+
+## Communications Team
+- Dina Cappiello - Chief Communications & Marketing Officer
+- Adam Aston - Senior Director of Storytelling
+- Adam Beitman - Senior Manager of Policy & Crisis Communications
+- Leah Komos - Media Relations Lead
+- Chris Potter - Strategic Communications Manager
+- Ben Proffer - Strategic Communications Manager
+- Colm Quinn - Senior Editor

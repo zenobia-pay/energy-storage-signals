@@ -1,0 +1,6 @@
+Title: From Balance to Breach: Cyber Threats to Battery Energy Storage Systems
+
+Authors: Frans Öhrström, Joakim Oscarsson, Zeeshan Afzal, János Dani, Mikael Asplund
+
+Abstract:
+Battery energy storage systems are an important part of modern power systems as a solution to maintain grid balance. However, such systems are often remotely managed using cloud-based control systems. This exposes them to cyberattacks that could result in catastrophic consequences for the electrical grid and the connected infrastructure. This paper takes a step towards advancing understanding of these systems and investigates the effects of cyberattacks targeting them. We propose a reference mod

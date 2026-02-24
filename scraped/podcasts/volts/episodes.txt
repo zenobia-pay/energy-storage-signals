@@ -1,0 +1,61 @@
+# Volts Podcast
+# Host: David Roberts (@drvolts)
+# Platform: Substack (volts.wtf)
+# Focus: Clean energy technology, politics, and policy
+
+## Overview
+Volts is a podcast and newsletter by energy journalist David Roberts, 
+formerly of Vox and Grist. The podcast features deep-dive interviews
+on clean energy topics with researchers, policymakers, and industry experts.
+
+## Episode Count
+400+ episodes (podcast + newsletter posts)
+
+## Format
+- Long-form interviews (60-90 minutes)
+- Deep technical dives
+- Policy analysis
+- Audience: Energy professionals and informed enthusiasts
+
+## Energy Storage Related Episodes (Selected Topics)
+
+### Grid & Storage
+- California's grid challenges and battery storage
+- ERCOT and Texas battery boom
+- Virtual power plants and distributed storage
+- Vehicle-to-grid (V2G) technology
+
+### Battery Technology
+- Lithium-ion supply chains
+- Long-duration energy storage technologies
+- Battery recycling and circular economy
+- Sodium-ion batteries
+
+### Policy
+- IRA implementation for storage
+- State storage mandates (California, New York)
+- FERC orders and grid integration
+- Utility rate design and storage
+
+## Notable Guests (Energy Storage Focused)
+- Jesse Jenkins (Princeton ZERO Lab)
+- Jigar Shah (DOE Loan Programs Office)
+- Mary Powell (Sunrun CEO)
+- Melissa Lott (Columbia CGEP)
+- Berkeley Lab researchers
+
+## Host Background
+David Roberts has covered energy and climate for 20+ years. Known for
+technical depth and ability to explain complex energy systems to
+general audiences.
+
+## Newsletter
+- Regular written analysis on Substack
+- Over 90,000 subscribers
+- Complements podcast episodes
+
+## Distribution
+- Apple Podcasts
+- Spotify
+- Substack audio
+- YouTube

@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Large temp files
+*.tmp
+
+# Don't ignore the daily scraped data - that's the point

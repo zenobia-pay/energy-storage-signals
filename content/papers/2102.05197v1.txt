@@ -1,0 +1,6 @@
+Title: Economic controls co-design of hybrid microgrids with tidal/PV generation and lithium ion/flow battery storage
+
+Authors: Jonathan Cohen, Michael Kane, Alexia Marriott, Franklin Ollivierre, Krissy Govertsen
+
+Abstract:
+Islanded microgrids powered by renewable energy require costly energy storage systems due to the uncontrollable generators. Energy storage needs are amplified when load and generation are misaligned on hourly, monthly, or seasonal timescales. Diversification of both loads and generation can smooth out such mismatches. The ideal type of battery to smooth out remaining generation deficits will depend on the duration(s) that energy is stored. This study presents a controls co-design approach to des

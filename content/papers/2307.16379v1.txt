@@ -1,0 +1,6 @@
+Title: Strategic Investments of Large Scale Battery Energy Storage Systems in the Wholesale Electricity Market
+
+Authors: Ang Li, Yubo Wang, Lei Fan, Jiming Peng
+
+Abstract:
+In this paper, we study the strategic investment problem of battery energy storage systems (BESSs) in the wholesale electricity market from the perspective of BESSs owners. Large-scale BESSs planning without considering the possible wholesale market price change may result in possible locational marginal price (LMP) changes. To overcome such limits, we propose a three-phase approach for the BESS investment problem. In Phase-1, we conduct a search for the optimal BESS configurations via a congest

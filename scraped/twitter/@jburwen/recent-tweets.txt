@@ -1,0 +1,43 @@
+# @jburwen - Recent Tweets
+# Scraped: 2026-02-19
+# Source: Twitter/X via bird CLI
+
+## Profile
+- Name: Jason Burwen 🔋🔋🔋
+- Role: Energy storage policy expert
+- Focus: Battery/energy storage policy, IRA industrial policy
+- Twitter: @jburwen
+
+## Recent Tweets
+
+### Jan 28, 2026: US Storage Deployment Record
+"Holy smokes, the US added over 15 GW of #EnergyStorage in 2025, according to 
+EIA 860m data. That's more than gas (5.1 GW) and wind (5.8 GW) combined!"
+
+### Jan 28, 2026: Storage as Largest New Capacity
+"The largest near term source of new capacity on US power grids is battery 
+storage. This past year shows we are deploying at scale. LFG"
+
+### Jan 28, 2026: Policy Needs
+"The US just installed 15 GW of storage in 2025! We'll get there without 
+additional policy (barring tariff idiocy or widespread permitting roadblocks)"
+
+"For large-scale BESS, mostly its interconnection & accreditation. LDES needs help"
+
+### Jan 15, 2026: Travis Kavulla at Base Power
+"Congrats, welcome to the #energystorage policy world! And a huge get for Base, 
+they're lucky to have you."
+(Travis Kavulla joining Base Power as policy expert)
+
+## Key Themes
+1. US storage deployment tracking (EIA data analysis)
+2. Storage vs other generation comparison
+3. Policy needs: interconnection, accreditation, LDES support
+4. Industry personnel movements
+5. IRA industrial policy analysis
+6. Tariff impacts on storage
+
+## 2025 Deployment Stats (per Jason's analysis)
+- Storage: 15 GW (largest category!)
+- Gas: 5.1 GW
+- Wind: 5.8 GW

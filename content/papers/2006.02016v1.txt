@@ -1,0 +1,8 @@
+Title: A Record-High Ion Storage Capacity of T-Graphene as Two-Dimensional Anode Material for Li-ion and Na-ion Batteries
+
+Authors: Xiaoming Zhang, Lei Jin, Xuefang Dai, Guifeng Chen, Guodong Liu
+
+DOI: 10.1016/j.apsusc.2020.146849
+
+Abstract:
+Developing applicable two-dimensional (2D) electrode materials with high performance, especially with high ion storage capacity, has become an ever more obsessive quest in recent years. Based on first-principles calculations, we report that T-graphene, a new carbon-based 2D material, has a record-high Li/Na storage capacity. The capacity of T-graphene is as high as 2233.2 mA h g-1 for Li, and can reach 2357.2 mA h g-1 for Na, which are 6 times as much as that of the commercial graphite and are t

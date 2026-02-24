@@ -1,0 +1,38 @@
+# @ERCOT_ISO - Recent Tweets on Storage
+# Scraped: 2026-02-19
+# Source: Twitter/X via bird CLI
+
+## Profile
+- Name: ERCOT
+- Role: Texas grid operator
+- Focus: Managing Texas interconnection
+- Twitter: @ERCOT_ISO
+
+## Recent Storage Tweets
+
+### Mar 2025: ESR Dashboard
+"ERCOT's Energy Storage Resources (ESR) dashboard shows the amount of charging 
+and discharging battery production on the ERCOT grid."
+
+Dashboard available on ERCOT's Grid and Market Conditions page.
+
+### May 2024: Innovation Summit - Energy Storage Panel
+"The Energy Storage panel focused on battery additions, improvements in duration, 
+and market design for energy storage."
+
+Led by Kenneth Ragsdale, Principal – Market Design, ERCOT
+Panelists: EPRI, Form Energy, California ISO
+
+## Texas Battery Boom
+ERCOT has seen massive battery storage growth:
+- 174 GW of storage in interconnection pipeline
+- Fastest-growing storage market in US
+- Merchant market model (no capacity payments)
+- Batteries competing on energy arbitrage
+
+## Key Themes
+1. Energy storage market design evolution
+2. Battery duration improvements
+3. Real-time ESR monitoring dashboard
+4. Cross-ISO collaboration (CAISO, Form Energy)
+5. Interconnection queue management

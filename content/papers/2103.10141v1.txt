@@ -1,0 +1,6 @@
+Title: In Operando magnetometry study on the charge storage mechanism of SnCo alloy lithium ion batteries
+
+Authors: Qingtao Xia, Xiangkun Li, Kai Wang, Zhaohui Li, Hengjun Liu, Xia Wang, Wanneng Ye, Hongsen Li, Han Hu, Jinbo Pang, Qinghua Zhang, Chen Ge, Shandong Li, Lin Gu, Guoxing Miao, Shishen Yan, Qiang Li
+
+Abstract:
+In view of the long-standing controversy over the reversibility of transition metals in Sn-based alloys as anode for Li-ion batteries, an in situ real-time magnetic monitoring method was used to investigate the evolution of Sn-Co intermetallic during the electrochemical cycling. Sn-Co alloy film anodes with different compositions were prepared via magnetron sputtering without using binders and conductive additives. The magnetic responses showed that the Co particles liberated by Li insertion rec

@@ -1,0 +1,8 @@
+Title: Potential utilization of Battery Energy Storage Systems (BESS) in the major European electricity markets
+
+Authors: Yu Hu, Miguel Armada, Maria Jesus Sanchez
+
+DOI: 10.1016/j.apenergy.2022.119512
+
+Abstract:
+Given the declining cost of battery technology in the last decade, nowadays BESS becomes a more attractive solution in electrical power systems. The objective of this work is to analyze the potential utilization of BESS in the major European electricity markets. A general payoff model for BESS operation is proposed to correctly address the operational flexibility of battery systems. Utilization factors such as potentially profitable utilization time and rate are calculated for common application

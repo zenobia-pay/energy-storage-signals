@@ -1,0 +1,6 @@
+Title: Charge transport modelling of lithium ion batteries
+
+Authors: Giles W Richardson, Jamie M Foster, Rahifa Ranom, Colin P Please, Angel M Ramos
+
+Abstract:
+This paper presents the current state of mathematical modelling of the electrochemical behaviour of lithium-ion batteries as they are charged and discharged. It reviews the models developed by Newman and co-workers, both in the cases of dilute and moderately-concentrated electrolytes and indicates the modelling assumptions required for their development. Particular attention is paid to the interface conditions imposed between the electrolyte and the active electrode material; necessary condition

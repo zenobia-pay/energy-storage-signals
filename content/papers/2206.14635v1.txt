@@ -1,0 +1,6 @@
+Title: Prespecified-time observer-based distributed control of battery energy storage systems
+
+Authors: Wu Yang, Shu-Ming Liang, Yan-Wu Wang, Zhi-Wei Liu
+
+Abstract:
+This paper studies the state-of-charge (SoC) balancing and the total charging/discharging power tracking issues for battery energy storage systems (BESSs) with multiple distributed heterogeneous battery units. Different from the traditional cooperative control strategies based on the asymptotical or finite-time distributed observers, two distributed prespecified-time observers are proposed to estimate average battery units state and average desired power, respectively, which can be determined in

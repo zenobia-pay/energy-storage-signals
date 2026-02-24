@@ -1,0 +1,8 @@
+Title: A lithium-ion battery based on a graphene nanoflakes ink anode and a lithium iron phosphate cathode
+
+Authors: Jusef Hassoun, Francesco Bonaccorso, Marco Agostini, Marco Angelucci, Maria Grazia Betti, Roberto Cingolani, Mauro Gemmi, Carlo Mariani, Stefania Panero, Vittorio Pellegrini, Bruno Scrosati
+
+DOI: 10.1021/nl502429m
+
+Abstract:
+Li-ion rechargeable batteries have enabled the wireless revolution transforming global communication. Future challenges, however, demands distributed energy supply at a level that is not feasible with the current energy-storage technology. New materials, capable of providing higher energy density are needed. Here we report a new class of lithium-ion batteries based on a graphene ink anode and a lithium iron phosphate cathode. By carefully balancing the cell composition and suppressing the initia

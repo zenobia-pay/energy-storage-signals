@@ -1,0 +1,24 @@
+2026-02-20T11:10:16-05:00: Hit rate limit. Current count:     2799 accounts
+2026-02-20T11:12:30-05:00: Rate limit active on followers/following. Trying alternative searches.
+2026-02-20T11:16:13-05:00: Current status -     2799 accounts. Searches saturated, followers rate limited. Waiting for rate limit reset.
+2026-02-20T11:25:00-05:00: Follower endpoint still rate limited (429) after 3+ minute wait.
+Rate limit window for followers/following appears to be 15+ minutes.
+Current status:
+- Unique accounts: 2,795
+- File lines: 2,799
+- Searches: Completely saturated (returning same accounts)
+- Followers/Following: Rate limited
+
+To reach 100k target, need to:
+1. Wait for rate limit reset (try again in 15+ minutes)
+2. Batch follower requests with delays (e.g., 1 request every 2-3 minutes)
+3. Run overnight with scheduled delays
+
+Key accounts to expand from when rate limit resets:
+- EIAgov (57111966) - US energy data
+- JesseJenkins (17026589) - Energy expert
+- BloombergNEF (105267145) - Industry research  
+- WoodMackenzie (316383161) - Consulting
+- pvmagazine (139715762) - Trade publication
+- UtilityDive (284638893) - Industry news
+- SEIA (331703548) - Solar trade association

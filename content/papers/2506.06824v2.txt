@@ -1,0 +1,6 @@
+Title: Deep reinforcement learning-based joint real-time energy scheduling for green buildings with heterogeneous battery energy storage devices
+
+Authors: Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yazhou Yuan, Kai Ma, Meng Yuan
+
+Abstract:
+Green buildings (GBs) with renewable energy and building energy management systems (BEMS) enable efficient energy use and support sustainable development. Electric vehicles (EVs), as flexible storage resources, enhance system flexibility when integrated with stationary energy storage systems (ESS) for real-time scheduling. However, differing degradation and operational characteristics of ESS and EVs complicate scheduling strategies. This paper proposes a model-free deep reinforcement learning (D

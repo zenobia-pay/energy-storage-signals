@@ -1,0 +1,6 @@
+Title: All-solid flexible fiber-shaped lithium ion batteries
+
+Authors: Hang Qu, Xin Lu, Maksim Skorobogatiy
+
+Abstract:
+We propose fabrication of the fiber-shaped lithium ion batteries assembled by twisting a cathode filament together with an anode filament. The cathode filament is fabricated by depositing a LiFePO4 (LFP)-composite layer onto a steel-filled polyester conductive thread (SPCT). As anode filaments, we propose several scenarios including a Li4Ti5O12 (LTO)-composite coated SPCT (dip-and-dry deposition), a tin-coated SPCT (PVD deposition) as well as a bare tin wire. An electrolyte composite layer consi

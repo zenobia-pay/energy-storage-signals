@@ -1,0 +1,6 @@
+Title: The State of Lithium-Ion Battery Health Prognostics in the CPS Era
+
+Authors: Gaurav Shinde, Rohan Mohapatra, Pooja Krishan, Harish Garg, Srikanth Prabhu, Sanchari Das, Mohammad Masum, Saptarshi Sengupta
+
+Abstract:
+Lithium-ion batteries (Li-ion) have revolutionized energy storage technology, becoming integral to our daily lives by powering a diverse range of devices and applications. Their high energy density, fast power response, recyclability, and mobility advantages have made them the preferred choice for numerous sectors. This paper explores the seamless integration of Prognostics and Health Management within batteries, presenting a multidisciplinary approach that enhances the reliability, safety, and 

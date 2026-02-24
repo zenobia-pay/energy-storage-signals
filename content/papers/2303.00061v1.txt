@@ -1,0 +1,6 @@
+Title: Key Parameters in Determining the Reactivity of Lithium Metal Battery
+
+Authors: Bingyu Lu, Diyi Cheng, Bhagath Sreenarayanan, Weikang Li, Bhargav Bhamwala, Wurigumula Bao, Ying Shirley Meng
+
+Abstract:
+Lithium (Li) metal anodes are essential for developing next-generation high-energy-density batteries. Numerous concerns on the potential safety hazards of the Li metal have been brought up before its massive application in commercialized battery packs. However, few investigations have been performed to systematically evaluate the reactivity of Li metal anode in full cell level. Here, differential scanning calorimetry (DSC) with in situ Fourier-transform infrared spectroscopy (FTIR) are used to q

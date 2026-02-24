@@ -1,0 +1,37 @@
+{"source": "Energy-Storage.news", "type": "trade_publication", "url": "https://www.energy-storage.news/", "description": "Primary trade publication for battery energy storage systems industry news"}
+{"source": "Canary Media", "type": "trade_publication", "url": "https://www.canarymedia.com/", "description": "Independent clean energy journalism covering grid, storage, EVs"}
+{"source": "pv magazine", "type": "trade_publication", "url": "https://www.pv-magazine.com/", "description": "Solar and energy storage news with global editions"}
+{"source": "Utility Dive", "type": "trade_publication", "url": "https://www.utilitydive.com/", "description": "News for utility executives covering storage, grid, regulation"}
+{"source": "Greentech Media (now part of Wood Mac)", "type": "trade_publication", "url": "https://www.greentechmedia.com/", "description": "Clean energy industry news and analysis"}
+{"source": "Wood Mackenzie", "type": "research_firm", "url": "https://www.woodmac.com/", "description": "Energy research covering storage markets, costs, forecasts"}
+{"source": "BloombergNEF", "type": "research_firm", "url": "https://about.bnef.com/", "description": "Clean energy research with battery storage cost curves and forecasts"}
+{"source": "S&P Global Commodity Insights", "type": "research_firm", "url": "https://www.spglobal.com/commodityinsights/", "description": "Energy market data and analysis including storage"}
+{"source": "LBNL Electricity Markets and Policy", "type": "research_lab", "url": "https://emp.lbl.gov/", "description": "Berkeley Lab grid research including interconnection queue studies"}
+{"source": "NREL", "type": "research_lab", "url": "https://www.nrel.gov/", "description": "National Renewable Energy Laboratory storage research"}
+{"source": "Clean Energy States Alliance (CESA)", "type": "state_org", "url": "https://www.cesa.org/", "description": "State clean energy programs and storage policy coordination"}
+{"source": "Energy Storage Association (now part of ACP)", "type": "industry_association", "url": "https://www.americancleanpower.org/", "description": "US storage industry trade group (merged into American Clean Power)"}
+{"source": "American Clean Power Association (ACP)", "type": "industry_association", "url": "https://cleanpower.org/", "description": "Wind, solar, and storage trade association"}
+{"source": "SEIA", "type": "industry_association", "url": "https://www.seia.org/", "description": "Solar Energy Industries Association - solar + storage policy"}
+{"source": "NY-BEST", "type": "industry_association", "url": "https://www.ny-best.org/", "description": "New York Battery and Energy Storage Technology Consortium"}
+{"source": "California Energy Storage Alliance (CESA)", "type": "industry_association", "url": "https://storagealliance.org/", "description": "California storage advocacy and policy"}
+{"source": "RTO Insider", "type": "trade_publication", "url": "https://www.rtoinsider.com/", "description": "Wholesale electricity market news covering ISOs/RTOs"}
+{"source": "Rho Motion", "type": "research_firm", "url": "https://rhomotion.com/", "description": "Battery and EV market data and deployment tracking"}
+{"source": "InfoLink", "type": "research_firm", "url": "https://www.infolink-group.com/", "description": "Battery supply chain and pricing data - China focus"}
+{"source": "BNEF Battery Price Survey", "type": "research_report", "url": "https://about.bnef.com/blog/lithium-ion-battery-pack-prices-rise-for-first-time-to-an-average-of-151-kwh/", "description": "Annual lithium-ion battery price survey"}
+{"source": "Lazard LCOE", "type": "research_report", "url": "https://www.lazard.com/research-insights/", "description": "Levelized cost of energy/storage annual analysis"}
+{"source": "Ember Climate", "type": "research_org", "url": "https://ember-climate.org/", "description": "Global electricity data and analysis"}
+{"source": "IEA World Energy Outlook", "type": "research_report", "url": "https://www.iea.org/reports/world-energy-outlook-2025", "description": "International Energy Agency annual energy outlook with storage"}
+{"source": "IEA Global EV Outlook", "type": "research_report", "url": "https://www.iea.org/reports/global-ev-outlook-2025", "description": "EV and battery market outlook from IEA"}
+{"source": "CAISO Daily Renewables Watch", "type": "data", "url": "http://www.caiso.com/todaysoutlook/pages/default.aspx", "description": "California ISO real-time grid data including storage dispatch"}
+{"source": "ERCOT Grid Data", "type": "data", "url": "https://www.ercot.com/gridinfo", "description": "Texas grid operator data on storage deployment and dispatch"}
+{"source": "PJM Data Miner", "type": "data", "url": "https://dataminer2.pjm.com/", "description": "PJM wholesale market data including storage participation"}
+{"source": "EIA-860M", "type": "data", "url": "https://www.eia.gov/electricity/data/eia860m/", "description": "Monthly electric generator inventory including BESS additions"}
+{"source": "FERC eLibrary", "type": "regulatory", "url": "https://elibrary.ferc.gov/", "description": "FERC filings database for storage-related dockets"}
+{"source": "FERC Form 1", "type": "data", "url": "https://www.ferc.gov/industries-data/electric/general-information/electric-industry-forms/form-1-electric-utility-annual", "description": "Annual utility financial and operational data"}
+{"source": "Solar Power World", "type": "trade_publication", "url": "https://www.solarpowerworldonline.com/", "description": "Solar and storage industry news"}
+{"source": "Energy Storage Journal", "type": "trade_publication", "url": "https://www.energystoragejournal.com/", "description": "Battery and energy storage industry publication"}
+{"source": "CleanTechnica", "type": "trade_publication", "url": "https://cleantechnica.com/", "description": "Clean energy news with storage coverage"}
+{"source": "Electrek", "type": "trade_publication", "url": "https://electrek.co/", "description": "EV and clean energy news including battery storage"}
+{"source": "The Verge - Energy", "type": "news", "url": "https://www.theverge.com/energy", "description": "Mainstream tech outlet with energy storage coverage"}
+{"source": "Reuters Energy", "type": "news", "url": "https://www.reuters.com/business/energy/", "description": "Wire service energy coverage including storage deals"}
+{"source": "Bloomberg Green", "type": "news", "url": "https://www.bloomberg.com/green", "description": "Bloomberg climate and clean energy coverage"}

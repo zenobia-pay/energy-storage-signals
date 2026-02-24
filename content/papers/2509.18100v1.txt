@@ -1,0 +1,6 @@
+Title: Stochastic Economic Dispatch with Battery Energy Storage considering Wind and Load Uncertainty
+
+Authors: Shishir Lamichhane, Anamika Dubey
+
+Abstract:
+With the integration of renewable energy resources in power systems, managing operational flexibility and reliability while minimizing operational costs has become increasingly challenging. Battery energy storage system (BESS) offers a promising solution to address these issues. This paper presents a stochastic dynamic economic dispatch with storage (SDED-S) framework to assess the impact of BESS in managing uncertainty. The temporal correlation between wind and load uncertainties is captured, w

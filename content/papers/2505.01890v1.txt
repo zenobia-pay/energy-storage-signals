@@ -1,0 +1,6 @@
+Title: Towards Sustainable Energy Storage: Evaluating Polymer Electrolytes for Zinc Ion Batteries
+
+Authors: Roya Rajabi, Shichen Sun, Booker Wu, Jamil Khan, Kevin Huang
+
+Abstract:
+Polymer electrolytes present a promising solution to the challenges posed by aqueous electrolytes in energy storage systems, offering the flexibility needed for wearable electronics. Despite the increasing interest in polymer electrolyte-based zinc ion batteries (ZIBs), their development is still in its early stages due to various challenges. In this study, we fabricated three promising polymer electrolytes: CSAM (carboxyl methyl chitosan with acrylamide monomer), PAM (polyacrylamide monomer hyd

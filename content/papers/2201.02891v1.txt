@@ -1,0 +1,8 @@
+Title: "Knees" in lithium-ion battery aging trajectories
+
+Authors: Peter M. Attia, Alexander Bills, Ferran Brosa Planella, Philipp Dechent, Gonçalo dos Reis, Matthieu Dubarry, Paul Gasper, Richard Gilchrist, Samuel Greenbank, David Howey, Ouyang Liu, Edwin Khoo, Yuliya Preger, Abhishek Soni, Shashank Sripad, Anna G. Stefanopoulou, Valentin Sulzer
+
+DOI: 10.1149/1945-7111/ac6d13
+
+Abstract:
+Lithium-ion batteries can last many years but sometimes exhibit rapid, nonlinear degradation that severely limits battery lifetime. In this work, we review prior work on "knees" in lithium-ion battery aging trajectories. We first review definitions for knees and three classes of "internal state trajectories" (termed snowball, hidden, and threshold trajectories) that can cause a knee. We then discuss six knee "pathways", including lithium plating, electrode saturation, resistance growth, electrol

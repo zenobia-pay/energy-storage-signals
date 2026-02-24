@@ -1,0 +1,8 @@
+Title: Interfacial Effects on Solid Electrolyte Interphase in Lithium-ion Batteries
+
+Authors: Zeeshan Ahmad, Victor Venturi, Hasnain Hafiz, Venkatasubramanian Viswanathan
+
+DOI: 10.1021/acs.jpcc.1c00867
+
+Abstract:
+The existence of passivating layers at the interfaces is a major factor enabling modern lithium-ion (Li-ion) batteries. Their properties determine the cycle life, performance, and safety of batteries. A special case is the solid electrolyte interphase (SEI), a heterogeneous multi-component film formed due to the instability and subsequent decomposition of the electrolyte at the surface of the anode. The SEI acts as a passivating layer that hinders further electrolyte disintegration, which is det

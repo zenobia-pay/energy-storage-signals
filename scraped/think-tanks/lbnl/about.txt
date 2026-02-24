@@ -1,0 +1,64 @@
+# Lawrence Berkeley National Laboratory (LBNL)
+# Electricity Markets & Policy Group (EMP)
+# Source: https://emp.lbl.gov
+# Type: National Laboratory (DOE)
+
+## Overview
+The Electricity Markets & Policy (EMP) Group at Lawrence Berkeley National Laboratory
+conducts research on electricity systems, grid interconnection, renewable energy
+deployment, and energy storage.
+
+## Location
+Berkeley, CA
+
+## Key Research Areas
+- Grid interconnection queues and processes
+- Utility-scale solar and storage costs
+- Wind energy economics
+- Distributed energy resources
+- Electricity market design
+- Policy analysis
+
+## Notable Energy Storage Research
+
+### Interconnection Queue Analysis
+EMP tracks and analyzes the national interconnection queue, including:
+- Total GW of solar, wind, storage in queues
+- Completion rates and withdrawal rates
+- Regional variations
+- Queue processing times
+
+Key Finding: Over 2,000 GW in US interconnection queues, majority storage+solar
+
+### Cost Benchmarking
+- Utility-Scale Solar Cost Benchmark
+- Land-Based Wind Market Report
+- Storage cost trends and projections
+
+### Grid Integration Studies
+- Integration of high penetrations of renewables
+- Grid flexibility requirements
+- Storage dispatch optimization
+
+## Key Researchers
+- Joseph Rand - Interconnection queue analyst (@rand_joseph)
+- Ryan Wiser - Wind and solar economics
+- Andrew Mills - Grid integration
+- Mark Bolinger - Cost analysis
+- Dev Millstein - Market analysis
+
+## Notable Publications
+- "Queued Up" - Annual interconnection queue report
+- Utility-Scale Solar Data Update
+- Land-Based Wind Market Report
+- Tracking the Sun (distributed solar)
+
+## Data Products
+- Interconnection queue database
+- Cost benchmarking data
+- Project deployment tracking
+- Policy database
+
+## Funding
+Primarily U.S. Department of Energy
+Office of Energy Efficiency & Renewable Energy

@@ -1,0 +1,6 @@
+Title: The Value of Battery Energy Storage in the Continuous Intraday Market: Forecast vs. Perfect Foresight Strategies
+
+Authors: Timothée Hornek, Youngsub Lee, Sergio Potenciano Menci, Ivan Pavić
+
+Abstract:
+Grid-scale battery energy storage systems (BESSs) can provide flexibility to the power system and capture shortterm price volatility by shifting energy in time through controlled charging and discharging. The highly volatile European continuous intraday (CID) market allows trading until just a few minutes before physical delivery, offering significant earning potential. However, its high trading frequency poses substantial modeling challenges. Accurate modeling of BESSs trading in the CID market

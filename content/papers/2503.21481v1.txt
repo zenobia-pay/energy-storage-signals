@@ -1,0 +1,6 @@
+Title: Stress-driven whisker formation in lithium metal batteries
+
+Authors: Martin Werres, Dariusz Niedziela, Arnulf Latz, Birger Horstmann
+
+Abstract:
+Lithium metal batteries are promising for next-generation high-energy-density batteries, especially when lithium is directly plated on a current collector. However, lithium whiskers can form in the early stages of electroplating. These whiskers lead to low Coulombic efficiency due to isolated lithium formation during stripping. The mechanism of whisker formation is not fully understood, and different mechanisms are proposed in the literature. Herein, we computationally explore a stress-driven ex

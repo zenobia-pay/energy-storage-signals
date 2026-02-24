@@ -1,0 +1,6 @@
+Title: Pressure-tailored lithium deposition and dissolution in lithium metal batteries
+
+Authors: Chengcheng Fang, Bingyu Lu, Gorakh Pawar, Minghao Zhang, Diyi Cheng, Shuru Chen, Miguel Ceja, Jean-Marie Doux, Mei Cai, Boryann Liaw, Ying Shirley Meng
+
+Abstract:
+A porous electrode resulting from unregulated Li growth is the major cause of the low Coulombic efficiency and potential safety hazards of rechargeable Li metal batteries. Strategies aiming to achieve large granular Li deposits have been extensively explored; yet, the ideal Li deposits, which consist of large Li particles that are seamlessly packed on the electrode and can be reversibly deposited and stripped, have never been achieved. Here, by controlling the uniaxial stack pressure during batt

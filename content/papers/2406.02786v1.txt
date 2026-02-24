@@ -1,0 +1,6 @@
+Title: An Existence Theorem for a Model of Temperature Within a Lithium-Ion Battery
+
+Authors: Brock C. Price, Xiangsheng Xu
+
+Abstract:
+In this article we investigate a model for the temperature within a Lithium-Ion battery. The model takes the form of a parabolic PDE for the temperature coupled with two elliptic PDE's for the electric potential within the solid and electrolyte phases. The primary difficulty comes from the coupling term, which is given by the Butler-Volmer equation. It features an exponential nonlinearity of both the electric potentials and the reciprocal of the temperature. Another difficulty arising in the tem

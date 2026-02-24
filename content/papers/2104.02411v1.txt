@@ -1,0 +1,6 @@
+Title: MPC-based Reinforcement Learning for Economic Problems with Application to Battery Storage
+
+Authors: Arash Bahari Kordabad, Wenqi Cai, Sebastien Gros
+
+Abstract:
+In this paper, we are interested in optimal control problems with purely economic costs, which often yield optimal policies having a (nearly) bang-bang structure. We focus on policy approximations based on Model Predictive Control (MPC) and the use of the deterministic policy gradient method to optimize the MPC closed-loop performance in the presence of unmodelled stochasticity or model error. When the policy has a (nearly) bang-bang structure, we observe that the policy gradient method can stru

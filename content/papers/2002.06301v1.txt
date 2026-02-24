@@ -1,0 +1,8 @@
+Title: Optimal Participation of Price-Maker Battery Energy Storage Systems (BESSs) in Energy, Reserve and Pay as Performance Regulation Markets
+
+Authors: Reza Khalilisenobari, Meng Wu
+
+DOI: 10.1109/NAPS46351.2019.9000230
+
+Abstract:
+Motivated by the need of assessing the optimal allocation of battery energy storage services across various markets and the corresponding impact on market operations, an optimization framework is proposed in this work to coordinate the operation of an independent utility-scale price-maker battery energy storage system (BESS) in the energy, spinning reserve and performance-based regulation markets. The entire problem is formulated as a bi-level optimization process, where the structure of all mar

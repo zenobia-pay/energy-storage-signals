@@ -1,0 +1,6 @@
+Title: Joint operation of a fast-charging EV hub with a stand-alone independent battery storage system under fairness considerations
+
+Authors: Diwas Paudel, Luke Wolf, Tapas K. Das
+
+Abstract:
+The need for larger-scale fast-charging electric vehicle (EV) hubs is on the rise due to the growth in EV adoption. Another area of power infrastructure growth is the proliferation of independently operated stand-alone battery storage systems (BSS), which is fueled by improvements and cost reductions in battery technology. Many possible uses of the stand-alone BSS are being explored including participation in the energy and ancillary markets, load balancing for renewable generations, and support

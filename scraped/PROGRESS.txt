@@ -1,0 +1,24 @@
+# Progress Tracking - 10K People Goal
+# Started: 2026-02-19T17:00:00
+
+2026-02-19T17:00:00 | people: 71 | twitter: 165 | source: baseline
+2026-02-19T17:01:22-05:00 | people: 71 | twitter: 165 | source: initial_state
+2026-02-19T17:03:18-05:00 | people:      160 | twitter:      439 | source: twitter_search_batch_1
+2026-02-19T17:04:30-05:00 | people:      337 | twitter:      861 | source: twitter_search_batch_2
+2026-02-19T17:06:32-05:00 | people:      424 | twitter:     1314 | source: twitter_search_batch_3
+2026-02-19T17:07:25-05:00 | people:      521 | twitter:     1950 | source: twitter_search_batch_4
+2026-02-19T17:08:23-05:00 | people:      628 | twitter:     2586 | source: twitter_search_batch_5
+2026-02-19T17:09:03-05:00 | people:      677 | twitter:     2795 | source: twitter_search_batch_6
+2026-02-19T17:12:03-05:00 | people:      821 | twitter:     2795 | source: iesna_conference_speakers
+2026-02-19T17:13:39-05:00 | people:      838 | twitter:     2795 | source: eesi_staff
+2026-02-19T17:15:07-05:00 | people:      884 | twitter:     2795 | source: known_industry_figures
+2026-02-19T17:15:54-05:00 | people:      952 | twitter:     2795 | source: c2es_wri_staff
+2026-02-19T17:16:42-05:00 | people:     1005 | twitter:     2795 | source: more_industry_figures
+2026-02-19T17:17:35-05:00 | people:     1072 | twitter:     2795 | source: energy_innovation_cleanair
+2026-02-19T17:18:18-05:00 | people:     1139 | twitter:     2795 | source: additional_industry_figures
+2026-02-19T17:19:21-05:00 | people:     1197 | twitter:     2795 | source: consulting_analysts
+2026-02-19T17:20:04-05:00 | people:     1267 | twitter:     2795 | source: more_storage_figures
+2026-02-19T17:20:53-05:00 | people:     1347 | twitter:     2795 | source: state_utility_figures
+2026-02-19T17:21:43-05:00 | people:     1434 | twitter:     2795 | source: more_energy_figures
+2026-02-19T17:22:29-05:00 | people:     1515 | twitter:     2795 | source: international_figures
+2026-02-19T17:23:20-05:00 | people:     1614 | twitter:     2795 | source: final_batch_1
