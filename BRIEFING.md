@@ -14,16 +14,19 @@ SEIA dropped the big number: **57.6 GWh installed in 2025** — 4x what was inst
 
 ## Data Center Demand
 
-The dominant demand driver. Hyperscalers are signing multi-GW contracts and FERC is scrambling to figure out interconnection.
+The dominant demand driver. Hyperscalers are signing multi-GW contracts and FERC is scrambling to figure out interconnection. But political backlash is growing.
 
+- [@UtilityDive: Evergy signed **1.9 GW** of contracts with Google, Meta, and Beale Infrastructure](https://twitter.com/UtilityDive/status/2024580633922617545) (Feb 20)
+- [@UtilityDive: **PPL capex jumps 15% to $23B** on transmission, grid hardening; PPL-Blackstone JV in talks with hyperscalers](https://twitter.com/UtilityDive/status/2025988965292032445) (Feb 23)
+- [@WoodMackenzie: AI power demand colliding with **gas turbine supply bottleneck**; renewables, storage, even coal filling the gap](https://twitter.com/WoodMackenzie/status/2024670928731320600) (Feb 20)
+- [@WoodMackenzie: Six US states want to curb data center growth over ratepayer bill impacts](https://twitter.com/WoodMackenzie/status/2024201262183379134) (Feb 18)
 - [FERC + NARUC Collaborative on "affordability as load growth and transmission expansion accelerate in response to rapid AI and other demand growth"](https://twitter.com/FERC/status/2021582959317278761) (Feb 11)
 - [@RosnerFERC: "Getting large load interconnection right is a generational opportunity that's key to winning the AI race"](https://twitter.com/RosnerFERC/status/1981706232756133965)
-- [@RosnerFERC: 2026 priorities — interconnection automation, transmission planning, connect large loads rapidly](https://twitter.com/RosnerFERC/status/2011775683182412246) (Jan 15)
 - [5-0 FERC vote for flexible co-location options in PJM to meet growing demand](https://twitter.com/RosnerFERC/status/2002069234889937155) (Dec 19)
 - [@AriPeskoe via @RKonidena: "Competition is a great way to protect consumers from utilities' data center investments"](https://twitter.com/RKonidena/status/2021698907709841573) (#NARUCWinter26)
-- [@UtilityDive via @RKonidena: Vistra CEO says excess capacity in PJM, ERCOT can accommodate flexible loads](https://twitter.com/RKonidena/status/1987998808966656120)
 - [@SEIA: "Can solar + storage power AI? It already is"](https://twitter.com/SEIA/status/2024128771427611036) (Feb 18)
 - Heron Power (Drew Baglino, ex-Tesla SVP) raised **$140M Series B** (a16z-led) for solid-state transformers targeting solar farms and data centers — [Canary Media tweet](https://twitter.com/CanaryMediaInc/status/2024664096780554498) / [Catalyst podcast deep dive](https://www.canarymedia.com/catalyst-with-shayle-kann)
+- [@publicpowerorg: New report — "What Public Power Needs to Know About Serving Data Centers"](https://twitter.com/publicpowerorg/status/2024877268565110940) (Feb 20)
 
 ## Grid & Utility Demand
 
@@ -64,22 +67,29 @@ NERC flagged MISO as "High Risk" but multiple experts say it's ignoring tens of 
 
 ## Tariffs & Supply Chain
 
-Active tariff wall (Section 301 BESS 25%, components 25%, critical minerals 25%, graphite anti-dumping 93.5%, solar 50%). FEOC phasing in eliminates IRA credits for Chinese-sourced batteries.
+Active tariff wall (Section 301 BESS 25%, components 25%, critical minerals 25%, graphite anti-dumping 93.5%, solar 50%). FEOC phasing in eliminates IRA credits for Chinese-sourced batteries. SCOTUS struck down IEEPA tariffs but Section 301/232 remain.
 
+- **NEW**: [WSJ reports Section 232 tariffs being considered for large-scale batteries](https://twitter.com/gfquadrini/status/2025925107810799943) — would strengthen domestic manufacturing moat (Feb 23)
+- [@flexport: SCOTUS strikes down IEEPA tariffs](https://twitter.com/flexport/status/2024975069718462627) — 165 likes; steel/aluminum/copper tariffs remain (Feb 20)
+- [@climatetech_vc: US tariffs on Chinese Li-ion cells now total **+64.5%** across all provisions](https://twitter.com/climatetech_vc/status/1909289264916885727)
+- [@UtilityDive: 13 state AGs sue over Trump admin termination of energy/infrastructure funding](https://twitter.com/UtilityDive/status/2024942440059150489) (Feb 20)
 - [USTR Section 301 actions](https://ustr.gov/issue-areas/enforcement/section-301-investigations)
 - [Anti-dumping on Chinese graphite — 93.5% preliminary duty](https://www.trade.gov/antidumping-duty-investigations)
 - [IRA 45X: $35/kWh cells, $10/kWh modules for US manufacturing](https://www.irs.gov/credits-deductions/businesses/advanced-manufacturing-production-credit)
 - [IRA domestic content requirements (increasing annually)](https://www.irs.gov/credits-deductions/domestic-content-bonus-credit)
-- [Treasury FEOC guidance](https://home.treasury.gov/policy-issues/inflation-reduction-act)
+- [Treasury FEOC guidance](https://home.treasury.gov/policy-issues/inflation-reduction-act) — [Energy-Storage.news: interim FEOC guidance refers back to existing safe harbour](https://twitter.com/energystoragenw/status/2024101245489926234) (Feb 18)
 - Critical minerals agreements signed: [Japan](https://ustr.gov/countries-regions/japan-korea-apec/japan), [Chile](https://ustr.gov/countries-regions/americas/chile); EU negotiating
 - [Lydian Energy secures $689M for three US BESS and solar projects](https://www.energy-storage.news/lydian-energy-secures-us689-million-for-three-us-bess-and-solar-projects/)
 
 ## Technology
 
+- [ESS Tech acquires VoltStorage GmbH — expanding long-duration iron-salt storage](https://twitter.com/pvmagazine/status/2025925107810799943) (Feb 23)
+- [California CCAs secure LDES contracts from Hydrostor (compressed air)](https://twitter.com/energystoragenw/status/2024484164884713919) (Feb 19)
 - [Moonwatt: distributed sodium-ion BESS architecture](https://www.energy-storage.news/moonwatt-targets-same-disruption-string-inverters-had-in-solar-with-distributed-sodium-ion-bess-architecture/)
 - [NineDot Energy raises big money for small batteries in NYC](https://www.canarymedia.com/articles/batteries/ninedot-energy-raises-big-money-new-york-city)
 - [Catalyst podcast: Drew Baglino on solid-state transformers, silicon carbide, 70%+ of distribution transformers are 30+ years old](https://www.canarymedia.com/catalyst-with-shayle-kann)
-- [@SEIA: "America invented the solar cell but, until recently, did not produce all the materials for a solar supply chain. That's now changed."](https://twitter.com/SEIA/status/2024490655897018394) (Feb 19)
+- [@energystoragenw: Redefining BESS bankability in 2026 — from installed capacity to operational performance](https://twitter.com/energystoragenw/status/2025897742581870824) (Feb 23)
+- [@pvmagazine: Solar LCOE to fall 30% by 2035 per BloombergNEF](https://twitter.com/pvmagazine/status/2025910168425570599) (Feb 23)
 
 ## Key Accounts to Watch
 
@@ -94,6 +104,11 @@ Active tariff wall (Section 301 BESS 25%, components 25%, critical minerals 25%,
 | [@ThinkWithSaurav](https://twitter.com/ThinkWithSaurav) | BESS technical analysis | Due diligence, supply chain |
 | [@robinsonmeyer](https://twitter.com/robinsonmeyer) | Heatmap / Shift Key | Tariffs, climate economics |
 | [@rtoinsider](https://twitter.com/rtoinsider) | RTO/ISO market news | MISO load growth, PJM |
+| [@UtilityDive](https://twitter.com/UtilityDive) | Utility industry news | Evergy 1.9 GW, PPL $23B, NJ reform |
+| [@WoodMackenzie](https://twitter.com/WoodMackenzie) | Research/forecasts | Gas turbine bottleneck, data center curbs |
+| [@energystoragenw](https://twitter.com/energystoragenw) | Global BESS trade pub | Bankability, FEOC guidance, LDES |
+| [@TKavulla](https://twitter.com/TKavulla) | Regulatory/markets | Data center interconnection, DOE 202c |
+| [@flexport](https://twitter.com/flexport) | Trade/tariff intel | SCOTUS IEEPA ruling, tariff calculator |
 
 ---
 
