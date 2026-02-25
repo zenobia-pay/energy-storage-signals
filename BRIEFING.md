@@ -112,4 +112,18 @@ Active tariff wall (Section 301 BESS 25%, components 25%, critical minerals 25%,
 
 ---
 
+## How This Was Made: Claude Code for Web as a Research Tool
+
+When dealing with excessively large data sets, the go-to toolkit is vector embeddings and RAG. However, this has the problem of missing things — usually because the top-level embedding is narrower in its surface area than its subcontent. For example, if you embedded gigabytes of tweets, you might vector-embed the accounts and what they're talking about, but then miss a tweet that discusses an unexpected concept. Or the axis of embeddings — the feature set — misses features in the language entirely.
+
+For medium-sized data sets (anything that fits on a file system on a standard laptop), my preferred approach is to skip embedding altogether: download the entire contents of the data set onto disk, then run Claude Code over it with a goal in mind.
+
+The reason is that Claude Code will iterate over tons of different greps to shape the data in different ways. Since you haven't had to force any structure on the data — you haven't had to define columns or a format — there are no assumptions baked in. This freedom allows discovery of structure that might be counterintuitive and that you wouldn't have found otherwise.
+
+With Claude Code for Web, any data set that fits in a GitHub repository can immediately be spun up in a container to do this kind of research over.
+
+![Briefing on mobile](briefing-screenshot.png)
+
+---
+
 *Built from 390+ signals. Full database: people.jsonl (1,614), twitter-accounts.jsonl (2,807), papers.jsonl (2,301), tariffs.jsonl (17 actions), government-docs.jsonl (23).*
