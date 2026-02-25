@@ -126,4 +126,8 @@ With Claude Code for Web, any data set that fits in a GitHub repository can imme
 
 ---
 
+## [Other networks outside what's now called the internet](https://othernetworks.net/)
+
+---
+
 *Built from 390+ signals. Full database: people.jsonl (1,614), twitter-accounts.jsonl (2,807), papers.jsonl (2,301), tariffs.jsonl (17 actions), government-docs.jsonl (23).*
